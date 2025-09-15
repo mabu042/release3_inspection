@@ -6,11 +6,11 @@ empty/1"	"lang correct?
 				"Sitiw jɔ teliya la, minnu bɛ jaabi di ni Bootstrap ye
 Baarakɛminɛn barikama, min bɛ se ka bonya, ani min falen bɛ fɛn caman na, o ye ɲɛfɛla baarakɛminɛnw ye. Aw bɛ jɔ ani ka fɛnw labɛn ni Sass ye, ka baara kɛ ni grid system ni a yɔrɔw ye minnu jɔra ka kɔn, ani ka porozɛw lase ɲɛnamaya ma ni JavaScript plugins barikamaw ye.
 Bootstrap ka source Sass ani JavaScript filew sigi sen kan npm, RubyGems, Composer, walima Meteor fɛ. Package managed installs tɛ sɛbɛnw walima an ka jɔli sɛbɛnni dafalenw Sɔr
-... 
+... (1534 chars skipped) ... 
 tfɛn caman sɛgɛsɛgɛli ye walasa ka cogoya kura sɛbɛn. CSS bee be baara Kɛ ni var(--bs-variableName)sintasi ye wa u bɛ Se ka ciyɛn Sɔrɔ denmisɛnw ka fɛnw fɛ.
 Aw bɛ diɲɛ, yɔrɔ, walima nafalan kalasi fɛn caman sɛgɛsɛgɛli kɛ walasa ka Bootstrap labɛn i n’a fɔ i b’a fɛ cogo min na. Wajibi tɛ ka sariya kelen-kelen bɛɛ fɔ kokura, fɛn caman bɛrɛbɛrɛ nafa kura dɔrɔn de don.
 Ko kura Bootstrap 5 kɔnɔ, an ka nafamafɛnw bɛ Sɔrɔ sisan an ka Nafamafɛnw API fɛ . An y’a jɔ i n’a fɔ Sass karti min falen bɛ fɛn ca
-...
+... (1534 chars skipped) ...
 tstrap yɛrɛ ye walima i tɛ baara kɛ ni min ye. Baara kɛ n’u ye i n’a fɔ SVGw walima taamasiyɛn sɛbɛnnibolow—o sugandi fila bɛɛ bɛ vektɔri sɛgɛsɛgɛli di i ma ani ka i yɛrɛ ladamu nɔgɔya CSS fɛ.
 Aw k'a kɛ aw ta ye ni Bootstrap Themes ofisiyaliw ye
 aw bɛ Bootstrap ta ka taa sanfɛ ni barokun ɲumanw ye ka bɔ Bootstrap barokunw suguba ofisiyali la . Barokunw bɛ jɔ Bootstrap kan i n’a fɔ u yɛrɛ ka karamɔgɔya janyalenw, minnu falen bɛ fɛn kuraw ni fɛn kuraw la, sɛbɛnniw, ani jɔli baarakɛminɛn barikamaw."	60c0c568307b34d31729390bb46fee95
@@ -36,13 +36,13 @@ Aw y'a lamɛn. O kuma kan nunnu bayɛlɛma Seydou ABOUBACAR fɛ."	b6345a18cf2a48
 Laseli An bɛ taa Abobo, Abidjan, Côte d'Ivoire faaba la, ka taa talikɛ farikoloɲanajɛ kɛnɛ dɔ la Farikoloɲanajɛ ani seko ni dɔnko kɛnɛba dɔ dayɛlɛnna Abobo kin na Abidjan, nin y’a dɔgɔkun fila. O kɛnɛ tɔgɔ ye Agora. A lɔ la Côte d’Ivoire ni Faransi ka baara-ɲɔgɔnya siratigɛ de la. A bonya ye ɛkitari wɔrɔ ni kɔ, wa Abobokaw mako tun bɛ nin kɛnɛ sugu la. Muhamed Lameen ye yen farikoloɲanajɛkɛlaw ni sifinw ka ninmisi-wasa tɔmɔ an ye.30/05/2023 05:15
 -
 Laseli An bɛ
-... 
+... (131 chars skipped) ... 
  bɛ ɲɔgɔn sɔrɔ Baro kɔɔ jɛgɛminɛ na. Jɛgɛminɛ dɔrɔn tɛ, mɔgɔw bɛna fana n'u ka laɲiniw ye, k'u da falen yɔrɔ in na, n'u makow ɲɛnɛbɔra u b'u kɔsegin kana ni dafalenfɛnw ye.29/05/2023 05:43
 -
 Laseli An ka bi laseliba laban Wagner kan, bɛ kuma u ka see sɔrɔ jatew de kan farafin jamana dɔw kɔnɔ I n'a f'an tun y'a lase cogomin kabi dɔgɔkun daminɛ Na, bi y'an ka laseliba duurunan n'a laban ye Russie ka kɛnyɛrɛye sɔrasi kulu Wagner de kan.26/05/2023 05:18
 -
 Laseli Bi, an bɛ kuma Wagner ka fagali jalak
-...
+... (131 chars skipped) ...
 ye. U ɲ'a cogo, u ka nafolosɔrɔcogo n' u ka yɛrɛmandiya kanw tɛmɛnen kɔ, bi an bɛ na kuma Wagner ka fagali jalakilikanw de kan farafinna, baɲumankɛtɔnw ni hadamadenw ka hakɛko sɛgɛsɛgɛlikɛlaw fɛ.25/05/2023 05:29
 -
 Laseli An ka bi laseli Wagner kan farafinna, bɛ kuma u ka kunnafonikolow cari de kan An bɛ taa ɲɛ n'a ka laseli ye Wagner kunkan farafinna. Kunu ta tun bɛ Wagner ka wari sɔrɔ cogo w de kan farafinna. Boi an bɛ kuma u ka kunnafonikolow carili de kan, o min kɔlɔlɔ tan tɛ.24/05/2023 05:40"	cb6cb31596d6584fc457638daf1ebaec
@@ -100,7 +100,7 @@ kuluntolantan in bonni ma ke ko goman ye Mali ma. U si ni Kɔnɔwari, Marɔku an
 kuluntolantan na. Nka, o n’a ta bee, a be se ka ke a tena ke ntɔnjalantɔmɔ ye Samatasegew ɲemɔgɔ Hamari Tarawele n’a tɔɲɔgɔnw bolo ; sabula u bena sinaya
 saman kosebe ni Tunizi ani Afirikidisidi ye kuluntolantan in na. Ka da a kan
 sebenw 
-... 
+... (886 chars skipped) ... 
  kɔnɔ : Abijan, Yamussokɔrɔ, Buwake, San-Pedoro ani Korogo. Mali
 n’a ka kulu jamana tɔw dagayɔrɔ ye Korogo ye. A ntolantanw bena ke Amadu Gɔn Kulubali tɔgɔlafarikoloɲenajekeyɔrɔ la. Mɔgɔ 20.000 be se ka don yen.
 NTOLANTANKULUW
@@ -118,17 +118,17 @@ Angola
 Kulu E
 (Korogo) : Tunizi, Mali,
 
-...
+... (886 chars skipped) ...
 ) sigili senkan, o ɲebila-poroze ani a jamanakuntigiw ka laje lataamasariya fesefesera ka ben u kan. Seben ninnu donna Mali jamanakuntigi Koloneli Asimi Goyita, Burukina Faso jamanakuntigi Kapiteni Ibarahimu Tarawele ani Nizeri jamanakuntigi.
 Ciden minnu be Malidenw yere dama ce sigikafɔba kene kan, u y’a ŋaniya kumaɲɔgɔnya sigikafɔ in da ka yele kojugubakelaw ye, ka silamediine dungew don an n’u ce kɔrɔfɔw la. U y’a ɲinin fana, ko ka kuranko geleya furake joona walasa hakilisigi ka na mɔgɔw la."	50e7f10f92c9bb86f724f9d7f5e176d2
 				"Namibiya bɛ ka tariku sebaaya seli kɛ a ka kɛlɛ la ka ɲɛsin sidabanakisɛ ni sugunɛbilenni banakisɛ jɛnsɛnni ma ka bɔ den na, ka kɛ misali ye Afiriki ni diɲɛ kɔnɔ.
 Namibie bɛ ka seli kɛ! Diɲɛ kɛnɛyatɔnba (OMS) ye nin Afiriki saheliyanfan jamana in tanu sisan, k’a sababu kɛ a ye fɛɛrɛ tigɛ min ɲɔgɔn ma deli ka kɛ, banakisɛ jugu fila kɛlɛli la: sidabanakisɛ ni sugunɛbilenni B. Miiri k’a filɛ, Namibiya ye Afiriki jamana fɔlɔ ye min ye nin wale sugu kɛ !
 San caman kɔnɔ, sidabana ni sugunɛbilenni ye t
-... 
+... (183 chars skipped) ... 
 nɛyaso minnu tɛ se ka sɔrɔ ka ɲɛ, sigidamɔgɔw ka bɛnbaliya, ani fɛn caman wɛrɛw. O bɛɛ ye sidabana ni sugunɛbilenni B tali nɔgɔya ba la ka taa den na.
 Nka Namibi jamana ka gɔfɛrɛnaman ma a dabila. Duniya ni sigida jɛɲɔgɔnw ka dɛmɛ fɛ, a ye walew waleya walasa ka bana ninnu kɛlɛ. A ye nafa caman di sidabana ni sugunɛbilenni kunbɛnni, a sɛgɛsɛgɛli ani a furakɛli ma.Wa a kɛra baara ye!
 Porogaramubaw sababu la, denbaw sera ka ladonni nafamaw sɔrɔ u kɔnɔmaya waati la. U ye sidabana sɛgɛsɛgɛ, ka laadi
-...
+... (183 chars skipped) ...
 kɛ O ye dɔ bɔ tiɲɛ na u ka nin banakisɛ ninnu sɔrɔli la.
 OMS kabakoyara kosɛbɛ Namibi jamana ka ɲɛtaa la fo a y’a fɔ ko jamana sera ka sidabanakisɛ ni sugunɛbilenni bali ba ni den cɛ. Nin ye sebaayaba ye dɛ!
 OMS ka dɔgɔtɔrɔ Matshidiso Moeti y’a jira ko tariku waati don Namibi jamana bolo. A ye jamana tanu a ka cɛsiri la walasa ka mɔgɔw kisi.
@@ -143,11 +143,11 @@ Mauritanie jamana min kɔnɔ sifin ""CAN"" in bɛ ka tan, a ka dɔlantan kulu se
 				"Dɔkala Yusufu Jara
 Sahelikungo jamanaw ka jekulu (kɔnfederasɔn) sigili senkan, o ɲebila-poroze ani a jamanakuntigiw ka laje lataamasariya fesefesera ka ben u kan. Seben ninnu donna Mali jamanakuntigi Koloneli Asimi Goyita, Burukina Faso jamanakuntigi Kapiteni Ibarahimu Tarawele ani Nizeri jamanakuntigi.
 Ciden minnu be Malidenw yere dama ce sigikafɔba kene kan, u y’a ŋaniya kumaɲɔgɔnya sigikafɔ in da ka yele kojugubakelaw ye, ka silamediine dungew don an n’u ce kɔrɔfɔw la. U y’a ɲinin fana, ko ka
-... 
+... (39 chars skipped) ... 
 ilisigi ka na mɔgɔw la.
 Faso tɔgɔla sigikafɔba min daminenen file, o bena ke sababu ye Malidenw ka kumaɲɔgɔnyaw ke u ni ɲɔgɔn ce ka furaw dajira geleya kofɔlenw na. A ka kan ka se ka hadamadenya juru caanin an ce, ka dɔ fara ku-ɲɔgɔn-kan fanga kan ani ka na ni ben kutaala jan ye..
 Furancelafanga jamanakuntigi Koloneli Asimi Goyita ye laseli ke tarata awirilikalo tile 30 san 2024, ko gɔferenaman be sene kefen minnu di, temen be ke n’o ye. O siratige la, angere (ire) kg50 bɔre ye sefawari dɔrɔme b
-...
+... (39 chars skipped) ...
 finnɔgɔ kg50 .
 San o san mekalo tile 1lɔ ye baarakelaw tɔgɔladon ye diɲe kɔnɔ. O hukumu kɔnɔ, Mali baarakelaw lafasatɔn minnu be UNTM jekuluba kɔnɔ, olu ye yerejirataama ke jamana ka yeremahɔrɔnya keneba kan. A kera kene ye, min kɔrɔfɔw bolila hadamadenya basigili ni ɲetaa laɲini.
 Mali sɔrɔdasiw ye kojugubakela Hugo faga Indelimani keledaga la Gawo mara la. Kabini Mali y’a ŋaniya k’a meru don Irisijamana na sɔrɔdasiko nasira la, an ka lakananbaaw b’a la ka sebaayaw sɔrɔ dɔrɔn kojugubakelaw kan.."	9670cce71a137afd27d20169dc45d14e
@@ -156,19 +156,19 @@ Joginda sugu bɛɛ bɛ se ka juguya, a belebele ni a fitini. O la, joginda bɛɛ
 Aw mako tɛ banakisɛfagalan na, a dɔw bɛ joginda kɛnɛyali lasumaya. Ni joginda nɔgɔlen don kosɛbɛ, aw bɛ a ko ni safinɛji ye fɔlɔ ka tila ka a sananko ni ji caman ye.
 Aw bɛ golo wulilen bɛɛ kɔrɔla ko. Ni joginda ka dun, aw bɛ ji kɛ pikiribiɲɛ dɔ kɔnɔ ka a ko ni o ye.
 Walima aw bɛ pikiribiɲɛ biɲɛ bɔ a la ka ji suuru joginda kɔnɔ. Walima aw bɛ ji caman kɛ joginda kan walima
-... 
+... (2364 chars skipped) ... 
 .
 Garikun siricogo ɲuman:
 Joginda minnu ka dun, olu da ka kan ka bila fiɲɛ na walasa u ka kɛnɛya. Ni joginda ma datugu ka ɲɛ, nɛ ka teli ka don a la. Joginda jugumanbaw, kasabɔlenw ani joginda minnu kalalen don, olu ka kan ka ko ni jikalan ye don o don siɲɛ fila. Aw bɛ u dayɛlɛ ka bila fiɲɛ na walasa u ka kɛnɛya joona.
 Joginda minnu ka dun, olu bɛ se ka tetanɔsibana (Jaŋɔyin / nɛgɛtigɛbana) bila mɔgɔ la, (aw ye sɛbɛn ɲɛ Tetanɔsi (Jaŋɔyin / nɛgɛtigɛbana) lajɛ). Ni a bɛ mɔgɔ min na, o tigi ka kan 
-...
+... (2364 chars skipped) ...
 gɔya ani ka kɛnɛya ka taa teliya la, aw ka kan ka banakisɛfagalanw di banabagatɔ ma: i n’a fɔ dikulɔkisisilini (dicloxacilline) sɛbɛn ɲɛ Dikulɔkisisilini, Dicloxacilline, sefalɛkisini (céphalexine) sɛbɛn ɲɛ Sefalɔsiporiniw, Cephalosporines, walima kilindamisini (clindamicine) sɛbɛn ɲɛ Kilindamisini, Clindamycine. Ni joginda ka dun, aw bɛ tetanɔsiboloci kɛ a la (ɲɛ Tetanɔsifura (nɛgɛtigɛbanafura) lajɛ).
 Ni joli tɛ ka nɔgɔya, banakisɛ bɛ se ka yɛlɛn joli fɛ. A bɛ fɔ o ma ko banakisɛ donna joli la."	441ac3780bbc323ca15d079e687c34dc
 				🇲🇱Jɔrɔnanko don Mali kɔnɔ, marifatigi kulu minnu bolonɔ bilala hɛrɛ bɛnkan na, olu y’u ka sɔrɔdasi labɛnw jira kɔsa in na, ka jaabi di junta ma min bɛ fanga la Bamakɔ. Nin kuma in bɛ haminankow lawuli kɛlɛw bɛ se ka daminɛ kokura. Stratégique permanent (CSP), n’o ye nin kulu ninnu fara ɲɔgɔn kan, o ye kunnafoni dɔ bɔ k’a ɲini siwiliw fɛ, u k’u yɔrɔ janya sɔrɔdasi sigiyɔrɔw ni baarakɛyɔrɔw la. Walasa ka kunnafoni wɛrɛw sɔrɔ Kadiatou Traore ye ɲɔgɔn sɔrɔ Nouhoum Togo, lakana ni politiki sɛgɛsɛgɛlikɛla.	a2e492ac41b4d0306c8da98b41d61b10
 				"1Wo le ya a to, ma ara tonyɛ minnu namɔɛn, ma ni wonu bira gben! Wo si a ma, ma ti porokɔlɔ ka bɔ a rɔ. 2Alla ya tɔn minnu di ma benbanu ma melikanu baraka rɔ, wonu gbɛlɛ ma kuma. Ado minnu ma tagama iko tɔn wo ya a fɔ nya min, a kakɛn, a ni tɔrɔyɛ min nyɔgɛ sɔrɔn, a si wo sɔrɔn. 3Min tenbira wo la, ma Mari Yisa nyɛrɛ fɔlɔn ya kisi-koe min nabɔ gbɛ rɔ ma ye, ni ma ma ma tole masɔ kisi-ko-wɛ wo la, ma kunyɛ si bɔ a rɔ kama? Minnu ya a lamɔɛn, wonu ya a yira ma la ko tonyɛ le. 4Wo wati nyɛrɛ rɔ, A
-... 
+... (622 chars skipped) ... 
 kɔrɔ feu! Kɔnɔ ma sa ale yenna kun-tigiyɛ kɛla fan bɛɛ kun na kaka. 9Kaka, ma ye Yisa le yenna mansayɛ kɛla bonyɛ anubɛ gbiliyɛ rɔ ka a tɛgɛ ata saya-tɔrɔyɛ ma. Melikanu tenbira a la nun wati-kunduni kɔrɔ alako a si faga mɔgɛ bɛɛ ye nya min Allata hinɛ baraka rɔ. 10Ado Alla min bi dali-mansɛ la, a bɛnta ko a ni Yisa lakanbali tɔrɔyɛ fɛ. A ya wo ma alako Allata den siyamɛnu si ata gbiliyɛ sɔrɔn a fɛ nya min. Ado Yisa le sɔra anu yarɔ anu kisi-koe la. 11A ye mɔgɛnu sɛninyala ka anu bɔ anuna hakɛnu
-...
+... (622 chars skipped) ...
 ayɛ ma nun, ma mani de nun iko yɔɔnnu sayɛla kilan kɔrɔ. 16Ado a gbɛnɛ ko Yisa ma na melikanu dɛnbɛn tinɛ bawo a sɛbɛnɛ Allala kitabu rɔ ko, “A ye Iburayima bɔnsɔnnu denu dɛnbɛna.” 17Woletɔ fɔ a ni ma iko male, a na kelen nyɔgɛnu, koe bɛɛ rɔ. A ni wo ma alako a si kinikini ma ma nya min ka wɔli Alla ye a yisi bɛɛ la. A mara mala saraka-masɔla-kun-tigi-wɛ la min kɛ, a ya sarakɛ bɔ ma ye ma hakɛnuna ko la. 18Nba, minnu bi magbɛrɛnkɛ rɔ kaka, a si ke wonu dɛnbɛna bawo a nyɛrɛ magbɛrɛnkɛnta ka tɔrɔ."	7cec403c740057620c9a6df38d3756be
 				"Haïti jamanakuntigi ka saya, mɔgɔ caman y'u fɛla fɔ a fagacogo kan, dɔw ye wale in kɔn
 A jɛnsɛnna :
@@ -187,7 +187,7 @@ o hake ye 21 y’u cela. A tɔ 4 ke ntolantanw na kɔkan.
 Sumayila
 Kulubali ka fɔ la, ntolantan sariya de be jamana bee wajibiya
 ni ntolantanna 21 ye kene kan. Nk
-... 
+... (1289 chars skipped) ... 
 nguine Sidibe (Centre
 sportif de Bamako), Seriba Dunbiya (Centre sportif de Bamako).
 Kɔfemɔgɔw : Usumani Senpara (Étoile du Mandé), Bayi Kulubali
@@ -200,7 +200,7 @@ Cemancelamɔgɔw : Musa
 Masire Jɔpu
 (Guidars FC), Usumani Cerɔ (ASB), Modiba Sisɔkɔ
 (Guidars FC), 
-...
+... (1289 chars skipped) ...
 akilijakabɔko la, u bee y’o jaabi.
 Jamanakuntigi Koloneli Asimi Goyita ye denmisenw ka sɔrɔdasiya kalan kalandenkulu 4nan bɔli laje ɲemɔgɔya ke. A y’a jira k’u bena dɔ fara fasoden ɲuman hake kan jamana ka feere bolodalenw waleyali siratige la lakananni hukumu kɔnɔ..
 Jamanakuntigi Koloneli Asimi Goyita ye denmisenw ka sɔrɔdasiya kalan kalandenkulu 4nan bɔli laje ɲemɔgɔya ke. A y’a jira k’u bena dɔ fara fasoden ɲuman hake kan jamana ka feere bolodalenw waleyali siratige la lakananni hukumu kɔnɔ.."	47466b528253bdcd2c6336354c552fc9
@@ -229,7 +229,7 @@ A tɔ Kàlan
 2022 sàn zuwɛnkalo tile 1, Màli y'a ka kὲlɛkɛ-pankurun CASA C295 Sɔ̀rɔ, pankurun min ni a tùn balannen Dòn ...
 A tɔ Kàlan
 A bɛ waati jan Bɔ, Mali ni Irisila jàmana ka baaraɲɔgɔ
-... 
+... (247 chars skipped) ... 
 ogo la. Màralikɔnɔ Dòn. ...
 A tɔ Kàlan
 Sònsan Ye ‘sògomisɛnnin ye min tlo ka jàn k’a kɔsenw Jànya ni ɲɛsenw ye. A Lamàrala màaw fὲ so ‘kɔn...
@@ -239,7 +239,7 @@ A tɔ Kàlan
 Malawi Ye ‘jàmana ye min Bɛ fàrafinna wòrodugu n’a kɔrɔnyanfan fɛ. A faaba Ye Lilɔngwe ye. Malawi ni Tanzani...
 A tɔ Kàlan
 Libi Ye fàrafinna kὲɲɛkafɛjamana dɔ ye, min faaba Ye Tripoli ye. Libi jàmana ni cɛmancɛgeji bɛ Dànbɔ kὲɲ...
-...
+... (247 chars skipped) ...
 ɔ Kàlan
 Kodɔn jàmana, ‘dònda kelen, ‘bɔda kelen Jàmana denw kumana, jàmanako Tɛ ‘tlon ye Bὲnso ka di, nkà nalo...
 A tɔ Kàlan
@@ -253,11 +253,11 @@ A tɔ Kàlan"	03b3da5e6dd00ba3d795468a311904af
 A jɛnsen na :
 Kabi ni koronabana bɛ diɲɛ kɔnɔ, jamanaw b'o cɛsirila halibi walasa k'a kɛlɛ. Ni seebajamanaw bɛ ɲɔngɔndan na bolocifura ko ra, farafin jamana fana b'o damana ko kɛra walasa ka bana in kɛlɛ u ka cogoya ra. O sababu la, cakɛda fila ye jamanaw faraɲɔgɔn kan koronabana kɛlɛ cogo ra. O cakɛdaw ka fɔ la Sénégal ni Rwanda ye ngwanaw ye korona ɲɛkɔrɔtigɛ fɛɛrɛw baaracogoya ra.
 ""Etats-Unis"" ka kunnafoni di gafe ""USA to da
-... 
+... (104 chars skipped) ... 
 iɲɛ kɔnɔn. A y'o kibaruya cari septembre kalo tile 6 san 2020 na.
 Kunnafonidi gafe in ko Sénégal ye sebaya sɔrɔ jamanaba dɔw ɲɛ, i n'a fɔ ""Etats-Unis"" o min ye lɔyɔrɔ bisaba ni kelen na sɔrɔ.
 Sénégal ye nin sɔrɔ a ka koronabana ɲɛkɔrɔtigɛ fɛɛrɛw le sababu ra. O fɛɛrɛ ye kunnafoni jɛlen carili ye koronabana ɲɛkɔrɔtigɛ cogo ra, ka dunanjigiso bila kɛnɛya baarakɛlaw bolokɔrɔ walasa ka mɔgɔ sigatɔw datugu yani sɛgɛsɛgɛliw ka kɛ o kan. Jamanaɲɛmaaw ye sɛgɛsɛgɛli fɛɛrɛ ta jona fana wa o jabi fana bɛ s
-...
+... (104 chars skipped) ...
 ɔ. O cakɛda ye ""Institut LOWY"". A ka jabiw kɔ Rwanda jamana bɛ lɔyɔrɔ wɔɔrɔna na diɲɛ kɔnɔ, Togo gun ni b'o la, ka Tunisie jamana tugu o kɔ.
 ""Institut LOWY OF SYDNEY"" y'a ka dantigɛliw kɛ ni jateminɛ minnu ye, o bɛ dan janvier kalo, san 2020. O ye jamana 100 jateminɛ, jateminɛ cogo 6 kan. O jateminɛw ye banabagatɔ kuraw hakɛ ye, maa minnu fatura koronabana sababu ra, olu hakɛ, ani fɛɛrɛ minnu taara walasa mɔgɔw ka se k'o yɛrɛ sɛgɛsɛgɛ.
 Diɲɛ kɛnɛya tɔnba, OMS, ma a ka fɛla fɔ fɔlɔ ni ko ninnu na."	a9321a72af461fec6ce92c864b62c5f9
@@ -286,7 +286,7 @@ A tɔ Kàlan
 Fàrafinna tlèbinyafan tɔnba kelen ‘kɔ kà ɲàngelibere Da Màli ‘kun k’a sababu Ke tὲmesennafanga waati ...
 A tɔ Kàlan
 Bi juma, 2022 sàn awirilikalo tlè fɔlɔ, diinɛko ni bàtoko
-... 
+... (254 chars skipped) ... 
 e. Libi jàmana ni cɛmancɛgeji bɛ Dànbɔ kὲɲ...
 A tɔ Kàlan
 Liberiya jàmana Bɛ fàrafinna tlèbinyanfan fɛ, a faaba Ye Moronfiya ye. A kὲɲɛkayanfa fɛ, a ni Seraliyɔni ni G...
@@ -296,7 +296,7 @@ A tɔ Kàlan
 Kodɔn jàmana, ‘dònda kelen, ‘bɔda kelen Jàmana denw kumana, jàmanako Tɛ ‘tlon ye Bὲnso ka di, nkà nalo...
 A tɔ Kàlan
 Aa, dajew Benbace, Komo saraman kan jan Komo julage ni komo dalage, Komo nàkan kon
-...
+... (254 chars skipped) ...
 màaw fὲ so ‘kɔn...
 A tɔ Kàlan
 Feere de bɛ Yὲlɛma kà Kɛ den ye falefɛn-feereta fànba la. Bange ‘kɔ fὲ, a bɛ Funti kà Kɛ den ye kìsɛ B...
@@ -313,12 +313,12 @@ O magobaɲɛ in kama an ye fali fɛ, an ka kan ka fali ladon. An ka kan ka dumun
 Publicités"	85c0458031d140571ba8b560acd05e66
 				"Mali bulonba kɔnyejekulu ka ɔkutɔburukalo in sigili senfe, u bee jenna ni sariya n° 2023-25/PT-RM ye, min tara setanburukalo tile 29 san 2023, n’a be wele Liputako-Guruma benkan. O min bolonɔbilala Bamakɔ setanburukalo tile 16 san 2023 Mali, Burukina Faso ani Nizeri fe. Benkan in tubabukan daɲe surun ye (AES) ye. Mali kera jamana fɔlɔ ye k’a bolonɔbila.
 Wa a hakilila bɔra Mali kɔkankow minisiri Abudulayi Jɔpu de la. O de kosɔn a tun be bulonba kɔnseyejekulu ɲekɔrɔ k’a kɔkɔrɔmadon kunun ɔkutɔburu
-... 
+... (2062 chars skipped) ... 
 a ke an yere sago ye.
 Abudulayi Jɔpu ka fɔ la, nin y’a siɲe fɔlɔ ye Afiriki kɔnɔ, jamanaw ka je ka yerelakanan feere sigi senkan u yere ma, ka laban k’a jira, ko ni bin kera o tɔndenjamana kelen kan, a b’i n’a fɔ bin kera tɔndenjamana bee kan.
 Liputako-Guruma benkan laɲinin ye foroba lakanan ni kɔlɔsili sira dɔ cili ye an ni ɲɔgɔn ce, sigidalamɔgɔw ka lafiya kama. Jamana saba ninnu b’u sinsin benkan in kan, kojugubake keleli siratige la u koorilamini kɔnɔ.
 A be dabɔ fana, murutili min be se ka f
-...
+... (2062 chars skipped) ...
 finnɔgɔ kg50 .
 San o san mekalo tile 1lɔ ye baarakelaw tɔgɔladon ye diɲe kɔnɔ. O hukumu kɔnɔ, Mali baarakelaw lafasatɔn minnu be UNTM jekuluba kɔnɔ, olu ye yerejirataama ke jamana ka yeremahɔrɔnya keneba kan. A kera kene ye, min kɔrɔfɔw bolila hadamadenya basigili ni ɲetaa laɲini.
 Mali sɔrɔdasiw ye kojugubakela Hugo faga Indelimani keledaga la Gawo mara la. Kabini Mali y’a ŋaniya k’a meru don Irisijamana na sɔrɔdasiko nasira la, an ka lakananbaaw b’a la ka sebaayaw sɔrɔ dɔrɔn kojugubakelaw kan.."	b5ac9a7982bfcb85a7212fcb85344af4
@@ -326,14 +326,14 @@ Mali sɔrɔdasiw ye kojugubakela Hugo faga Indelimani keledaga la Gawo mara la. 
 Apres sa visite au Mali, le premier ministre de transition du Niger, Lamine Zeine était au Burkina Faso pour..."	0631f24d46a52a5296e0e933a57804f7
 				"Faransi Tlebi Afiriki ( AOF ) tun ye gɔfɛrɛnamanba ye min tun bɛ fara ɲɔgɔn kan jɛkulu kelen kɔnɔ Faransi ka koloni 8 kɔnɔ Afiriki tilebinyanfan fɛ san 1895 ni 1958 cɛ .
 A sigira sen kan dakun caman na, a labanna ka Moritani, Senegali, Faransi Sudan (bi Mali ), Gine, Kɔdiwari, Nizɛri, Sanfɛ Volta (bi Burkina Faso ) ani Dahomey (bi Benin ) fara ɲɔgɔn kan. A bonya tun ye kilomɛtɛrɛ kɛrɛnkɛrɛnnen Modèle:Unité ye, o bɛ se ka kɛ Faransi ta ye siɲɛ wolonwula ɲɔgɔn . A faaba tun ye Saint-Louis (Senegal
-... 
+... (3528 chars skipped) ... 
  waati la [ ref. wajibiyalen don ] . .
 O kɔfɛ, Kɔdiwari, Nizɛri, Vɔlta sanfɛla ani Dahomey ye Union Sahel-Benin ani Conseil de l’Entente sigi senkan min ma mɛn.
 Sɔrɔ[yɛlɛma | modifier le wikicode]
 San 1930 waatiw la, mɔgɔ 2 dɔrɔn de % jamanadenw bɛ baara kɛ sara kama.
 K’a sababu kɛ jatebɔw ye minnu tɛ se ka da u kan caman na, san hakɛ dɔ yɔrɔ fitinin dɔ ye sɔrɔdasi baara kɛ min man di mɔgɔw kosɛbɛ, o min, fɛn wɛrɛw cɛma, ye baarakɛjɛkuluw di foroba nafa porozɛw ma
 Sɛnɛko siratigɛ la[yɛlɛma | mod
-...
+... (3528 chars skipped) ...
 t Gouraud la, o tun ye Villa-Cisneros ye min bɛ Ɛsipaɲi Sahara . A tun bɛna kɛ wajibi ye ka nɛgɛso kilomɛtɛrɛ Modèle:Unité jɔ walasa ka Rio de Oro tɛmɛ, o kɔfɛ, ka ji jugu kurunbonkariyɔrɔ dɔ da ex nihilo Nouakchott walima Port-Étienne walasa ka jago kɛ ka taa ni a ye. Ka fara o kan, gɛlɛyaw tun bɛ ji ni kuran na.
 - M. Fallex et A. Mairey, La France et ses colonies (classe de première), Delagrave, 1926.
 - Pierre Montagnon, La France coloniale, tome 2, Pygmalion-Gérard Watelet, 1990, pages 60-63."	c925cf2fa4dc3c4d216e7d3064558157
@@ -352,7 +352,7 @@ ni karti bayelemana ka taga ni kanw la: Arabu kan - bosni kan - Vietnami kan - G
 Dorokoli
 Лɛfɔli
 Dorokoli Лɛfɔra Introduction à la lexicologie, sémantique et morphologie (2008, ɲ.217) kɔnɔ Aliz Lehmann ani Franswaz Martɛn-Bɛrtɛ fɛ tan: ""la composition consiste à former un mot en assemblant deux ou plusieurs mots"" - dorokoli ye daɲɛ kelen dlali ye ni daɲɛ kelen wali daɲɛ caman farali ye ɲɔgɔn kan. Ni dorokoli Bolila daɲɛ minnu kan, a bɛ daɲɛ min Di o bɛ Weele ko daɲɛ dorokolen. David Cristal ka gafe sɛbɛnnen The Cambridge's Encyclopedia of the English Language (1994
-... 
+... (2586 chars skipped) ... 
 ka Fɔ ɲɔgɔn kɔ o kɔni tɛ kelen ye. Dibisogo ye sogo dɔ tɔgɔ ye ninka sogodibi Kɛ dibi dɔ tɔgɔ ye. I b'a Ye nin misaliw la ko kumaden labanw de ye kuma kan bɛ min ma ye.
 Misali:
 serimalo (malo sugu dɔ)
@@ -364,7 +364,7 @@ nɛgɛso (so sugu dɔ)
 Dorokolen dɔw kumaden fɔlɔ Ye kuma kan bɛ min ma ye: jakumawara, sanuhɔrɔn…
 D. Daɲɛ tonnen
 O Ye daɲejuru ye min fla walima caman bɛ Fɔ ka fɛn kelen Kofɔ k’a sɔrɔ u tɛ Sɛbɛn ka Nɔrɔ ɲɔgɔn na u
-...
+... (2586 chars skipped) ...
 a Dlara yɔrɔ kɛrɛnkɛrɛnnen min kama (kumaden ka kan Sɔrɔ dorokolen na min bɛ mɔgɔ Sɔmi a bɛ mago ɲɛ yɔrɔ min na)
 - Fɛn kura dlalen bɛ fɛn min kɔnɔ wali fɛn min b'a kɔnɔ (kumaden dɔ ka ka k'a Jira fɛn kura yankan b'a To a bɛ Don fɛn min kɔnɔ wali fɛn min bɛ Don a kɔnɔ)
 - Fɛn kura Dlara ni bɔgɔ sugu min ye (kumaden dɔ ka kan ka Sɔrɔ dorokolen na min bɛ mɔgɔ hakili Lajigin minɛn in sogo ye fɛn kelen min ye: n'a sogo ye jiri ye, mana, nɛgɛ, fara, ...).
@@ -376,12 +376,12 @@ Intro: N’barin match bara fôlô gô Kono courant nan mouna yiki Syli wonama t
 -
 [lyrics ]
 Intro : Gô gô gô gô gôrôdjèdhen, gôrôdjèdhen Gô gô gô gô gôrôdjèdhen Refrain : Moun mâguiné bârâ gnon tindé Khi wâmâ khon ma fo i cola ra mini Moun mâguiné bâr
-... 
+... (149 chars skipped) ... 
 , sètima Nâkhé noun sètima Né nan ni sètima N’ni dôkhô bôré nan ma Nakhé nou irâ tanguâma hahaha Nééé ni râ tantan mâ Né ni râ sèwâmâ hahaha Eta nira tantan mâ hahaha Né nan noun na isètima Texte 1 : N’finkâri noun power sô nakhé gnira Y� ... [read more ...]
 -
 [lyrics + video]
 Intro: Assingué, nondi nan singué soma N’ta nâ fâlâ, à nondi noun woulé nondi nan singué soma Refrain: Assingué, fébirin fôlè lankhi a singué nan ma A fô ikha fôlônè afôlôdé A fô ikha fôlônè afôlôdé forcé (2 fois) Texte 1:
-...
+... (149 chars skipped) ...
 a gnakhoun ma nabiassi gbâloé ma Refrain : Wâdhougôl kô wéli wô kômâ kô wéli wô kômâ kômâ bouran mâ Wâdhougôl kô wéli wô kômâ kô wéli wô kômâ kô wéli wô kômâ Wâdhougôl k� ... [read more ...]
 -
 [lyrics + video]
@@ -391,10 +391,10 @@ Please login to access the full content or check if you have access via48.1.3.1.
 Please login to access the full content or check if you have access via
 Wicha, J., Science of Synthesis, (2009) 48, 126.
 Aldehydes and ketones are capable of forming their tosylhydrazone derivatives on treatment with tosylhydrazine. The reaction is usually carried out in anhydrous methanol, ethanol, or di
-... 
+... (1391 chars skipped) ... 
 eeeeeeeeeeee.
 Meeeee eeeeeeeeeeeeeeee ee eee eeeeeeee ee 8-eeeeeeeeeeeeeee eeee, ee eeeeeee eeeeee eeee, ee eeeeeeeeeeeeeeeee/eeeeeeeee eeeeeeee e eeeeeeeee eee eeeeeeeeeeeeee eeeeeee eee eee eeeeeeeee ee eeeeeeeeeeeeeee ee eee eeeeeeeeeeeee eeeeeeeee eeeeeeeee (eee Meeeeee 88.8.8.8.8.8).[888] Meeeeeee eee eeeeeeee ee ee eeee eeeeeeee ee eeeeeeeee, eee eeeeeeee eeeeeeeeee eee eeeeeeee eeeeee eeee eeeee ee eee Meeeeeeeee eeeeeeeee. Mee eeeeeee eeeeeee eeee eee eeeeee eeeee, eeeee, eeeee, eee eeee
-...
+... (1391 chars skipped) ...
 eeeeeee 88.
 Meeeee 88 Meeeeeeeeee Meeeeeee ee Meeeeeeeeeeeee Meeeeeeee[888,888]
 Mee eeeeeeeeee eeeeeee ee eeeeeeeeeeeeee eeeee 88 eee eeeeee eee eeeeeeeee eeeeeee. Meeeeeeeee eeeeee ee a-eeeeee eee eeeeeee eeeeeeeeeee ee eeee ee eeeeee ee e eeeeeeeee eeeeeeeee ee eeee ee eee Meeeeee eeeeeeee.[888] Me eee eeeee eeee, e eeeeeee eeeeeeeeeeee eeeeeeeee eeee 88 eee eeee eeee ee eeeeeee eeeeeeeeeeeee eeeeeeee (eee Meeeeee–Meeeeee eeeeeeeeeeeee; eee eeee Meeeee–Meee, Mee. 8/8e, e 8888).[888]
@@ -405,10 +405,10 @@ Please login or sign up for a free trial to access the full content.
 Aggarwal, V. K.; Crimmin, M.; Riches, S., Science of Synthesis, (2008) 37, 321.
 General Introduction
 Epoxides have found long-standing applications in organic synthesis due to their propensity to undergo highly regio- and stereoselective ring-opening reactions.[1,2] These st
-... 
+... (2775 chars skipped) ... 
 eeeeee–Meeeeeeeeee Meeeeeeee; M—M eeee M—M Meee Meeeeeeee
 Mee eeeeeeeeeeeeeee ee eee a-eeee eeeeeeeee ee eee eeeee ee eeeeeeeee eeeeeeeeeeee ee eee eeeeeeeee eee, ee eeeeeee, a-eeee eeeeeeeeee eee eeee eeeeee, eee eeeee eeee eeeeeeeeeeee, eeee eee eeeeeeeee eeeeee. Meeeeeeeeee, eee eeeeeeeee ee eeeee 88 eee 88 eeeeee eeeeeeeee ee eee eeeee eeeeeeeeee > eeeeeee > eeeeeeee > eeeeeee > eeeeeeee; eeeeee > eeeeeeee > eeeeeeeee > eeeeee (Meeee 8).[8,8] Me eeeeeee, eeeeee eee ee eeeeeee eeee eeeee eeee
-...
+... (2775 chars skipped) ...
 eeeeeee ee eeeeeeeeee eeeee 8. Meee eeeeeeeeeeee eee eeee eeeeeee e eeeeeeeee 8,8-eeeeeeeeeeeeeeeeee ee eeeeee eee eeeeeee (M—M eeee eeeeeeeee eeee M—M eeee eeeeeeeee) (Meeeee 8). Mee eeeee ee eeee eeeeee ee eeee eeeeeeee eeee eeee eeeeeeeee eee eeeee eee a-eeee eeeeeeeee eeeeeeeee eee ee eee eeeeeeeeee ee eee eeeeeeeeeeee eeeeeeeeee eeeee ee eeeeeee [8 + e] eeeeeeeeeeeee eeee eeeeeeeee.[88,88]
 Meeeee 8 Meeeeeeeeee Meeeeeeeee Meeee Meeeeeeee; M—M Meee Meeeeeeee eeee M—M Meee Meeeeeeee
 References"	048c44bff71ceb713f5a8b397d7bb3ad
@@ -417,10 +417,10 @@ Please login or sign up for a free trial to access the full content.2.1.4.2.1 Th
 Please login or sign up for a free trial to access the full content.
 Lewin, R.; Thompson, M. L.; Micklefield, J., Science of Synthesis: Biocatalysis in Organic Synthesis, (2015) 2, 144.
 Thiamine diphosphate (ThDP; 8, also known as thiamine pyrophosphate; TPP) is a cofactor in enzyme-catalyzed reactions that typically involve th
-... 
+... (2908 chars skipped) ... 
 e ee eeeeeee eeeee eeeeeeeee ee eeeeeeee eeeeeeeee eee eeeeeeeeee ee ee eee eeeeee ee eee eeeeeeee ee e “eeeeeeeee” eeeeeee eeeeeee eeee, eeeeeeee eeeeeeeeeee eeee ee eeeeeeeee eeeeeeee eeeeeee eeeeee, eeeee eeeeee eeeeeeee eeee eeeeeeee eeeeeeeeeeeee.[88,88]
 Meee eeeeee eeee eee eeeeeeeee eee eeeee eee eeeeeeeee eeeeeeeeeeeee eeeeeeeee ee eeeeeee ee ee eeeeeeee ee eeeeeee eeeeeeeeeeeeeeee M—M eeee eeeeeeee eeeee eeeeeeee eeeeeeeeeee eeeeeeeee eeeeeeeeeeeeee eeeeeee eee eeeeeeeee eeeeeeee eeeeee
-...
+... (2908 chars skipped) ...
  Meeee Meeeeeeeeeeeee Meeeeeeeeeeee:[88]
 MMMMMMM: Meeeeeeeeeee eee eeeeeeeeee eee eeeee eee eeeeeeeee eeeeeeeeeee.
 Meeeeeeeeeee (88 eM), eeeeeeeeeeee (888 eM), eee eeeeeeeeeeeeee eeeeeeeeeeeee (eeeeeeee eeee MeMM eee Me8+ eeeeeee; 8.88 M) eeee eeeeeeeee eeeeeeee ee ee ee 88 eM eeeeeeeee eeeeeeeee eeeeee (eeeee eeeeee 8.8 eM) ee eM 8 eee 88 e eeee ee eeeeeeeee. (M)-8-Meeeeee-8-eeeeeeeeeeee-8-eee (88) eee eeeeeeeee eeee MMMe8, eee eee eeeeeee eeeee eee eeeee (MeMM8); eeeee: 88%; 88% ee.
@@ -434,11 +434,11 @@ Kun min y’a to ku tɛ tɔri la, o filɛ nin ye. N’an bɛ fɛ ka ko min kɛ, 
 A ka nin bɔko sabanan in hukumu kɔnɔ, jamanakuntigi ye fɛɛrɛ jɔnjɔnw ta ninnu bɛ koronawirisi kɛlɛli taabolo talenw matarafali sinsin.
 Jamanakuntigi y’a jira a ka laseli ko, gɔfɛrɛnaman b’a fɛ ka sefawari miliyari 500 hakɛ kɛrɛnkɛrɛn ka bila koronawirisi kɛlɛli kama.
 A ka fɔ la, o nafolomugu in bɛna kɛ dɛmɛ ye ka ɲɛsin cakɛdaw walima mɔgɔw ma banaki
-... 
+... (710 chars skipped) ... 
 dilan iziniw ni bololabaarakɛlaw ye, kɛrɛnkɛrɛnnenya la kalalikɛlaw, jamana bɛna dɛmɛ don olu ma walasa u ka nudatugulan caman dilan minnu bɛ se ka ko.
 Jamanakuntigi, halisa a ka laseli kɔnɔ, a y’a jira ko gɔfɛrɛnaman bɛ ka fɛɛrɛ bɛ sigi senkan walasa malidenw ka BESEYAWO / BCEAO cakɛlaw ka lafiya ɲɔgɔnna sɔrɔ.
 A b’ o cogo kelan na, Ibk y’a jira ko ji ni kuran bɛna di mɔgɔw ma fu la, korona banakisɛ ye kɔlɔlɔ se minnu ma. Takisiw bɛna bin ka bɔ jamanaden bɛɛ kan ji ni kuran sarayɔyɔ fo kalo saba
-...
+... (710 chars skipped) ...
 nudatugulan miliyɔn 20 de mankɔnɔnnen don dɔgɔkun nata Bamako kɔnɔ.
 O tɛmɛnen kɔ, a ye kɛnɛyatigilamɔgɔw ni lakana cɛdenw fo, u ka cɛsiri n’u ka wulikajɔ la banabaatɔw furakɛli ni kuwurufe sabatiko ɲuman kɔlɔsili la.
 Mɔgɔ minnu tɛ da kola, jamanakuntigi y’a jira k’u ka da a la ko bana in ye diɲɛ ye wa a bɛ Mali la. O siratigɛ la, a ko k’a b’a ɲini jamanadenw fɛ, bɛɛ saniya walew matarafa, ka kɛnɛyatigilamɔgɔw ka fɛɛtalenw labato, walasa k’an ka jamana kisi k’a tanga ka bɔ koronawirisi masiba ma."	30b8f881d759be4b38d9e90a6e0d8425
@@ -468,7 +468,7 @@ sanfɛkɛlɛkɛfɛnw ye banbaanciw bon siɲɛ caman, k’u ka bolifɛnw ni maram
 caman bↄ baara la : kɛlɛkɛmobili belebele fila b’o la, Minusima taara ka
 minnu to yen, ani kɛlɛkɛmobili fitinin caman wɛrɛw minnu bɛ wele pikↄpu/ pick-up.
 O kɛlen minkɛ, terorisiw wu
-... 
+... (820 chars skipped) ... 
 yamaruya dagayↄrↄ in ka latɛmɛ Mali ma fↄlↄ, o kↄfɛ, u bↄli in
 kɛcogo bɛ kↄlↄsi Mali sↄrↄdasiw fɛ walasa balannako si kana ye a la.
 Mali kɛlɛbolow bɛ k’u labɛn ka don jamana marabolo 8
@@ -476,7 +476,7 @@ nan kↄnↄ, n’o ye Kidali ye, ka kelenya ni badenya sabati. O kosↄn, u ni
 Kidalika caman bɛ ɲↄgↄn fɛ, minnu b’a fɛ ka na u sigi u faso la.
 Aboubacar TRAORE / Mahamadu KƆNTA
 Minisiriw y’u ka laadalatɔnsigi kɛ araba utikalo tile 28 san 2024 jamanakuntigiso la Kuluba. A ɲɛmɔgɔya tun bɛ furancɛlafanga jamanakuntigi Kolo
-...
+... (820 chars skipped) ...
 Malidenw yere dama ce sigikafɔba kene kan, u y’a ŋaniya kumaɲɔgɔnya sigikafɔ in da ka yele kojugubakelaw ye, ka silamediine dungew don an n’u ce kɔrɔfɔw la. U y’a ɲinin fana, ko ka kuranko geleya furake joona walasa hakilisigi ka na mɔgɔw la.
 Faso tɔgɔla sigikafɔba min daminenen file, o bena ke sababu ye Malidenw ka kumaɲɔgɔnyaw ke u ni ɲɔgɔn ce ka furaw dajira geleya kofɔlenw na. A ka kan ka se ka hadamadenya juru caanin an ce, ka dɔ fara ku-ɲɔgɔn-kan fanga kan ani ka na ni ben kutaala jan ye.."	a0d243de4d1444902eaeade10f458390
 				"Hadamaden josiraw dantigɛkan, 1948
@@ -484,7 +484,7 @@ Faso tɔgɔla sigikafɔba min daminenen file, o bena ke sababu ye Malidenw ka ku
 K’a d’a kan ko dine hɔrɔnɲa ni tilennenɲa ni lafiya sintin ye hadamaden bɛɛ danbe dɔnni n’u josiraw danmakɛɲneni ye,
 K’a d’a kan ko hadamaden josiraw n’u kɔnni kɛra dannajuguya caman sababu ye minnu bɛ maaya ɲugun, ani ko hadamaden haju bɛɛ la gɛlɛnman ye de ka diɲe kura dabali min den si tɛ bali k’a hakilila fɔ nink’a dannasira batu, min den bɛɛ tangalen bɛ bagabagali ni ɲani ma,
 K’a d’a kan ko a tɛ ɲɛ fo hadamaden josiraw ka lakana sariyabatufanga de f
-... 
+... (3525 chars skipped) ... 
 ɛkun ye ko jugu kɛli de ye jaati forobasariya la walima kɛwale minnu bɛ Kabilatɔn kuntilenna n’a daliluw sɔsɔ.
 Sariyasen 15n :
 - Mɔgɔ bɛɛ ka kan ni kabilaya ye.
@@ -492,14 +492,14 @@ Sariyasen 15n :
 Sariyasen 16n :
 - Cɛ ni muso si mana se furu ye, siyako t’o la, kabilako t’o la, diinɛko t’o la, u ka kan ni furu ni denbaya ye. U danma ka kan josira la furu dontuma n’a kuntagala kɔnɔ ani a sali kɛnɛ kan.
 - Furu tɛ se ka siri ni cɛ ni muso ma diɲɛ n’a ye faasi
-...
+... (3525 chars skipped) ...
 ariya ka dan sigilen minnu kun ye ka tɔw josiraw ni hɔrɔɲasiraw gasi sigi, ani tilennenɲa ni basigi ni jama ka hɛɛrɛ tɛe taga wajibi minnu kɔ sariyafanga kɔnɔ ka olu tiimɛ.
 - O jow ni hɔrɔnɲasira ninnu tɛ boli cogo si la min be Kabilatɔn kuntilennaw n’a daliluw kota.
 Sariyasen 30n :
 Jɔyɔrɔ fɛn o fɛn dantigɛlen ye nin Dantigɛkan in kɔnɔ, Fanga wali jɛkulu wali mɔgɔ kelen sijo tɛ k’o minɛ yamaruya ye ka sira taama, wali ka walekɛ, min kun ye hadamaden josira ni hɔrɔnɲasira jiralen ninnu tiɲɛni ye."	876ddd042c27ae4ef3392a58d9552c8a
 				"I b' i jigi da i ka GPS yɔrɔko baarakɛyɔrɔ kan don o don walasa ka yɔrɔ kuraw sɔrɔ ani ka jɛɲɔgɔnya kɛ ni mɔgɔw ye. Fɔlɔ, Vikingw tun bɛ diɲɛ lajɛ ni tile ni dolow jɔyɔrɔ ye. Bi, fɛɛrɛ kɔrɔw b' an bolo minnu b' a to an bɛ se k' an sigiyɔrɔ tigitigi dɔn.
 tariku kɔnɔna na, kurunbolilaw y' u ɲɛsin sankolo ma walasa ka bilasirali sɔrɔ. U tun bɛ baara kɛ ni minɛn caman ye min bɛ wele ko sextant walasa ka sankololafɛnw suman i n’a fɔ tile ka kɛɲɛ ni sanfɛla ye. Ka fara o kan, u tun bɛ u jigi da minɛn 
-... 
+... (283 chars skipped) ... 
 i dɛmɛ, i tun ka kan ka jɔ ka sira ɲini walasa ka se i ka yɔrɔ la.
 Siga t' a la, GPS ye fɛn kura ye min ye dugukoloko ye.
 GPS bɛ baara caman kɛ, wa a bɛ baarakɛcogo ɲuman ni dannaya di.
@@ -509,7 +509,7 @@ tulon suguya caman bɛ yen minnu bɛ baara kɛ ni i ka GPS yɔrɔ ye.
 GPS bɛ kunnafoni tigitigiw di Tile waati, Tile jɔyɔrɔ ani kalo jɔyɔrɔ
 GPS bɛ baara kɛ kosɛbɛ diɲɛ kɔnɔ.
 aw bɛ se ka kunnafoni w
-...
+... (283 chars skipped) ...
  wagati intɛrinɛti kan lajɛ tubabukan na
 ⌚ N ka Waati tubabukan na
 🌐 i ka GPS yɔrɔ tubabukan na
@@ -545,7 +545,7 @@ Tubi Niuman Fusamantiyaw : Allah be Tubi djon kanu, Tubi djon kadi Allah ye, Tub
 Walanda sabali kan : Moko niumanw ka kumanw sabali kan, sabali Be dine la Iko kunkolo farikolo la, Laben Niuman ye sabali ye geleya kan.
 2015-11-16
 Walanda sabali kan : sabali fusamantiya Allah kira ka kuman kanw na , sabali ye
-... 
+... (86 chars skipped) ... 
 ni filiw yafa..
 2015-11-16
 Walanda sabali Nafa dow kan: Allah fara len be sabali Bakaw kan, Allah Be sara Ba di sabalali Bakaw man, sabali ye Bara Baw do ye .
@@ -557,7 +557,7 @@ Walanda bamanan kan na abe Nienfoli ke : Sura fe Noniya Dow, Sura fe kolo low Ni
 Walanda bamanan kan na abe Nienfoli ke : nienbila, Sura fe lagnini, Sura fe Haramou yali kurane ani Hadisa kono.
 2015-09-20
 Hidji ti
-...
+... (86 chars skipped) ...
 fu, O kofe Madina sigui ...
 2015-09-20
 Hidji tioko ya dia yirali ""2"": Doni makah ani oumra tokoya ani Hidji Baraw fo kata se Muzdalifa kene man...
@@ -569,10 +569,10 @@ Nienbila,Seliba kalo kile tan folo Fusamantiyaw kurane ani Hadissa kono, Baramin
 Allah kira ka Hadisa koro Nienfoli – kisi ni Nema ba akn: Allah ye fin Duru ke kira mantow ye suunkalo la …"	5ecd871e68dd7fe31b0db3a11f36d799
 				"I k’a dÉn Imaamuw kira sÉmÉgÉw la kiisi b’u beelajelen kan, u y’a dÉn ka kÉn bee pe k’a f’u ka jamana pemÉgÉya te na segin u ma u ka panamaya kÉnÉ, ani k’u n’u ka jamakuluw be na to mÉgÉ werew ka fanga jukÉrÉ, minu pe b’u ka wasa ni se sÉrÉ la ni faripa ni danteme beelajelen ye.
 A kela laada ye fan dÉ fe u ka yerekun tanga mine ni barika ye (takiya) k’a ke diine ye u n’u nÉfe mÉgÉw bolo madaama yerekun tanga b’u joli tanga, n’a te tÉÉrÉ lase maa were ma, o t’a lase diine fana ma, walasa u ka se 
-... 
+... (42016 chars skipped) ... 
 n – u ka hami tun te k’a fÉ kow pemÉgÉya ka segin u ma, I k’a dÉn u ka hami tun ye silaamaw ladabuli n’u lamÉli ye lamÉli la min kapI, i n’a fÉ Ala b’a fe cogo min – a ka se kÉrÉtalen do – ka b’u yÉrÉ, maa o maa sÉna u ka pemÉgÉya ma n’u b’u ka gindow tanka, o n’u be ke pÉgÉn fe, u b’u cesiri cogo bee la, k’u kalan diine kitiw la, ni ka kira Muhamadu ka dÉnniyaw don o da, o b’a ladÉnniya fen na min y’a ta ye ani min keli waajibiyalen do a kan
 W’u te maa si jate u nÉfe mÉgÉ ye, an’u ka jama pemÉg
-...
+... (42016 chars skipped) ...
 i ke ka taa Ala ma, u ka kuma beelajelen na, ani k’u fara pÉgÉn kan k’u hakili nÉÉrÉ.
 (14) A kan be wasaa-ilu Shii-a ilaa tahakiiku masaa-lilu Shii-a lilibaahisi – min ye Huru Aamuli ka gafe ye, a gilanna keeri misira jamana kÉnÉ, ani Musitadiraki lili Alaama Nuuri, Ala ka jipe b’a ma, juzu damadÉ bÉla a la, san 1378 – 1381 H Sh.
 (15)Aliwasaa-ilu kitaabu amuru bili maaruufu, wa nahayu ani munikari, bonda min be yamaroyali ke ni wale pumanw keli ye, ani ka balili ke ni wale jugu tÉli ye bonda 17."	633c8f451d0bdcbb64cf6922a9c0af99
@@ -601,7 +601,7 @@ Dɔnkilidalaw n’o ye Alifa Bulɔndi, Orozelini Layo, Tamu Siri ani Timu Payiya
 Zerizi Beyino, Nizeriya dɔnkilidalaw, « kupe dekale » nin bee ye kene
 laɲaga KANI Kɔnɔwari san 2023 datuguli la.
 Nisɔndiyakene dan bee tun don. A dabɔra filelikela mɔgɔ 57.094 minnu tun be yen ka balontan in laje, k’u ɲenaje kosebe. Sanga damadɔ sanni ka ntolantan damine, tegere sebekɔrɔ wara-warala ka Di
-... 
+... (2433 chars skipped) ... 
 o jigin tuguni.
 U tun be ka telefɔniw yeelenw mene k’a jira u ka ntolantannaw na, k’u be
 yan, u be ɲɔgɔn bolo. Balon tora fan kelenma na kere kelen kan. Numanyanfan
@@ -609,7 +609,7 @@ fe, Simɔn Andingara
 segenbali ɲinenbali ye
 ntolan dɔ bon ka na,
 Haleri senna teliyara ni Nizeriya ntolantannaw ɲemɔgɔ Tɔrɔsiti-Etɔngu ye, kunbencogo ma sɔrɔ a la fo jɔ kɔlɔ sanga 81nan na. kɔnɔwari 2 Nizeriya 1. Kulekan wulila ka jɔ sigiyɔrɔw la senkɔrɔmadonnaw fe. A tun te temen sanga damadɔnin kan bilen, degelikaramɔgɔ Emerisi Fayi
-...
+... (2433 chars skipped) ...
 finnɔgɔ kg50 .
 San o san mekalo tile 1lɔ ye baarakelaw tɔgɔladon ye diɲe kɔnɔ. O hukumu kɔnɔ, Mali baarakelaw lafasatɔn minnu be UNTM jekuluba kɔnɔ, olu ye yerejirataama ke jamana ka yeremahɔrɔnya keneba kan. A kera kene ye, min kɔrɔfɔw bolila hadamadenya basigili ni ɲetaa laɲini.
 Mali sɔrɔdasiw ye kojugubakela Hugo faga Indelimani keledaga la Gawo mara la. Kabini Mali y’a ŋaniya k’a meru don Irisijamana na sɔrɔdasiko nasira la, an ka lakananbaaw b’a la ka sebaayaw sɔrɔ dɔrɔn kojugubakelaw kan.."	768610f4840a2785ec020df761e2f6d1
@@ -671,7 +671,7 @@ Ne cœur lampanin
 Ne be chi ka miri, e de la bébé nin
 Ko nka méchi san, ka talon san,
 N’diarabi ko djugu ne ye sa
-... 
+... (566 chars skipped) ... 
 hie i roulé sah
 Nka baby roulé sah, madame bouteli latikôlô, i lakourou ka djiguin
 Baby girl c’est la roulé mania
@@ -684,7 +684,7 @@ I pari ki bil n’kô, nka manou la paniqué,
 I ka finessiw ninw kaih ka go là complexé
 Baby ladjai gnè de be ne faga, to ki dain ki gnè mounoun nou bô na,
 Baby ka manière de be ne bana i ka d
-...
+... (566 chars skipped) ...
 guin
 Ni mi gninina tolo na,
 Ne mi gninin na naiguai là
@@ -722,7 +722,7 @@ Sitadimaliyen musomanninw kera ŋana ye o te temen dɔgɔkun kelen kan fɔlɔ. A
 San
 fooricogo ɲena
 Sitadimaliyen bo
-... 
+... (1545 chars skipped) ... 
 ɔfe,
 Sitadimaliyen yelemana u kan : 52 ni 42 ani 78 ni 65. Tulon kuncera o kan
 Sitadimaliyen ka sebaaya la.
@@ -735,7 +735,7 @@ finali ma. O b’a jira k’u ka degelikaramɔgɔ Zumana Kulubali ka kan ka fo. 
 dan de y’i garijege ye.
 Sitadimaliyen
 musomanninw an’a cemanninw ka tɔn kelenna jansanna ni sefawari mil
-...
+... (1545 chars skipped) ...
 finnɔgɔ kg50 .
 San o san mekalo tile 1lɔ ye baarakelaw tɔgɔladon ye diɲe kɔnɔ. O hukumu kɔnɔ, Mali baarakelaw lafasatɔn minnu be UNTM jekuluba kɔnɔ, olu ye yerejirataama ke jamana ka yeremahɔrɔnya keneba kan. A kera kene ye, min kɔrɔfɔw bolila hadamadenya basigili ni ɲetaa laɲini.
 Mali sɔrɔdasiw ye kojugubakela Hugo faga Indelimani keledaga la Gawo mara la. Kabini Mali y’a ŋaniya k’a meru don Irisijamana na sɔrɔdasiko nasira la, an ka lakananbaaw b’a la ka sebaayaw sɔrɔ dɔrɔn kojugubakelaw kan.."	3c8170d0d48315a7a1000829ba011d12
@@ -752,14 +752,14 @@ Fangasinaw ka nin laɲini nin bina yɛlɛmaba le don ""Côte d'ivoire"" politiki
 4Fala faɲin luxi nɛn alo siimaya wudina, koni yanfantenya falan muxun niin nan tɔrɔma.
 5Xaxilitaren fafe a kawandi xuiin mi rafan a ma, koni naxan a tuli matima a sɔnna fala muxun na, xaxilimaan nan na ra.
 6Nafulu gbeen luma nɛn tinxin muxuna banxini, koni muxu ɲaxine s
-... 
+... (724 chars skipped) ... 
 imayaan findixi tɔrɔn nan na, koni naxan bɔɲɛ sɛwaxi, na luma ɲaxanxi nɛn waxatin birin.
 16A fisa i ndedi sɔtɔ i lu Alatala yɛɛragaxuni, benun i xa nafulu gbeen sɔtɔ kɔntɔfinli.
 17Bogi seene gbansanna donna fisa xanuntenmane tagi, dangu ɲinge raturaxin suben donna ra xɔnnantenyani.
 18Muxu bɔɲɛ gbeen yɛngɛn nan nakelima. Koni muxu diɲaxin tan yɛngɛn naxunbelima nɛn.
 19Muxu narixina kiraan nafexi ɲanle nan na, koni muxu faɲina kiraan malaxun nɛn.
 20Dii xaxilimana a baba rasɛwama nɛn, koni xaxilita
-...
+... (724 chars skipped) ...
 , koni muxu ɲaxin fala ɲaxin nan tima han!
 29Alatala makuya muxu ɲaxine ra, koni a tinxin muxune maxandi xuine ramɛma nɛn.
 30Yɛɛ yiyalanna muxune bɔɲɛn nan nasɛwama, xɛrayaan fala faɲin muxun sɛnbɛ soma nɛn.
@@ -777,10 +777,10 @@ A bɔra min?
 Mɔgɔ sugu jumɛn tun don?
 MƆGƆ minnu tɔgɔ bɔlen bɛ, olu ka ca diɲɛ kɔnɔ. Dɔw dɔnnen bɛ u ka yɔrɔ la, walima u ka dugu la, walima u ka jamana na. Dɔw fana dɔnnen bɛ diɲɛ bɛɛ kɔnɔ. Nka, n’i bɛ o mɔgɔ sugu dɔ tɔgɔ dɔrɔn de dɔn, o kɔrɔ tɛ ko i bɛ o tigi dɔn tiɲɛ na. O kɔrɔ tɛ fana ko i bɛ fɛn caman dɔn o tigi kan, i n’a fɔ a ye mɔgɔ sugu min ye tigitigi ani a y’a ka ɲɛnamaya kɛ cogo min na.
 2 Diɲɛ yɔrɔ bɛɛ la, mɔgɔw ye Yesu Krisita komɛn k’a sɔr
-... 
+... (6568 chars skipped) ... 
 aya kɛ dugukolo kan i n’a fɔ hadamaden, a yɛrɛ de sago la. Nka, i bɛ se k’i yɛrɛ ɲininka ko: ‘Cogo jumɛn na Yesu min tun bɛ sankolo la, o bɛ se ka bange dugukolo kan i ko hadamaden?’ O sera ka kɛ bawo Jehova ye kabako dɔ de kɛ. A ye a Denkɛ fɔlɔ bangelen ka ɲɛnamaya bɔ sankolo la ka na o bila Yahutumuso dɔ wolonugu la min tun ma cɛ dɔn, n’a tun tɔgɔ ye ko Mariyama. Fa hadamadenlama si sen ma don o la. O cogo la Mariyama ye denkɛ dafalen dɔ bange, k’a tɔgɔ da ko Yesu.—Luka 1:30-35.
 YESU TUN YE MƆ
-...
+... (6568 chars skipped) ...
 abu fɛ, an bɛ se ka Jehova dɔn kosɛbɛ?
 16. Yesu ka cikan tun ye mun ye kɛrɛnkɛrɛnnenya la? A ka kalansiraw tun bɛ bɔ jɔni yɔrɔ?
 17. Yesu tun bɛ waajuli kɛ min? Kun jumɛnw na a ye yɔrɔ janw taama walisa ka mɔgɔw kalan?
@@ -817,11 +817,11 @@ Kὲlɛkɛlɛ bɛ Kɔlɔnjɛba kolomi fɛ Mali marabolo 3nan 'kɔnɔ. Kɔlɔnjɛ
 Kὲlɛkɛlɛ ni kɔrɔn 'cɛ, Tusegela bɛ yen a ni min cɛ bɛ bam 7 Bɔ. A ni tlebin 'cɛ, Fɛnjalan ni Kwɛn bɛ yen. Dugu ni kɔgɔdugu 'cɛ, Ncininna bɛ yen a ni min 'cɛ bɛ bam 10 Bɔ. Sasila ni Saankɔrɔ bɛ a ni worodugu 'cɛ ni bam 8 ɲɔgɔn ye.
 Dugu tɔgɔko
 Kὲkɛkɛlɛ tɔgɔ Sɔrɔl
-... 
+... (2756 chars skipped) ... 
 ɔw bɛ Kὲlɛkɛlɛ. O fɛnw na, ɲɔʃimansin, kɔlɔn ŋana, worobinɛ, jabaranin, kɔɔrisugu, kalalimansin, moto, kɛnɛyaso, jibanbe, sɛnɛkɛ-mansin ani tele. Baɲumankɛ-tɔn dɔw n'u ka yiriwalisiraw bɛ dugu la. CMDT bɛ yen ni kɔɔri ni feere-sɛnɛfɛnw baara kɔkɔrɔdonni ye. Save the Children fana ye bolodali caman Kɛ ka Tɛmɛ, kɛnɛyako ni ɲɛtaa kan. ADAC Nàna ni sìgida yiriwali bolodali dɔw ye fana.
 Dugu kàlanko
 Kàlan sugu caman bɛ Kὲlɛkɛlɛ. Lakɔlikalan ni madarasa ani balikukalan bɛɛ bɛ yen. Yenkaw ka lakɔlikala
-...
+... (2756 chars skipped) ...
 nɔ ka Taa. Funteni yɛlɛnkalo la, fɛnɲɛnamanin dɔ bɛ Kasi kungo 'kɔnɔ ko Tle ba. A nɔrɔlennin bɛ Kɛ jiribolow la tlegan fɛ.
 Dugu kabakoma-yɔrɔko
 Kὲlɛkɛlɛ kabakoma-yɔrɔ bɛ dànsigi-yɔrɔ dama-dama Bɔ. Mɔgɔw bɛ T'u ɲɛ Da minnu kan o dɔw ye Tu ye, Jinkɔnɔ (bàmaw bɛ tu min na), Tinɛkɛtintintin, o min y'u ka dugu dasiri-miniɲan baguyɔrɔ ye, Nsiraba ani Satintin. O flɛlimayɔrɔ ninnu na, Nsiraba min ye dugutaamaseere ye ani bamaw sanga wulilen dòn ni tɔw ye.
@@ -839,7 +839,7 @@ Mou dela politiques mogo do be étudiant kè ou ka boucliers
 Djama ko(ho)ne ko(ho)grève ni case pas la
 Faten den i te ko kouna i ta djou la ite to i nôla
 Kouma la sourou
-... 
+... (199 chars skipped) ... 
 olo lunette do anw yela
 Université du mal
 Akoube ne konon mali kalan ko be tagne n'ga be ka segico
@@ -855,7 +855,7 @@ An ta farifi fourak3 ni ecole de médecine d3ss3ra
 Bus ko be
 Togodi togodi parker gassant be étudiant na passe
 Cours
-...
+... (199 chars skipped) ...
 Aw ya fo selou ko dhoni ka salon be louer
 Enfiedemir école den yo k3 sardine boitillée
 Ni djama thiara dô be ke malien de l'extérieur ye
@@ -874,7 +874,7 @@ Kalan min
 kera, a masalakun tun ye : «faso tɔgɔla denmisen baarakelaw ka komite bena se ka biro
 ka baara ke ka ɲe i n’a fɔ UNTM b’a ke cogo min na wa ? Baara ɲemɔgɔya
 tun be UNTM ɲemɔgɔba Yakuba Katile bolo. Faso 
-... 
+... (1217 chars skipped) ... 
 ɔrɔ fa a ɲema jamana yiriwali la, k’a sababu ke lafasalitɔn
 ye. O kera dɔgɔkun temennen in kalan kun ye, ka « CNJT/UNTM »
 biro mɔgɔw ladɔnniya.
@@ -882,7 +882,7 @@ Mamadu B. Jakite y’a jira fana, ko kalan in musaka bɔbaa kera u yere ka biro 
 tɔndenya,
 « CNJ ni UNTM » sariyaw dɔnnakarili, diɲe baarako taabolobaw dɔnnakarili, sira minnu be mɔgɔw ce baarako nasira la gɔferenaman kunda ani kenyereye kunda o sidɔnni.
 A kalansen dɔ fana kera laje kecogo ɲuman temensiraw
-...
+... (1217 chars skipped) ...
 finnɔgɔ kg50 .
 San o san mekalo tile 1lɔ ye baarakelaw tɔgɔladon ye diɲe kɔnɔ. O hukumu kɔnɔ, Mali baarakelaw lafasatɔn minnu be UNTM jekuluba kɔnɔ, olu ye yerejirataama ke jamana ka yeremahɔrɔnya keneba kan. A kera kene ye, min kɔrɔfɔw bolila hadamadenya basigili ni ɲetaa laɲini.
 Mali sɔrɔdasiw ye kojugubakela Hugo faga Indelimani keledaga la Gawo mara la. Kabini Mali y’a ŋaniya k’a meru don Irisijamana na sɔrɔdasiko nasira la, an ka lakananbaaw b’a la ka sebaayaw sɔrɔ dɔrɔn kojugubakelaw kan.."	8ef4c5dcdefd49b2b6493cd7def4cfda
@@ -896,9 +896,9 @@ Commandant Gael
 Sisan an bɛ ka duguma kɛlɛbolo sɔrasi dɔw de kalan walasa u ni Barkhane ka se ka baaraɲɔgɔnyaw kɛ. Nka Mali sɔrasiw ka ni degedenya kun dɔ fana ye walasa n'u yɛrɛ mako jɔra Barkhane ka pankurun ka dɛmɛ la, u ka se k'o sɔrɔ. Ɲinan an ye kulu wɔrɔ de kalan; nani de kɛra Gao yan.
 Mali sɔrasiw fila b'u hakilinata fɔ an ye u ka dégédenya kan. Commandant Gael kafɔla, sɔrasi fɔlɔ minnu ye GATA degedenya kɛ, olu ni Barkhane ka kɛlɛkɛ pankurunw bɛ baarakɛ kaban ɲɔgɔnfɛ. Wa basi fosi tɛ ka ye o baaraɲɔgonyaw la."	b76cae99cf0f88710d2ecd8661eab0b2
 				"1Yisa ya ala karan den tan-ni-filɛ kele anu nyɔgɔn fɛ ka nyina-gben-sɛnbɛ anubɛ kirayato-dandan-fanka di anu ma. 2A ya anu sɔ Allala mansaya-wara-koe kawandili bɔ tinɛ anubɛ ka kiriyatoenu nakɛndɛya. 3A ya a fɔ anu ye ko, “Wo kana ta fenfen na wo bolo wola tagama rɔ. Sewuri wo, tagama-bɔrɔ wo, dɔn-fen wo, wodi wo, hali duruku gbɛrɛ, wo kana ta wo fenfen na wo bolo. 4Wo ni to wo yiya fɔlɛ la, ha wo bɔ-tumɛ ni ke soe wo burɔ. 5Ni anu ma wo rabira soe min tɔ, wo tenbi soe wo bolokala, wo ni wo kian
-... 
+... (3011 chars skipped) ... 
  nyɔgɛ, a ya Pita anubɛ Yɔni anubɛ Yemesi bi ko anu ni bila a fɛ Alla madiya tinɛ kɔnkɛ kuma. 29A ye Alla madiyala tumɛ min, a yakɔrɛ yɛlɛmanta. Ala kurɛ gbɛra perr! 30Wati-kundunɛ wo kɔrɔ, mɔgɔ fila ye kumala Yisa la, Nɛbi Musa anubɛ Nɛbi Ilaya kɔni. 31Anu bɔra gbɛ rɔ Arinyɛnɛta gbiliyɛ rɔ ka kuma Yisa la. Anu bi kumala ka a bɛn Yisa faga-nya ma Yerusalɛm soe burɔ iko Alla ara a latɛgɛ nya min nun. 32Pita anubɛ a ta-nyɔgɛnu bi kinɔgɔla nun kɔnɔ anu kundenta tumɛ min, anu ya Yisala gbiliyɛ yen a
-...
+... (3011 chars skipped) ...
 na-nyagannu bi konanu bolo fanan kɔnɔ kun sa tinɛ sa nde, Hadama dan bolo.” 59Yisa ya a fɔ kei do ye ko, “Bila n fɛ.” Kɔnɔ wo ko, “N fa, sɔn, n ni ta n fa togon fɔlɔn.” 60Yisa ya a yabi ko, “Mɔgɔ faganɛnu ni anuna mɔgɔ faganɛ togon. Ile ni ta ka Allala-mansayɛ-kawandili bɔ.” 61Kei gbɛrɛkɛ ko, “N fa, n si ta i fɛ kɔnɔ sɔn, n ni ta fɔlɔn ka n masara nna denbayɛ la.” 62Yisa ya a fɔ wo ye ko, “Mɔgɔ wo mɔgɛ ya sara-ninki bi dugu-wɔrɔ tinɛ, ni a tora a yɛ lasɛgila a kɔma, wo ti bɛn Allala mansayɛ ma.”"	712570d92200ca0189ce3cc6bed27183
 				"Yan, i bɛna ɛntɛrinɛti baarakɛminɛn suguya caman sɔrɔ minnu bɛna i dɛmɛ ka sow jɔcogo paramɛtiriw jateminɛ minnu ka kan ani ka jɔli baara hakɛ dɔn.
 Jatebɔlanw ye dɛmɛbaga nafamaw ye boon jɔbaga ŋanaw ni so dilannikɛlaw bolo. U b’a to i bɛ se ka jatebɔw kɛ joona ani cogo bɛnnen na, ka sow jɔli minɛn hakɛ wajibiyalen dɔn ani ka jɔli baarakɛnafolo jate.
@@ -919,10 +919,10 @@ Media in category ""Kénédougou Province""
 The following 2 files are in this category, out of 2 total."	dacf59a7fc553610304539adc8c626e2
 				"Kr Dukure: bayɛlɛmanikɛla
 Kr Dukure ka hakililaw nɔblaliw la, a ma Dàn a yɛrɛ ka miiriyaw sɛbɛnni dɔrɔn ma. A ka sɛbɛnni wɛrɛw bɛ yen minnu ye bayɛlɛmani ye. A ka sɛbɛn bayɛlɛmanen fɔlɔw bɛ 'tàli Kɛ a ka fangaɲini-tɔn miiriyaw gafew kan. Komin a ka cɛsiri tùn bɛ jyɛnyɛlɛma sira kan ka Nà, a y'i wasa Dòn Karl Maks, Leninn, Mawo ani Fidɛl Kastro ninnu ka gafe sɛbɛnnenw bayɛlɛmani na bamanankan na. A tùn b'o gafe ninnu faransɛkannama Kàlan k'u hakilina Blà bamanankan na. O gafe ninnu ye: Maks ni Ɛn
-... 
+... (898 chars skipped) ... 
  flà ʃi Blà 'kɔ bamanankan na. A ni Abdulay BARI ye dabolo-yɛlɛma gafe dɔw Bayɛlɛma i n'a fɔ ""jyɛnsira na n Cyɛntigiya"", o min ye Fidɛl Kastro ka gafe sɛbɛnnen ye n'a faransɛkannama ye ko ""l'histoire m'acɲuitera"". O n'a ɲɔgɔnna gafe wɛrɛw baara Kɛr'a fɛ minnu bɛ bololasɛbɛnni sawura la a 'bolo halibi, bari ale tùn b'u Kɛ tɔn min ye o ma kanko K'a 'kùnkɛrɛ-fɛko ye.
 Kr ka gafe-bayɛlɛma ma Dàn dabolo-yɛlɛma gafew dɔrɔn ma. A ka dɔnniya forobayali cɛsiriw ‘kɔnɔ, a ye nimadɔn gafe dɔw Bayɛlɛma bànaw 
-...
+... (898 chars skipped) ...
 2, ACALAN ka kanko kɛnɛ dɔ kan. O gafe in dɔnniya dungew la dɔnni selen ye bari bì bangudɔn koɲɛ fànba bɛ Bòli a gafe kɔnɔdaliluw kan. An ka 'dɔn na, a Bayɛlɛmana wɔlɔfɔkan ni bamanankan na dɔrɔn na Fàrafinna kanw fɔlɔ, wɔlɔfɔkan ta min Kɛra senegalikaw ka dànkelen dɔ fɛ ko ʃɛk Anta Jɔp.
 Kr Dukure ka bayɛlɛmani kɛlen ka ca. Da tɛ S'a bɛɛ ma ka Ban. A bɛ tnɔ wɛrɛw Bɔ a ka bayɛlɛmani ninnu na ka bamanankan Lafa n'a miiriya kuraw n'u daɲɛ sɔrɔlenw ye.
 Blàdon : 2016-06-27 Yɛlɛmako laban : 2017-01-08"	d5162e94e90349560d18635534cf048f
@@ -933,12 +933,12 @@ Aw bɛ aw hakili sigi ani ka aw yɛrɛ minɛ
 Ni balanako ye aw sɔrɔ, aw bɛ a ko dilan kelen kelen ni basigi ye. O bɛ a to aw ka se ka hakilina ɲuman ta ka gɛlɛyaw furakɛ fɔlɔ.
 - Aw bɛ fiɲɛ sama kosɛbɛ ka tila ka a bila. Kasara dɔw bɛ mɔgɔ jatigɛ. Nka ni aw hakili sigilen don, aw bɛ se ka dɛmɛ don ka ɲɛ. Aw ka hakilisigi bɛ a to fana mɔgɔ joginnen ni aw kɛrɛfɛmɔgɔw bɛɛ fana hakili ka sigi.
 - Aw ye aw yɛrɛ ɲininka: nin yɔrɔ in lakananen don wa? Aw 
-... 
+... (2991 chars skipped) ... 
 a tigi sulen bɛ sɔrɔ ka a sababu kɛ dɔrɔgu walima dɔlɔ ye (Aw ye sɛbɛn ɲɛ Furaw ni furakisɛ wɛrɛw baga lajɛ).
 - Ni a tigi kumakan tilennen tɛ walima ni a bɛkumakuntanw fɔ, olu bɛ se ka kɛ kirinni taamasiɲɛ ye. A tigi ɲɛda walima a fari fan dɔ salen don walima fanga dɔgɔyalen don wa?
 - Hakiliwuli walima hakili yɛlɛmali fana bɛ se ka kɛ sukarodunbana jugumanba taamasiɲɛ ye. Ni a tigi balala ka bana, aw bɛ sɛbɛn ɲɛ Ka kɔn Sukarodunbana ma lajɛ.
 Aw bɛ a lajɛ ka ɲɛni basi bɛka bɔn, a yɔrɔ dɔ fununen 
-...
+... (2991 chars skipped) ...
  bɛ o kɛ ni banabagatɔ talan ye ni hakili sigi ye barisa a bɛ kɛ ko a kan karilen don ani ka fiɲɛ bila kɔkolo la.
 Aw bɛ jogindaw ni yɔrɔ karilenw ɲini. Ni aw bɛ o kɛ, aw bɛ aw jija a lamagali kana caya. Aw kana a to a kɔ walima a kan ka kuru.
 Ni mɔgɔ kirinnen bɛka fɔɔnɔ, aw bɛ a josi walawa fɔɔnɔ kana taa nun ni fiɲɛ tɛmɛsiraw fɛ. Aw bɛ a kun jɛngɛ a kɛrɛ kan, ani ka a senw kɔrɔta kosɛbɛ (ja lajɛ sanfɛ).
@@ -957,18 +957,18 @@ A Damira
 Kitabu Ɲin ye a Ɲan Fɔ Kuma Damira
 Kitabu ɲɛn ye Tariku le ri mɛn farini Nabi Musa la, ni a di fɔ a ma A Damira. Suran biloolu le ye a kɔndɔ. Suran biloolu wo di se a la talanan sidijama naanin.
 Ka damira suran fɔlɔna, ka ta se sura tan ni kelen ma wo ye dunuɲa dan ɲa le ri. Alla ka dunuɲa dan. Adama ni Hawa wo kera a la danni fen na ban de ri. A ka alu dan ka alu jamari waati taminnin kɔrɔ alu ka Alla la tɔn tiɲan. Ka damira wo waati ma, adamadenilu ka tɔrɔya damira. Kebi wo w
-... 
+... (2796 chars skipped) ... 
 . Amina.
 1
 Alla ka dunuɲa dan ɲa mɛn ma
 1 Fɔlɔfɔlɔ, Alla ka sankolo dan ka duukolo dan, 2 kɔni duu rajani tɛrɛ tɛ waati wo rɔ. Fen fen tɛrɛ sa a kan. Ji dunba le tɛrɛ a yɔrɔ bɛɛ rɔ, a ni dibi. Alla la Ni tɛrɛ ye taa ni seyi kɛla ji kunna san ma. 3 Alla ka a fɔ ko: «Kɛnɛ ye bɔ!» Kɛnɛ bɔra. 4 Alla ka a yen ko kɛnɛ ka ɲi. A ka kɛnɛ ni dibi fara i ɲɔɔn na. 5 A ka kɛnɛ kili ko tele, ka dibi kili ko su. Nba, su kora ka kɛnɛ bɔ. Wo kɛra lon fɔlɔ ri.
 6 Alla kumara ikɔ ko: «Dan ye kɛ jilu tɛma, ka alu fa
-...
+... (2796 chars skipped) ...
 alu yɛ ko: «Duu suman suu suu, n da wo bɛɛ di ai ma. Ka a la wo kan, jiri denta fen fen ye duu kan, n da wo fanan bɛɛ di ai ma, mɛn ye kisɛ ni kolo kɛla alu denilu rɔ. Wo bɛɛ ri kɛ ai balo ri. 30 So kɔndɔ kolofenilu ni waa rɔ soboilu ni kɔnɔilu ni nimafen misɛn mɛn ye taamala duu ma, nimafen bɛɛ kɔnin, n da bin ni fira bɛɛ di woilu ma ka kɛ alu balo ri.» Nba, a ka a fɔ ɲa mɛn ma, a kɛra ten. 31 Alla ka dalifen mɛn dan, a ka a yen ko wo ka ɲi bakɛ. Nba, su kora ka kɛnɛ bɔ. Wo kɛra lon wɔɔrɔna ri."	f1dfb511e65c9ee7100e86ee0897b825
 				"1Yisa donta Yɛrikɔ soe burɔ, a sɔgɛ ye a la, a ni tenbi nyɔ rɔ nun. 2Duti-makelelɛnuna kun tigi do ye nyɔ nun, a tɔgɔ Sakiyasi. Ado nɔnfulu-tigi le. 3A ye a rayala nun ka a lɔn ni Yisa ye nya min kɔnɔ a wuru kati! Ka a tɛgɛ nyamala ko ma, a ma ke Yisa yenna. 4Woletɔ a tara a burila nyama yarɔ. A yɛlɛta toro-kuri la Yisa yen-koe la a tenbimatoe kilɛ wo fɛ. 5Yisa kera nyɔ tumɛ min, a ya a yɛ layɛlɛ san ma ka a fɔ Sakiyasi ye ko, “Sakiyasi, yigi tiriya! N bi yiyala ila bɔn la bi.” 6Sakiyasi yigira 
-... 
+... (1991 chars skipped) ... 
 yɛ? Nta ma min na, n bi wo le tɛgɛla, ado nde ma wo ki, nyɛ? 23Nba, nfenna worɔ, i ma nna wodi sa wodi lamara tinɛ alako n ba na tumɛ min, n ni a tɔnɔ nɛ sɔrɔn a kuma tun.’ 24“Minnu sɔnɛ nyɔ, a ya a fɔ wonu ye ko, ‘Sɛnɛ-wodi-mɛlan min bi a bolo, wo ni wo bi a bolo. Sɛnɛ-wodi-mɛlɛn tan ye wɔli kɛlɛ min bolo, wo ni a don wo bolo!’ 25Anu ya a fɔ a ye ko, ‘Kɔnɔ n tigi, sɛnɛ-wodi-mɛlɛn tan ye wo bolo!’ 26A ya anu yabi ko, ‘N bi a fɔla wo ye ko fan ye min bolo, do si sa wo kuma wonu ye. Kɔnɔ fen sa mi
-...
+... (1991 chars skipped) ...
 onta Alla Bato Bɔn la tumɛ min, a ya fere-kɛlɛnu-gbenyɛ dabira. 46A ya a fɔ anu ye ko, “A sɛbɛnɛ Allata kitabu rɔ ko, ‘Anu si nna bɔn kele madiyali-kɛ-bɔn.’ Kɔnɔ wole ye a mala kankannu dogon tinɛ la!” 47Yisa tora mɔgɛnu karanna tele-wo-tele Alla Bato Bɔn la. A faga-sɔgɛ ye saraka-masɔla-wɛnu na anubɛ tɔn-karan-mɔgɛnu anubɛ kun tigi minnu bi anu tɛma nun. 48Kɔnɔ anu si a faga nya min, anu ma wo lɔn bawo mɔgɛ bɛɛ tora anu tole masɔla a la. A ma di anu ye, hali ala kuma kelen ni tenbi anu tole la."	ca9eff31b85f754d692760de357b266c
 				"Joli minnu bɛ bɔ banabagatɔ la ka a sababu kɛ yɛlɛmabaliya ye dilan kan
 Ni banabagatɔ tɛ yɛlɛma dilan kan, joli ninnu bɛ bɔ a la kɛrɛnkɛrɛnnenya la mɔgɔkɔrɔba minnu fanga dɔgɔyalen don. Nin joli ninnu bɛ bɔ kolomayɔrɔ de la banabagatɔ fanga bɛ digi yɔrɔ minnu kan: solokolo la, kɔ la, nɔnkɔnw na ani senw na.
@@ -976,14 +976,14 @@ Yɛrɛtangacogo o joliw ma
 - Aw bɛ to ka banabagatɔ yɛlɛma yɛlɛma waati bɛɛ: ka a da a kɔ kan, a kɔnɔ kan, ani a kɛrɛw kan.
 - Aw bɛ to ka a tigi ko don o don, ka tulu mu a la.
 - Aw bɛ to ka dar
-... 
+... (115 chars skipped) ... 
 w bɛ kunkɔrɔdonnan don banabagatɔ kɔrɔ, o bɛ a to a tigi wolo tɛ bɔsi. Aw bɛ to ka u bilayɔrɔw falen waati bɛɛ.
 - Aw bɛ a tigi labalo ka ɲɛ. Ni a tɛ dumuni kɛ ka ɲɛ, witamini fangamaw ani joliseginfuraw bɛ se ka di a ma walasa a ka fanga sɔrɔ (aw bɛ sɛbɛn ɲɛ Witaminiw laje).
 - Bana basigilen juguman bɛ denmisɛnni min na, o ba ka kan ka to ka a da a sen kan waati dɔw la.
 A furakɛcogo
 - Aw bɛ bilasiralikan kofɔlen ninnu bato walasa ka aw kisi joli ninnu ma.
 - Aw bɛ kɔkɔ dɔɔni kɛ jiwɔlɔkɔlen na ka 
-...
+... (115 chars skipped) ...
 ɔ. Aw bɛ furakɛli kɛ ni bandi sunuman ye.
 - Aw bɛ joliw ko ni jiwɔlɔkɔlen ni safinɛ ye, siɲɛ 3 tile kɔnɔ.
 - Aw bɛ sogosu bɛɛ bɔ yen joli da la ka sɔrɔ ka a ko ni jiwɔlɔkɔlen ye.
@@ -991,35 +991,35 @@ A furakɛcogo
 📖 Gafe kɔnɔkow
 ← Segin kɔfɛ | Taa ɲɛfɛ →"	4abe7a3d5485456eb20635433b923e83
 				"1Nde, Saimon Pita ye kɛdi kɛ sɛbɛla, nde min bi Yisa Kirasitila wɔli kɛlɛ anubɛ kilayɛ la kɔni. Minnu bara dɛnkɛninya-bɛrɛbɛrɛ-wɛ sɔrɔn iko male, n bi kɛ sɛbɛla wonu denu ma. Anu ya wo sɔrɔn ma kisilɛ Yisa Kirasitila telenbagayɛ baraka le tɔ, mata Alla kɔni. 2Alamɛ Alla hinara wo la ka yisi-kimɛ di wo ma duk! Alamɛ wola lɔnnɛ kuma-sara Alla anubɛ ma Mari Yisa wara-koe rɔ. 3Alla ye a fɛ, ma ni ata gbiliyɛ anubɛ ata nyimayɛ sɔrɔn a fɛ bawo ma ya a lɔn min ya ma kele. Lɔnnɛ wo baraka rɔ, ma makoe y
-... 
+... (847 chars skipped) ... 
 wula-yan la. Ado a ara nyina ko a hakɛ-kɔrɛnu bara yesi a ma ka ban feu! 10Woletɔ n na kelen nyɔgɛnu, koe kɛ minnu si yili-latɛgɛ di wo ma ko Alla ara wo kele ka wo yabɔ, wo ni wo raya wonu ma. Ado ni wo ya wo ma, wo ti bui ka wola dɛnkɛninyɛ boloka mumɛ! 11Ni wo ya wo ma, wo wa don habadan-mansayɛ rɔ, ma Mari anubɛ ma kisilɛ Yisa Kirasiti ye kan min, anu si wo labɛn sewɛ la. 12Hali wo ya koe wonu lɔn kɔrɔma la, n si to wo hɛnkili labilala wonu ma tuma-wo-tuma. Wo ara tonyɛ minnu sɔrɔn, hali wo 
-...
+... (847 chars skipped) ...
 ɔɛn ka bɔ Arinyɛni tɔ. 19Woletɔ nɛbinu ya kumɛ min fɔ, ma lanɛ wo la bɛrɛkɛ! Ni wo si wo tole masɔ wo la, wo si bɛn bawo a mani de iko lɛnpu min malannɛ pinpi rɔ ha Kirasiti wa na wati min ata wan-takani-wɛ la ka to malanna wo yisi rɔ. 20Kɔnɔ wo ni wo hɛnkili to kɛ ko fɔlɔn. Wɔlɔyiya-kumɛ minnu sɛbɛnɛ Allala kitabu rɔ, mɔgɔ wo mɔgɔ ti ke wo nya-yenna ka wo faranfasi a nyɛrɛ ma. 21Kɛnu ma bɔ anu nyɛrɛta hɛnkili rɔ! Alla ya kumɛ min don nɛbinu da rɔ, anu ya wonu denu fɔ Allala Ni Sɛnimɛ baraka rɔ."	f2f36bfc990449c038d2968dc521e04e
 				"Lokalisering Région Kayes : Land Mali, Region Kayes.
 Storbyer : Nioro du Sahel, Kremis, Namala Guimba, Marintoumania, Maréna Diombougou, Marékhaffo, Makano, Mahina, Madiga-Sacko, Badia, Logo, Liberté Dembaya, Lambidou, Lakamané, Koussané, Niantanso, Kourouninkoto, Kouroukoto, Koundian, Koulou, Koréra Koré, Kontéla, Konsiga, Koniakary, Kokofata, Kobri, Kita-Ouest, Kita-Nord, Niambia, Bamafélé, Khouloum, Sirakoro, Yéréré, Troungoumbé, Tringa, Toya, Toukoto, Tomora, Tafacirga og Souransan-Tomoto.
 Disponible oplysninger : Antal indbyggere, Areal, Højde og Klima."	1921c21effc12c4d65bc48fb57cf3c10
 				"Dô lou ko soumahoro tara waya si ra, dô lou ko soumahoro tara ba dji la dô lou ko’ soumahoro tara kourou kou na soumahoro borila! Espace de djandjou que tu soit dj Leo Sarah Routier 11 months ago. Nouvelle chaine de la musique africaine n’esite pas a t’abonner pour plus de surprises. Dj leo salisseur de poy spot ivoire channel 2 years ago Abonne toi a ma chaine pour plus de video. Alou mayé Fakoly ni Soumdjata bé Souman Gourou gnê na Dô ya kô ka ka lé djamana mina, dô ya kô ka ka lé muso mina ra
-... 
+... (121 chars skipped) ... 
  7 years ago I do not own nor do I claim any rights or profit by posting this video, just for viewer enjoyment and share the work of a great artist, Rest Easy Lucky!!!! Moliere enfants indigne album africa tv 2 years ago Nouvelle chaine de la musique africaine n’esite pas a t’abonner pour plus de surprises.
 Lucky Dube,Mama thefabmsM 7 years ago I do not own nor do I claim any rights or profit by posting this video, just for viewer enjoyment and share the work of a great artist, Rest Easy Lucky!!
-...
+... (121 chars skipped) ...
 Dô ya kô ka ka lé djamana mina Soumahoro bori la, Soumahoro bori la, Soumahoro ka ti bori la! Nouvelle chaine de la musique africaine n’esite pas a t’abonner pour plus de surprises. Alou mayé Fakoly ni Soumdjata bé Souman Gourou gnê na Dô lou ko soumahoro kanté bori la, dô lou ko soumahoro kanté tounou’ na, dô lou ko soumahoro tara kourou kouna soumahoro burila! Les chefs Google ivoire Musique 1 year ago dj dmx en featuring avec DJ leo pour les boucantiers endurants appelé désormais les chefs.
 ."	fffcaed7302ff29b5ddede12d80da3a5
 				"« Buy From women » wali a ye san nin kè musow fè”, o ye bôlôlô sira kan masala bolo dô ye min bè musow nin kunafonin sôkô nyôgôn na, k’u sôkô sugu blon na anin dèmè nafolow la. An’a b’u sôn fana ye lan sankôrôtan len na f’a san na yèlèn dan u yèrè ka bara daw kan. Fèn min do fan’a b’u ka hakili fonin nôkôya fô k’u kolojo mirinanw ta li la anin ka mankutu nyuman d’u yèrèbakun ma fô ka s’u ka nyanamaya nyètaga seleke wèrèw ma. N’ale masala bolo in ye, Mali kônô sènè kè la musow bè na se k’u ka kèn
-... 
+... (721 chars skipped) ... 
 n walasa ka musow ka ɲeta teliya ani ku kunkow ɲƐnƐbo jiyin yↄrↄbƐ. ONU FEMMES be baara kƐ jiyin fambƐ walasa ka na ni jabi jonjon ni fƐrƐ basikilew ye musow ka laɲini nu kunkow la. A be ka baara kƐ fƐnƐ tiokomi u da be se ka do ɲƐnƐmaya kow bƐ la. ONU FEMMES ka hamina ko fↄlↄ fↄlↄw dↄ ye fƐrƐ kuraw natili ye walasa tiew ni musow ka hakƐ ka kƐ kele ye ani musow ka yƐrƐma hↄrↄnya sↄrↄli. Ola, ONU FEMMES ye baara kƐta dↄw siki se kan munu ɲesine be kunafoni laseli fƐrƐ kuraw baarali ma, ka se kaa 
-...
+... (721 chars skipped) ...
 , cikɛ min fasajalen don waatiyɛlɛma gɛlɛyaw bolo walasa k’u ka sɛnɛfɛnw sannifeere nɔgɔya u bolo : « Ka sanni kɛ Mali musow fɛ », o ye fɛɛrɛkɛnɛ ye min y’a bolo di gɔfɛrɛnamancakɛda ma min ka baara ɲɛsinnen bɛ kunnafoni ni kunnafonifalenfalen fɛɛrɛw jɛnsɛnni ma ani dɛmɛdonjɛkuluw ni ONI-Musow/ONU-Femmes, ka waleya nɔgɔman dɔw sigi senkan minnu bɛ cikɛlamusow ni cakɛdatigimusow ka se jiidi sannifeere sira kan, k’a sababu kɛ nimeriki fɛɛrɛkɛnɛ ka dɛmɛ ye min bɛ wele « Ka sanni kɛ Mali musow fɛ »."	9ef4c505a6789e8ba419e000e177d267
 				"Kurana jɛkakan ni kan duman ni kalan sariyaw dafali ye Haramu misiri kวnว
 Kurana cakɛla kuluw : Nuru cakɛda πɛmaa kurana kalan boloda ni kurana kalannaw ye minu garisɛkɛlaw daamu heji la πinɛn san in kวnว, o nasiraw la sa, u ye kurana jɛkakalan boloda haramu misiri sangan so filana na, waasa ka maaw nusวnja heji waatiw kวnว
 Iqna : ye nin lakali ka bว, Ali Akibari Hashimii la, o min nuuru cakɛda kuranakalan πɛmaa ye, ko nin kurana kalan kɛnɛ min sikila k`o bɛ ka juralikɛlaw kunbɛn kosวbɛ k`a sabu k`u ka dusukun saman ye ka πɛsin kurana kankan duman in ma, ko kan kวn ni ye kurana in tun bɛ daminɛ nɛkɛ kanπɛ 22 waati fว ka se 23 ma haramu siri sanganso filana na, Iran jamana kurana kalanna joolenw de bɛ k`a πanamaya, ko maa caman bɛ ka ye kɛnɛ in kan ni fototalanw ye waasa ka jaw ni kanw ta. 1124416"	60ca55ca1b3fa02cd93ce41f0bc73496
 				"Mali bulonba kɔnyejekulu ka ɔkutɔburukalo in sigili senfe, u bee jenna ni sariya n° 2023-25/PT-RM ye, min tara setanburukalo tile 29 san 2023, n’a be wele Liputako-Guruma benkan. O min bolonɔbilala Bamakɔ setanburukalo tile 16 san 2023 Mali, Burukina Faso ani Nizeri fe. Benkan in tubabukan daɲe surun ye (AES) ye. Mali kera jamana fɔlɔ ye k’a bolonɔbila.
 Wa a hakilila bɔra Mali kɔkankow minisiri Abudulayi Jɔpu de la. O de kosɔn a tun be bulonba kɔnseyejekulu ɲekɔrɔ k’a kɔkɔrɔmadon kunun ɔkutɔburu
-... 
+... (1977 chars skipped) ... 
 rɔ ko demokarasi, k’an bolo n’an senw siri k’an bali ka yiriwali sira ta, k’an bali ka ke an yere sago ye.
 Abudulayi Jɔpu ka fɔ la, nin y’a siɲe fɔlɔ ye Afiriki kɔnɔ, jamanaw ka je ka yerelakanan feere sigi senkan u yere ma, ka laban k’a jira, ko ni bin kera o tɔndenjamana kelen kan, a b’i n’a fɔ bin kera tɔndenjamana bee kan.
 Liputako-Guruma benkan laɲinin ye foroba lakanan ni kɔlɔsili sira dɔ cili ye an ni ɲɔgɔn ce, sigidalamɔgɔw ka lafiya kama. Jamana saba ninnu b’u sinsin benkan in kan, koju
-...
+... (1977 chars skipped) ...
 akilijakabɔko la, u bee y’o jaabi.
 Jamanakuntigi Koloneli Asimi Goyita ye denmisenw ka sɔrɔdasiya kalan kalandenkulu 4nan bɔli laje ɲemɔgɔya ke. A y’a jira k’u bena dɔ fara fasoden ɲuman hake kan jamana ka feere bolodalenw waleyali siratige la lakananni hukumu kɔnɔ..
 Jamanakuntigi Koloneli Asimi Goyita ye denmisenw ka sɔrɔdasiya kalan kalandenkulu 4nan bɔli laje ɲemɔgɔya ke. A y’a jira k’u bena dɔ fara fasoden ɲuman hake kan jamana ka feere bolodalenw waleyali siratige la lakananni hukumu kɔnɔ.."	04bd87945bc7a8e8aef1cb70c0bcd4ef
@@ -1033,23 +1033,23 @@ A jɛnsen na :
 Faransi kɛlɛcɛw k'u ye kunnafonidila Ghislaine Dupont ni Claude Verlon fagabagaw ɲɛmɔgɔ Baye Ag Bakabodɔ faga Mali kɔrɔnyanfan na
 Baye Ag Bakabo ka fagali kuma tun fɔra a yɛrɛ somɔgɔw fɛ bɔlɔlɔ fɔlɔ de kan kabi kunasini. Nka Barkhane tun m’a sɛmɛntiya kuma tɛ Faransi ɲɛmɔgɔyaso ma.
 RFI ye kunnafoni minnu sɔrɔ cɛ in kan, o ye ko AQMI tun kɛlen don ka Ag Bakabo ka baaraw ɲɛsin tile fila in na mɔgɔw fagali ma m
-... 
+... (84 chars skipped) ... 
  salon septembre kalo la.
 Baye Ag Bakabo tun t’a yɛrɛ jira tuma bɛɛ nka a tun dɔnnen don k’a tun bɛ Kidal ni Algérie worodugu cɛmancɛ la tuma bɛɛ, Tinzaouaten fan fɛ. A yera sinyɛ laban min la, o tun ye salon octobre kalo ye. O tun kɛra Sophie Pétronin ni Soumaila CISSE ka bilali sen fɛ.
 Munna cɛ in fagara sisan de k’a sɔrɔ a tun yɔrɔdɔnnen don?
 K’a sɔrɔ a minɛli yɛrɛ de tun ko bɛ Ghislaine Dupont ni Claude Verlon somɔgɔw ye, bawo n’ale tun sɔnna ka kuma, an tun bɛna a dɔn jɔn de ye RFI ka nin b
-...
+... (84 chars skipped) ...
 a sɔrɔ kalo tɛmɛnen, Faransi kunnafonidila fila ninnu somɔgɔ tun taara fo u ka jamana wasabulon la, k’a ɲini ko ""secret défense"" min bɛ Ghislaine Dupont ni Claude Verlon fagali kumaw kan, n’o b’a jira ko jamana ka gundola kuma don, k’o k’o wuli bawo olu b’a fɛ ka mɔgɔ fila ninnu fagacogo dɔn san 8 kɔ.
 Yani o fana cɛ; ONU ka kumalasela dɔ fana tun y’a ka kumasili jira.
 Agnès Callamard tun ko kiri tɛ ka kɛ a kɛcogo la kunnafonidila fila ninnu fagali ko la bawo ko sɛkɛsɛkɛliw balilen don ka taa ɲɛ."	59c80ffad665de0caeb2eb5c4139141b
 				"1. Nabilaye Isa la dunuɲan daminala di ?
 Isa lé yé Alla la dalifén fɔlɔ di. Ani adamadén tɔlu tɛ kélén di, baa Isa tɛrɛ mɛlɛka lé di sankolo dɔ djani a yé sɔrɔn dukolo kan (Yohana 8:23). A ma sɔrɔn muso sii la sankolo kɔnɔ. Yahuwa yɛrɛ kani lé ka a dan sankolo dɔ. Wô kôsɔn, Kitabu yé a fɔla Isa ma kô “ Alla Dén Kɛɛ ”. Isa tɛrɛ Alla kumankan laséla lé di, wô rɔ Kitabu yé a fɔla a ma fanan kô “ Kuman ” (Yohana 1:14). Alla ni Isa lé ka dalifén tɔ bɛɛ dan. — Mɛn karan Talilu 8:22, 23, 30, TMN ; Kolɔ
-... 
+... (774 chars skipped) ... 
 enɛzi 2:16, 17 ; 5:5, TMN). Ikômi Kitabu yé a yirala ɲamɛn, saaya dônna dunuɲan kɔnɔ Adama lé sabu rɔ. Wô rɔ, Adama ka hakɛ ni a sara, saaya kɔni, lasé adamadén bɛɛ ma. Adama ka an ladôn saaya la djɔnya mɛn rɔ, fo ka an kunka sara di wô kôsɔn. — Mɛn karan Rome kalu 5:12 ; 6:23.
 Djôn disé an kunka sara dila ka an bɔ saaya la djɔnya rɔ ? An ba saa, an ɲé an yɛrɛ la hakɛlu lé sarala. Hakɛ kɛla tɛ sé mɔɔ gbɛrɛ la hakɛ sarala. — Mɛn karan Zaburu 49:7-9, TMN.
 4. Isa saala mun kôsɔn ?
 Alla la kéladén I
-...
+... (774 chars skipped) ...
 lo fɛ makɔnɔnin la, haan Yahuwa ka a kɛ Mansa di dukolo bɛɛ kunna tuma mɛn (Hébrelu 10:12, 13). Sisɛn, Isa yé Mansa lé di sankolo dɔ, ala karandénlu yé kibaro ɲuman wô laséla dunuɲan fan bɛɛ rɔ. — Mɛn karan Daniyɛli 7:13, 14, TMN ; Matiyu 24:14.
 A tɛ mɛnna butun, mɔɔ mɛnlu yé tɔrɔya lala dôôlu kan, Isa di wôlu halaki ka tɔrɔya suu bɛɛ bɔ an kan ala Mansaya sabu rɔ. Mɛnlu bɛɛ ba dɛnkɛnɛya Isa ma, ka élu tolomalɔ a la, wôlu di nimaya sɔrɔn Aridjana kɔnɔ dukolo kan. — Mɛn karan Zaburu 37:9-11, TMN."	60486fa0d9339ffc3bf3194ef1a892a8
 				"MetaTrader jagokɛyɔrɔ ɲɛfɔli kuncɛlen : a sigicogo, a labɛncogo ani a jagokɛcogo Metatrader ka kɛnɛ kan san 2022 kɔnɔ. MetaTrader ye jagokɛyɔrɔ dɔ ye min ka di kosɛbɛ, min dabɔra ka jago baara kɛ Futures, Forex ani CFD suguw la.
@@ -1062,9 +1062,9 @@ A tɛ mɛnna butun, mɔɔ mɛnlu yé tɔrɔya lala dôôlu kan, Isa di wôlu hal
 - Graphique taamasiyɛnw
 - Graphiques (jaabiw).
 - Sugu
-... 
+... (6325 chars skipped) ... 
 wari falenfalen lakikaw sɔrɔ. Jagokɛla daminɛbagaw fɛ ani minnu ma baara kɛ fɔlɔ ni Metatrader plateforme ye, a ka ɲi u k’a lajɛ ka baara kɛ demo account kan. Nin ye sababu ɲuman ye ka jago dege MetaTrader la waleyali la. https://articles.opexflow.com/trading-training/torgovlya-na-demo-schete.htm Jagokɛlaw minnu tɔgɔ sɛbɛnna kaban dilanbaga fɛ, olu bɛ se ka don jago jatebɔsɛbɛn ɲɛnama dɔ la o yɔrɔnin bɛɛ. Walasa k’o Kɛ, “File” yɔrɔ la, “Connect to …” yɔrɔ sugandi, ka doncogo ni tɔgɔlasɛbɛn Dòn, 
-...
+... (6325 chars skipped) ...
 O kɔ fɛ, WebInstall file dɔ Dabɔ ni txt laban tɛ.
 Mun na n tɛ se ka komandi kɛ MT4 kɔnɔ? “Trade flow is busy” bɛ jira. A ka c’a la, jὲɲɔgɔnya tɛ sèrwɛri la walima ɛntɛrinɛti ma tigɛ. Ni ɛntɛrinɛti bɛ ɲɔgɔn kan ani ni fili bɛ to senna, i ka kan ka terminal daminɛ kokura.
 N ye tablo in bɔ yen bala la! Yala a bɛ se ka kɛ ka fɛn bɛɛ segin i n’a fɔ a tun bɛ cogo min na wa? N t’a fɛ ka segin ka don sigida bɛɛ la. “File” menu kɔnɔ, “Open remote” yɔrɔ sugandi, o kɔfɛ, jatebɔ bɛ segin ni sigicogo bɛɛ ye."	1d109d73dd7b398958122b187adeff7f
@@ -1089,7 +1089,7 @@ Ni douna komina m’be Bai deh di
 An dona histoire la i ko Kennedy
 Dongodo an beka Djé là do, djé la do nigga c’est la vie!
 Fake negguezy ni
-... 
+... (594 chars skipped) ... 
 i n’a fo n’ga Pap’ Papa!
 Aaaaah tane’fla (12) magan de be pa’pa , pa’pa
 Dogo tai kainai kan benaleh ki ta tah ta tah!
@@ -1108,7 +1108,7 @@ Ri-wa teh che-po là
 Dõn bai yé kelen yé?
 Ah Ni Bai Famouna x2
 Yeah Ni Bai 
-...
+... (594 chars skipped) ...
 aah Ni Bai famouna
 *Ganja morie*:
 Correcteur bi gnai là mais chichiii ya fumé, mogo chi gnaiti i yeux là mais Bai ya famou ka blener.
@@ -1136,7 +1136,7 @@ Làbɛn 3 : Bàngudɔn (physique) : Tlè n’a màntonw kisa.
 Dakun : Welenn...
 A tɔ Kàlan
 Bàngudɔn : Tlè n’a màntonw kisa bamanankan na (La physique
-... 
+... (387 chars skipped) ... 
 toko setigida 'yɔrɔ k'a Jìra k'a Fɔ k...
 A tɔ Kàlan
 Naawa Dùnbiya Ye Màli ‘dɔnkilidala ŋana ye min bangera 1960 sàn Mafɛlɛ. A Lamɔ̀na Bùgunin, Wasulu faaba la,...
@@ -1146,7 +1146,7 @@ A tɔ Kàlan
 Kayra Arbi Bangera 1959 sàn kalo 9nan tlé 21 Tumutu. A Sàra 2018 sàn kalo 8nan tlé 19 Bàmakɔ. Mali dɔ̀nkili war...
 A tɔ Kàlan
 Idrisa Sumaworo Ye Màli ‘dɔ̀nkilidala ye min Bangera 1949 kalo fɔlɔ tlè 19 
-...
+... (387 chars skipped) ...
 A tɔ Kàlan
 Kriscano Ronaldo dɔs Santɔs Aveyiro, n’a bɛ Fɔ a ma kosɛbɛ ko Kriscano Ronaldo walima Ronaldo ani n’a tɔgɔ f...
 A tɔ Kàlan
@@ -1161,7 +1161,7 @@ A tɔ Kàlan"	e85b0f1449eba6bb2a1c6f72251b9ac0
 A kolon fera, ibunadama xa lasiriya nun axa adamaya xafe rafalɛ non findixi yɛtɛralui tigitigira, a bara masen won bɛ, a tinxinyi nun bɔɲɛ sa bara sɛnbɛ sɔtɔ dunuya birin kui.
 A kolon fera, adamaya xafe sariyɛe mu mabanbanxi han to i bunadama yira, nafe naniɲɛ xi funmalaya, gere, gbaloe nun misikinɛ ya mu ɲɔnma. Kɔnɔ xabirin bara na sariyɛe ratinmɛ, gbaloe ɲɔnmanɛ, gere ɲɔn, funmalaya nun misikinɛ ya ɲɔn. I bunadamaya bara rasabati natɛ mui.
 A kolon f
-... 
+... (3666 chars skipped) ... 
 kui nun futi galife kui.
 - Futi mu nɔma sode fo ginɛ nun xamɛ lan fe keren ma.
 - Ɲama xundɛ singe lanxi denbaya nan ma, adaxa na denbaya xun xa makanta ɲama nun mangasanyi yira.
@@ -1170,7 +1170,7 @@ Sariyɛ fu nun solofere nde (17)
 - Funmalaya nde yo mulan axa adamadi sɔtɔse yira.
 Sariyɛ fu nun soloma saxan nde (18)
 Adamadi birin lan axa axa maɲɔxunyi masen a sagora, a xaxili rawali, a so dinɛ a sagora. Na sariyɛe nɔma a niɲɛde adamadi di
-...
+... (3666 chars skipped) ...
 sabati kui, na nan aniɲɛma axa na maraba anun axa yɛtɛralui mabanban sadɔxɔfe mixi gbɛtɛ ra alako taxasi nun yiriwɛ sabati ma ɲama kui kinaxɛ naxan a yɛtɛ ra.
 - Na wayibiyae nun na yɛtɛ ralui mu nɔma rabade muku O.N.U. waxɔnfe nun axa sariyɛ saxie xanbi.
 Sariyɛ tongosaxan nde (30)
@@ -1178,12 +1178,12 @@ Sariyɛ nun wayibiya yo muna yi masenyi xungbe kui naxan kiraya nde masenxi ɲam
 				"Mànden jàmana
 Mànden daminɛ na, màninkaw ‘dàn ma de tùn Bɛ yèn. Nkà fànga bònyanen, u ye jàmana wɛrɛ Màra k'o Fàra Mànden kan. Mànden fàamadugu tùn Ye Лani ye; o tùn Bɛ bada la, ba min tɔgɔ Ye ko Sankaranin. Sanu min tùn bɛ Bɔ Sigiri dàmanda la, o tùn Ye Mànden fàamaw ‘ta ye.
 Sumanguru Kantɛ tùn Ye Sòsojamana fàama ye (dɔw ko ale de ma ko Sumaworo). Sòso Bɛ Mànden ni kὲɲɛka ‘cɛ. An Bɛ bì min na, Sòso dùgu yὲrɛ Bɛ bɔrɔn fɛ, Bananba kafo ‘kɔnɔ. Jèliw ko Sumaworo de ye Mànden jàmana fàama den 11 bɛ
-... 
+... (1881 chars skipped) ... 
  (fàamaw ka fàama).
 Sùnjata kɔ
 Sùnjata denkɛ sàba bɛɛ Sìgira fànga na kelen-kelen: kabini fà Banna fo 1270 sàn na, Màsa Wulen Sìgira fànga na. Ale de ye Mànden fànga Bònya k'a Se Bànbuku ni Faleme ma. Wati ka fàamaya y'a Tà 1270 sàn na fo 1275 sàn. Kàlifa ma Mɛn fànga na. Ale ni màaw ma Bὲn. U y'ale Fàa. Abubakari tùn ye Sùnjata balimaden dɔ ye, o ye sàn tan Kɛ fànga na fo 1285 sàn.
 Sakurà tùn tɛ Sùnjata ‘bɔnsɔn ye. Dɔw yὲrɛ ko ‘jɔ̀n kɔrɔ dòn. Ka Sakurà to fànga na, Mànden ye bònya Sɔ̀rɔ kosɛbɛ.
-...
+... (1881 chars skipped) ...
 rɔbɔrɔfaama denkɛ fìla minnu tùn Bɛ màsakɛ ‘bara, olu Bòlila kà Sègin u fàso la. Kɔrɔbalen min tɔgɔ ye Ali, o ye fànga Tà Gàwo. Kɔrɔbɔrɔjàmana y'a yὲrɛ Tà kà Bɔ Mànden màra ‘kɔnɔ.
 Kabini Kànku Musa Sàra, Mànden fànga Nàgasira. Surakaw ye Tumutu Bɔ̀si Mànden na. Kɔrɔbɔrɔfaama min tɔgɔ ye ko Asikiya Muhamɛdi, o de Labanna kà Mànden Màra, kà Taa ni kɛyitaw ye Gàwo jɔ̀nya la.
 Mariyan-Madi Susɔkɔ, 1988, Wagadu fo Sudan, Bamakɔ, Editions Jamana, ɲɛ 17-23
@@ -1191,12 +1191,12 @@ Blàdon : 2020-04-30 Yɛlɛmako laban : 2020-07-20"	2ac8a0f24c19b48d0466352d45a0
 				"Silamԑ jamanw ka sigi dƆ be senna jedda dugu kƆnƆ makan jamana kan, Mali jaman kƆnƆ gԑlԑya kow kan
 Diπԑ Ɲun kulu: ko diπԑ silamԑ jamanaw ka kƆkan minisiriw ka lajԑba fƆlƆ be senna jedda dugu kƆnƆ bi 13/5/2013. walasa ka mali jamana kƆnƆ gԑlԑya kow fԑsԑ fԑsԑ , wa ko iran jamana kƆkan minisiri fana be nin kԑnԑy kan, sigiy be kakԑ silamԑw ka tƆnbay ka lasikiden soba la jedda dugu kƆnƆ.
 Ikna kibaru laselaw y'aminԑ kabƆ (al ahram) kibaru carin yƆrƆla teleba sanfԑ, ko: ni sigiy min n'obolodara k'ada t
-... 
+... (108 chars skipped) ... 
 lԑya kow fԑsԑ fԑsԑ.
 Wa ko ni lajԑy sigi bagaw bena siraw deta walasa mali jamana dԑmԑ jamany kƆnƆ gԑlԑya kow la ani ka se ka mali jamana saheli yan fanw kolƆshili kow jateminԑ.
 Jateminԑw y'ajira k'afƆ ko ehsan oghlu bena kuma bi jedda sigiy na, mali jamana kƆnƆ gԑlԑya kow kan ani sira minun kakan kata walasa ka ulu wili cƆgƆmin na, wa ko silamԑw ka nin ton bay bena waleyaw ta walasa ka jamnay dԑmԑ akƆnƆ gԑlԑya kow na basigi ni sabati ni lakana kow la.
 Wa ko silamԑ jamana caaman ka kƆkan minisiri
-...
+... (108 chars skipped) ...
 inisiri, k'afara jamana wԑrԑw maaba dƆw kan minun be nin tƆny na.
 Wa ko πinan san 2013 kalo fƆlƆ tile 11 don faransi jamana ye kԑlԑ bolw wili walasa ka maa murutilenw(taliban ka maw) kԑlԑ ulu minun tun kԑnbԑ ka mali jaman yƆrƆ dƆw minԑ in'afƆ , Gawo, toumbuktu, ani kidal, wa ko ni faransi jamana ka nin kԑlԑboloy tun tԑ maa nu nun tun πԑsinbe jamanay faaba dema n'oye bamako ye, wa ko faransi ni mali deye kԑlԑ denw de farala πƆgƆn kan kase ka ni maa murutilen nunun gԑn kabƆ mali jamana kan
 1226942"	bdf335e59fbab86671dacca225297956
@@ -1222,12 +1222,12 @@ Kɔrɔkun balɔ᷇ soobun yigberu “Gbee kete” ba Kuurun “Gbeekù musukuba�
 Walasa ka dabiw faga, aw bɛ dilanw ni finiw bila jikalan na, walima ka u yangan tasumafunteni na (funteni min ka ca ni degere 50 ye) fo miniti 20 ɲɔgɔn. Ni aw bɛ se ka bɔgɔjɛ walima bugurijɛ (farafinfɛnɲɛnamanifagalan) sɔrɔ, aw bɛ o funfun dilan kɛrɛfɛlaw la, o bɛ dabiw gɛn. Aw bɛ se ka dɔ funfun matelaw, liw ni aw siyɔrɔw la. Aw bɛ se ka alikɔli ni finikosafinɛ ɲagami ji la. Aw bɛ o funfun dabiw dogoyɔrɔ bɛɛ la, ka to u ka ja. Aw bɛ o kɛ siɲɛ caman dɔgɔkun 2 kɔnɔ. Pirɛtirini (pyréthrine) walima pɛrimetirini (perméthrine) (min kofɔra ɲimiw furakɛli la), o fana bɛ se ka mako ɲɛ. Walasa ka aw yɛrɛ tanga dabiw ma, aw bɛ to ka dilanw ni matelaw bila tile kɔrɔ."	5fa771f54e8acb1e19288e2c01523925
 				"1. Kɔkankow ni diɲɛ tɔnbaw cɛ koɲɛnabɔ minisiri ye laseli kɛ, minisirilajɛ jɛnna ni min ye. O ye sariya ŋaniya sirilenw ye Sahelikungo jamanaw ka faraɲɔgɔnkan tɔnba (AES) kunkan. O tɔnba in sigira senkan Ɲame, Nizɛri faaba la zuluyekalo tile 06 san 2023, a jamanakuntigiw ka lajɛba 1lɔ senfɛ.
 « AES » sigili senkan, o kɛra jamana saba ninnu jamanakuntigiw kɛlen kɔ k’u bolonɔ bila Liputako-Guruma bɛnkansɛbɛn na faraɲɔgɔnkan kama u ni ɲɔgɔn cɛ. A laɲinin ye k’u fangaw fara ɲɔgɔn kan basigi sabatili 
-... 
+... (1789 chars skipped) ... 
 eyejɛkulu fɛ, a ka ɲɛfɔli kɛ waleya kofɔlen kan ni sɛbɛn ye, Mɛri bɛ min don fanga ka lasigiden bolo sɛrɛkili kɔnɔ…».
 A kɔlɔsira o bɛ waati jan bɔ, ko fiɲɛ bɛ Kɛɲɛba, Sitakili, Moribabugu ani Nuga kominiw kɔnseyejɛkuluw ka baaraw kɛcogo la ; u b’a la ka sariya sɔsɔ.
 Ka da mara kɛcogo jugu kan u fɛ, a tun ɲininna u fɛ, u ka ɲɛfɔli kɛ u jalakikunw kan, ka kɛɲɛ ni kominiw marali sariya sariyasen 8nan kɔnɔko ye. U ye jaabiw di o la.
 Wa u jalakilen don waleya minnu na, o jɔra u la ; o de kosɔn kɔnsey
-...
+... (1789 chars skipped) ...
 Malidenw yere dama ce sigikafɔba kene kan, u y’a ŋaniya kumaɲɔgɔnya sigikafɔ in da ka yele kojugubakelaw ye, ka silamediine dungew don an n’u ce kɔrɔfɔw la. U y’a ɲinin fana, ko ka kuranko geleya furake joona walasa hakilisigi ka na mɔgɔw la.
 Faso tɔgɔla sigikafɔba min daminenen file, o bena ke sababu ye Malidenw ka kumaɲɔgɔnyaw ke u ni ɲɔgɔn ce ka furaw dajira geleya kofɔlenw na. A ka kan ka se ka hadamadenya juru caanin an ce, ka dɔ fara ku-ɲɔgɔn-kan fanga kan ani ka na ni ben kutaala jan ye.."	ec40489cab85eef10d7d31d439e27692
 				"Zambie: jamanaden miliyɔn 7 weelen don kalatasonw kɔnɔ bi k’u ka jamana ɲɛmɔgɔ sugandi cɛbɔ 16 cɛ la
@@ -1245,7 +1245,7 @@ A tɔ Kàlan
 damaden fàrikolo ye mìnɛnw fàra-faralen ye ɲɔgɔn kan kà Jὲ kà mɔ̀gɔ fàrikolo sawura D’a ma. Fàrikolo s...
 A tɔ Kàlan
 Fàrikɔn ye ‘dègun ye min bɛ fàrikolo Sɔ̀rɔ kà Bɔ jirifeeremuguw 
-... 
+... (433 chars skipped) ... 
 à Fatu 1968. Risila jàmanaden Dòn, wà a y’a ka kàlan n’a ɲɛnamaya Kɛ Risila jàm...
 A tɔ Kàlan
 Liyɛf Лikalayenfic Tɔlstɔy
@@ -1256,7 +1256,7 @@ A tɔ Kàlan
 Granwil Taylɛr Wuds Bangera 1856 sàn kalo 4nan tlè 23 Ohiyo, Kolɔnbus fɛ. Ale de tùn Ye ‘fàrafin ye, min ye sin...
 A tɔ Kàlan
 Waatiko cakɛda ko sanko bɛ Ye 'sen na Bàm
-...
+... (433 chars skipped) ...
 n
 Nìn Ye Fàrafinna dànkelen-ntolatanba donnabanw jaabiw ye. Kùnnafoni dilen Dòn a tàkohakɛ, a labɛnjamanaw, a seba...
 A tɔ Kàlan
@@ -1268,10 +1268,10 @@ Salif Keyta Ye ‘màliden ye, min Bangera 1946 sàn kalo 12 tlé 12 Bàmakɔ. A
 A tɔ Kàlan"	3a827332398b1f21ec3849ab6e0143c4
 				"Seli minnu ɲɛsinnen bɛ diinɛ kow ma ani seli gansanw, n’u bɛ kɛ diɲɛ fan caman na bi, o seliw ma bɔ Bibulu kɔnɔ. O la sa, o seliw bɔra min? N’i bɛ se ka taa gafelasagonyɔrɔ dɔ la, gafew bɛ min fɔ seliw ko la minnu bɛ kɛ ka caya i ka dugu la, i bɛna fɛn nafamaba sɔrɔ olu ko la. An ka misali dɔw ta.
 Paki. Gafe min tɔgɔ ko The Encyclopædia Britannica, o b’a fɔ ko: “An tɛ hakilina foyi sɔrɔ Bibulu Layidu kura kɔnɔ min b’a jira ko Paki seli tun bɛ kɛ.” Paki seli daminɛna cogo jumɛn na? O bɛ bɔ josɔnn
-... 
+... (467 chars skipped) ... 
 ɔ min na, an ka o lajɛ. Gafe min tɔgɔ ko The World Book Encyclopedia, o b’a fɔ ko: “San 46 ka kɔn Krisita tile ɲɛ, masakɛ Jules César y’a latigɛ ko san Zanwuyekalo tile 1 ka kɛ i ko San Kura don. Romɛkaw tun ye o don di Janus de ma, n’o tun ye dondaw ani daminɛ ala ye. Zanwuyekalo tɔgɔ dara Janus la, ɲɛda fila tun bɛ min na: Kelen ɲɛsinnen bɛ ɲɛfɛ, kelen tɔ ɲɛsinnen bɛ kɔfɛ.” O la sa, San Kura seli sinsinnen bɛ josɔnnaw ka laadaw de kan.
 Saint-Valentin. Gafe min tɔgɔ ko The World Book Encycloped
-...
+... (467 chars skipped) ...
 
 Seli wɛrɛw. Seli minnu bɛ kɛ diɲɛ kɔnɔ, an tɛ se ka kuma olu bɛɛ kan. Nka, seli minnu bɛ nɔɔrɔ da hadamadenw walima jɛkuluw kan, Jehova tɛ sɔn olu ma. (Jeremi 17:5-7; Kɛwalew 10:25, 26) A to i hakili la fana ko seli min ɲɛsinnen bɛ diinɛ ma, o bɔyɔrɔ b’a to o seli bɛ diya Ala ye walima o tɛ diya a ye. (Esayi 52:11; Jirali 18:4) K’an sen don seliw la minnu tɛ diinɛ seliw ye, Ala bɛ o seliw ye cogo min na, Bibulu sariyakolo minnu fɔlen bɛ nin gafe Tilayɔrɔba 16nan na, olu bɛna i dɛmɛ ka o latigɛ."	2a5cb185f6ca2768fdad74fc8a06deee
 				"Akira Toriyama, n’o ye Dragon Ball ni Dɔgɔtɔrɔ Slump Arale-chan dabɔbaa ye, o sara marisikalo tile fɔlɔ san 2024 k’a sababu kɛ joli-sira-funu jugumanba ye. A si tun ye san 68 ye.
@@ -1279,7 +1279,7 @@ Maana dɔ bɛ yen min bɛ to mɔgɔ hakili la Akira Toriyama kan.
 A to n ka gundo maana dɔ fɔ aw ye, min bɛ baara kɛ ni sɛbɛnnikɛla ŋana “Dr. Masirito” aka Kazuhiko Torishima ye.
 O kɛra sanni Akira Toriyama ka kɛ manga dɔnkilidala ŋana ye.
 Sani manga min ye mɔgɔw nisɔndiya, o ka bange, Mr. Kazuhiko Torishima, n’a bɛ fɔ a ma 
-... 
+... (247 chars skipped) ... 
 a o waati la, olu jogo tun ka dɔgɔ, wa u tun man di.
 Kɛrɛnkɛrɛnnenya la, Akira Toriyama “hakili tun t’a la ko min ka di mɔgɔw ye ani min tɛ mɔgɔw fɛ.”
 Torishima tun cɛsirilen don ka bɔ o ko in na.
@@ -1287,7 +1287,7 @@ Ni hakili kelen cɛsiri ye ka bɔ nin ko in na, a y’a latigɛ ka “laɲini ba
 O tɛmɛnen ‘kɔ, a ma ci bila a ma ko “a ka nin ɲɔgɔnna fɛn sɛbɛn. O kɔrɔ ye ko a ye “proposition rejectée” dɔ Lase k’a sɔrɔ a ma foyi Fɔ.
 N y’a ɲini k’a sɛbɛn, u ma sɔn a ma.
 O kɔfɛ, n y’a ɲini ka nin 
-...
+... (247 chars skipped) ...
 ma kɛ sababu ye” minnu cilen don Akira Toriyama ma, olu hakɛ sera 600 ma.
 O kɔfɛ don dɔ, sɛbɛnnikɛla kuntigi Torishima labanna ka OK di.
 O kɛra sababu ye ka “Dɔgɔtɔrɔ Slump Arale-chan.”
@@ -1299,13 +1299,13 @@ Dugu yɔrɔfɔli
 Kayi marabolo kolomi dɔ bɛ yen ko Kita. Faraba ɲafala b'o de 'kɔnɔ. A bɛ galoda min na o ye bɛnkadi fuɲa ye. A n'o Kita in cɛ ye bam 4 ye. A n'a ka galotigidugu ta ye bam 10 ye. A ni kayi yɛrɛ ta ye 315. Dugu misɛnnin minnu bɛ k'a Lakoori olu Flɛ: Kɔrɔn fɛ, Banjugula bɛ yen ni bam 4. Tlebin fɛ, Danbana bɛ yen ni bam 3 ye. Kɛɲɛka fɛ, duɲa bɛ yen ni 7 ye. Wòroduguyanfan fɛ Kita bɛ yen ni bam 4 ye.
 Dugu tɔgɔko
 Faraba ɲafala tɔgɔ Sɔrɔla a tu Tigɛbaa siyɔrɔ fɔlɔ de fɛ. O
-... 
+... (1480 chars skipped) ... 
  yen fɔlɔ.
 Dugu fɛɛrɛko
 Marifa, wosen, fɛlɛbɔ, nkalaɲɛ, manabɛlɛ, ntɛnfɛrɛ wɔlɔjuru, basaminɛ-nɛgɛ, jakumaminɛ-nɛgɛ, dingɛ tigɛli ka wɔlɔfan Blà o la, o bɛɛ y'u ka kungosogow ni kɔnɔw fàalifɛɛrɛw ye. U b'u ka misidenw Dabɔ ni ncɔlɔ ye. U b'u ka misi murutilenw Minɛ ni jonbori walima k'a Nɛgɛ ni dumunifɛn ye walima k'a bagan masina Koron ka Dòn yɔrɔ koronnen dɔ la.
 Dugu yiriwaliko
 Yen ko kura nàlenw ye: Лɔʃimansin, jabaranin, tlebarika-walan, pɔnpekɔlɔn, sɛnɛkɛ-mansin, sènfɛjuru, arajo ani moto y
-...
+... (1480 chars skipped) ...
 w ye fuganin jujan ani kɔmitɔ ye.
 Dugu Kaburudoko
 Yen Kaburudonko ye dubako ye. O sababu de y'a To yen kaburudon Taar'a yɛrɛ Sɔrɔ fo Wɔɔrɔ la. Wa fànko t'u ta la.
@@ -1320,13 +1320,13 @@ Ni yoro ye dunaw munuw bi ya o lu ka ko ɲana bo baka ye ministri mi ka ko ɲɛ 
 Sommaire
 Ni yo ro fɔlɔ ye mi bɛ dunaw dɛmɛ ka to ya[yɛlɛma | modifier le wikicode]
 Ni yo ro fɔlɔ ye mi bɛ dunow dɛmɛ ka to y
-... 
+... (159 chars skipped) ... 
 .
 Ni yoro fɔlɔ ye bi sɔrɔ yɔrɔ nani o lu Lampedusa, Elmas, Otranto e Pozzallo.
 Ni yoro ye dunow kun bɛ a ni ba ɲini ka to ya[yɛlɛma | modifier le wikicode]
 Dunaw nuw Itali kaw bɛ u bila yoro la ku dɔ fɔlɔ ni sɛbɛ bɛ se ka di u ma e ka ɲɛdɔ nuw bɛ se ka to ya. Mamunuw bɛ dɛmɛ ɲini u bɛ taa ɲini yoro mi yoro la mibɛ u dɛmɛ ka to ya o yoro ye asile ye.
 Ni yoro ye sigida taaninani ye o lu ye ni dugu ye Gradisca d'Isonzo, Arcevia, Castelnuovo di Porto, Manfredonia (Borgo Mezzanone), Bari (Palese), Br
-...
+... (159 chars skipped) ...
  Elmas.
 Sɛbɛ bɛ di yoro mi a ni mi bɛ u gɛn[yɛlɛma | modifier le wikicode]
 Ni cɔ ko ya la dunaw munuw se ra Itali fɔ u ma na ni seriya sɛbɛ ye, u na kun kele ma dɔ,u bɛ bila yoro la u bɛ lakana yoro mi, mamunuw ni sɛbɛ tu u bolo ka jira ka fɔ u bɛ se ka toya,walima ni sariya ya jira ka fɔ u tise ka toya . Dunaw nunuw bɛ se ka to ni yoro ni na fɔ kalo 18,yani u bɛ gɛn ka taa u ka jamana ka.
@@ -1341,10 +1341,10 @@ Please login to access the full content or check if you have access via
 Prati, L.; Lucaroni, L.; Cazzamalli, S.; Neri, D.; Oehler, S., Science of Synthesis: DNA Encoded Libraries, early view.
 General Introduction
 DNA-encoded chemical libraries (DELs) are large collections of compounds, individually linked to specific DN
-... 
+... (2777 chars skipped) ... 
 eeeeeee eeeeeeee, eeeeeee ee eee eeeeeeeeee eeeeeeeee ee eeeeeee eeeeeee eeeeeee eeeeeeee ee eeeeeeeeeeeeee eeeeeeee eeee ee eeeeeee 8 ee eeeeeeeeeee eeeeeeee.[88,88]
 Meeeee eeeeee MMMM eeeeeeeeee, eeeeeee eeeeeeeeeeee eeeeeee eeeeeeee eeeeeeeeeee eeeeee eeeeeeeee eeeeeeeeeee. Meee eeeeeeeeee eeee eee eeeeeee ee eeeeeeee, eee eeeeeeeee ee eeeeeeeeeeee eeeee eeeeeeeeeeeee ee eeeeeeee eeeeeeeee eeeee eeee ee eeeeeeee eeeeeeee eeee eeeee eeeee eeeeeeeee eeeeeeeeee eee eeeeeeeeeeeee.[88] Meeeeeeee e
-...
+... (2777 chars skipped) ...
 +), e eeeeee eeee eee eeeeeeee eeeeee ee eeeeeeee eeeeeeeeee MMMM eeeeeeeeeee, eeeeeeee eeeeee eeeeeeee ee MMMM eee eeeeeeee eeeee-eeeeeeeee eeeeeeeeeee.[8,88] Meee e eeee-eeeeeeee eeeeee ee eeeeeeeee, eee eeeeeee eeeeeeee ee MMMMe eeeeeee eee eee ee eeeeeeeee eeeeeee eee eeeeeee eeeeeeee eee eeeeeeee eeeeeeeeee eee eeeeeeeeeee eeeeeeeeeeee.[88,88] Me Meeeeee 8.8.8.8.8.8, ee eeeeeeee eee eeeeeeeee ee e MMMM eeeee ee MMM+ eeeee ee eeeeeeeee ee e eeeeeeeee eeeeeee ee e eeeeeeeee eeeeee.
 References"	9b9bc10da15a1aceedeea52b9c9249f9
 				"Mozanbik
@@ -1361,11 +1361,11 @@ Wasaden senateruw ye ""France"" kɛlɛdenw ka minisiri ""Florence Parly"" ɲinin
 				"- Bi Baro: O bɛna taalikɛ Bɔn bana (Cancer) min bɛ musow sinji minɛ dɛ kan (anka dunan fɔlɔ yɛ dɔcɔtɔrɔ yɛ a tɔgɔ Roland SOME kabini Burkina, anka dunan flanan yɛ muso kafo nyɛmogo yɛ, Sira KONATE)
 -
 Kan jumɛn bɛ yɛn? Dɔgɔkun hakilinan ɲuma: Bachiratou Biao de y’a di Bachiratou Biao, ale bɛ nɔnɔ bayɛlɛma ka kɛ ‘’mozzarella’’ foromazi ye Mali jamana kɔnɔ. Bi ladilikan: Bachiratou Biao de y’a di An bɛna dɔngilidala min lasɔrɔ : tɔgɔ ye Ballo de Pourou ka bɔ Côte D’Ivoire jamana kɔnɔ.12/05/2023 25:
-... 
+... (100 chars skipped) ... 
 kɛɲɛnbaliya kɛlɛli la An bɛ kuma seko ni dɔnko jɔyɔrɔ kan hadamadenw ni ɲɔngɔn cɛ. ‘’An ka dunan ye Assetou Koné ye ka bɔ Sénégal jamana kɔnɔ, ale ye seko nin dɔnko baarakɛla ye.12/05/2023 25:00
 -
 Kan jumɛn bɛ yɛn? Dɔgɔkun hakililanan ɲuman: Maïmouna Ndiaye de y’a di Maïmouna Ndiaye, ale ye seko ni dɔnko baarakɛla ye.Bi ladilikan: Dr Sadio Sissoko de y’a di, ale ye kɛnɛya baarakɛla ye An bɛna laseli min lasɔrɔ : Bɛ kuman ‘’Ensemble instrumental’’ dɔngilidakulu de kan Lagine jamana kɔnɔ.05/05/202
-...
+... (100 chars skipped) ...
 ka seko ni dɔnko la ‘’An ka dunanw ye Awa Fanny ye ka bɔ Côte D’Ivoire jamana kɔnɔ, ale be yɛlɛko jaw bila Tik Tok sanfɛ ani Dr Drissa Condé, ale ye hadamadenw cɛ dɔnbaga ye ka bɔ Lagine jamana kɔnɔ) .05/05/2023 25:00
 -
 Kan jumɛn bɛ yɛn? Dɔgɔkun hakilinan ɲuman: Aliou Maiga de y’a di ka bɔ Sénégal jamana kɔnɔ Aliou Maiga bɛ kɔgɔbɔ de kɛ ‘’Lac Rose’’ la, Sénégal jamana na. Bi ladilikan: Aliou Maiga de y’a di An bɛna laseli min lasɔrɔ : bɛ kuma zirin nafa de kan Lagine jamana kɔnɔ.28/04/2023 25:00"	26c275f6719622a93ca71f72ad5d2971
@@ -1388,9 +1388,9 @@ O de kama, kamalennin ninnu dɔw bɛ taa u sigi Bamakɔ dɔgɔfiyɛbada la ka m�
 Mɔbiliw se waati ye lajɛlifɛnba ye o la ye kamalennin ninnu cɛ. U bɛ boli ka mɔbili kunbɛn walasa ka minɛn dɔw sɔrɔ k’olu jigin k’o sara minɛ k’o bila u jufa la. Lajɛlifɛn sɛbɛkoma don k’a sababu kɛ, u kelenna bɛɛ, k’u miiri dalen to min b’u kɔ so kan, bɛɛ bɛ fɛ ka wari caman sɔrɔ ka taa so danbe kɔnɔ. Yanni mɔbili ka jɔ, bɛɛ b’i dulonyɔrɔ ɲini mɔbili la, ka bɔrɔ dɔ, tasa dɔ walima segin falen dɔ sɔrɔ k’o jigin, n’o tigi b’u sara minɛn selen kɔ a seyɔrɔ la.
 Nin baara in bɛ jagokɛlamuso ninnu dɛmɛ kosɛbɛ bawo n’o tɛ, a ka gɛlɛn dɔw ka se ka taa n’u ka minɛnw ye u sigiyɔrɔ la."	b0610c298b244200aaa52fefb9e6e1d1
 				"1Mɔgɛ minnuta dɛnkɛninyɛ ma kolo wo tɛma, wo ni wonu tabira. Ka a fɔ ko kɛ bɛnta, kɛ ma bɛn, wo sɔsɔli sufa kana na wo tɛma. 2Mɔgɛ do lanɛ a la ko a si ke fan bɛɛ dɔnna. Mɔgɛ minta dɛnkɛninyɛ ma kolo, wo ti soge dɔn fɔ sɛnita-fannu gbansan! 3Mɔgɛ min da tanɛ sa, wo kana mɔgɛ doi wo lafɛya. Min bi sɛnita-fannu gbansan dɔnna, wo kana doi rasɛ min bi fan bɛɛ dɔnna bawo Alla ara anu filɛ bɛɛ rabira. 4Yon bi ile la min bi mɔgɔ gbɛrɛla wɔli kɛlɛ rasɛla? Ni a buira wo, a sɔra wo, wo bɛɛ tonɛ a tigi le 
-... 
+... (848 chars skipped) ... 
 dɛnkɛninya-nyɔgɛ rasɛla, i ye wo mala nfenna? I ye i dɛnkɛninya-nyɔgɛ lafɛyala nfenna? Kiti-tɛgɛ-lunyɛ, ma dama si sɔ Alla yakɔrɔ. 11Ado a sɛbɛnɛ Allala kitabu rɔ ko Mari ara a keli a nyɛrɛ rɔ ko mɔgɛ bɛɛ si na a nyɛnkin a ye. Mɔgɛ bɛɛ si a fɔ a dɛ la ko Mari le Alla la. 12Ma kelen-kelennamɛ-bɛɛ si ma nyɛrɛ dantɛgɛ Alla ye worɔ. 13Woletɔ ma ni fara ma nyɔgɔn tasɛla. Ado wo ni a latɛgɛ ko wo kana ko-wo-ko ma min si wo na kelen nyɔgɔn kian latugu. Wo kana a ma, a ni bui hakɛ rɔ. 14N bi Mari Yisa r
-...
+... (848 chars skipped) ...
 ɔ min si mɔgɔ do labui hakɛ rɔ, wo dɔn ma telen. 21Min fisa, sogo-dɔn wo, gbɛɛ-minyɛ wo, ko-wo-ko min si a ma, wo na kelen nyɔgɛ la ni bui ala dɛnkɛninyɛ rɔ, wo kana wonu ma. 22Wo lanɛ min na koe kɛnu tɔ, wo ni wo lamara wo nyɛrɛ anubɛ Alla tɛma. Ni mɔgɛ ya a lɔn ko a ye ko-latelennɛ le mala, ado a ma sika a nyɛrɛ rɔ, wo tigi sewanɛ le. 23Kɔnɔ ni a sikanɛ ala dɔn-fan rɔ, a wa a dɔn tumɛ min, Alla si a yiliki bawo a ma a dɔn dɛnkɛninyɛ fɛ. Ado ni wo ya ko-wo-ko ma wo sikanɛ min tɔ, hakɛ le wo la."	074e6a9fe8d143b7b18d384fddb2c262
 				"Kenya jamana kalata-jɛkulu ɲɛmaa y’a Jira jumadon ko William Ruto de ye sebaaya Sɔrɔ jamanakuntigi-kalata la Raila Odinga kan, tile wɔɔrɔ makɔnɔni kɔfɛ ani kabako ban in jaabiw la nin yɛrɛmahɔrɔnyatɔn in yɔrɔ dɔ fɛ.
 Wafula Chebukati y’a jira ko jamanakuntigi kɔrɔ Ruto ye wote miliyɔn 7,17 ni kɔ lajɛ, n’o ye wote 50,49% ye, k’a sɔrɔ a fadɛn cɛ Odimga ye wote miliyɔn 6,94, min bɛ bɛn 48,85% ma, ye Odinga ka kalata gɛlɛnw dɔ la kelen sɔrɔ jamana tariku kɔnɔ. William Samoei Ruto Kɛra Kenya jamanatigi duurunan ye, a bɛ Uhuru Kenyatta nɔ na min, a kɛlen kɔ ka sàn fla Kɛ kabini 2013 sàn, a balila ka jɔyɔrɔ sabanan Sɔrɔ. A tun bɛ Odinga ɲɛfɛ ni wote 233211 ye kanpaɲi ni wote kɛlen kɔfɛ.
@@ -1415,7 +1415,7 @@ Yaffa, an n’diyana mogo
 Na yaffa, n’diyana mogo le yaffa ne ma
 Ne doun ba kaih ko moun kaih ni djugu man do
 N’bi delila yaffa n’ma, 
-... 
+... (232 chars skipped) ... 
 i le kouma nin di
 Tugna yairai ye kanou le diya n’ga Lanaya le di
 Na doun te kanou min na
@@ -1433,7 +1433,7 @@ Yaffa ahn n’diya na mogo
 Al i ba mobili di diyana mogo ma ni ma doussou souma
 A te diyala a ye
 Dous
-...
+... (232 chars skipped) ...
 mogo ma
 Ni ma doussou souma la kan, a te diya la ye
 Doussou souma mana bo diya ye kan, o fila de wala
@@ -1458,11 +1458,11 @@ Ka laillaha ilalahu koro Doni, Dankaniya, Tiyintikiyali, Nkaniya kinrin ni , Yer
 Tubi ye munye, Tubi fusamatiyaw, Tubi saratiw,Tubi nafaw, lasuli kata tubi ma yani sunkalo tie.
 Silameya ye Muye, Silameya famuya, Silameya layiniw, Dusukun kilani, Dembaya labeni, Manto labeni.
 Silameya ye Allah dine Ani A tabolo Ani A layini ye Allah ko ye, Hadama deny
-... 
+... (1010 chars skipped) ... 
 ah kelen bakatiya kan O bedo Ardjine kono, fili miniw Be Moko soro Allah kelen bakatiya kumakan Na, Allah kelen bakatiya Kumakan Be Midjani giriya.
 Allah kelen Bakatiya Beke sababu ye ka djiyin Ani lahara geleya Wili kabo moko kan, Allah kelen Bakatiya Beke sababu ye ka Allah djiyin soro, ANI ka kira ka soronali soro, ANI ka Bara Yuma keli Nokoya djon ye, ANI ka Ibo djonw ka djonya la ka Ibila Allh ka djonya la.
 Ka kanu Ika Don finmbe la, ka kanu Ika bila finmbe yinmokoya la, ka kanu Ika Tanu fi
-...
+... (1010 chars skipped) ...
  kela laBy Ousmane Solihou Traore
 Dusukuna siri kere kere Ni Allah ye Fin minuw Be O tiyinBy Ousmane Solihou Traore
 Allah kelen Bakatiya ye muyeBy Ousmane Solihou Traore
@@ -1482,15 +1482,15 @@ sira surun: http://IslamHouse.com/898777
 ni mankutun wolomala woloma tioko nato la
 ni karti bayelemana ka taga ni kanw la: Arabu kan - anglais kan - talgou kan - indonesi kan - amhari kan - sinhali kan - tigiriniya kan - Akani kan - afari kan - Malezi kan - chiniwa kan - uzbeki kan - portigue kan - tamili kan - swahili kan - Vietnami kan - rusi kan - tajiki kan"	194e1931a72bea3756aca65d8860049b
 				"1Mɛlikisidaki ye so-tigiyɛ le la Selam soe burɔ nun. A ye saraka-masɔlayɛ fanan na Alla ye, Alla min Bi Fan Bɛɛ Kun Na kɔni. Ma benba Iburayima bɔnɛ mansɛ doinu nɔ tinɛ kɛlɛ rɔ, anubɛ Mɛlikisidaki bɛnta kilɛ la. Ale Mɛlikisidaki duwara Iburayima ye. 2Iburayima ya nɔnfulu min bɛɛ sɔrɔn kɛlɛ rɔ, a ya wo bɛɛ yaka bɔ ka a di ale so-tigi ma. (Mɛlikisidaki tɔgɔ-kɔrɛ le, “Mansa Latelennɛ.” Ado Selam soe tɔgɔ-kɔrɛ le, “Yisi Kimɛ,” woletɔ ale so-tigi le “Yisi Kima Mansɛ” la.) 3Ale Mɛlikisidaki kɛ, fenfen
-... 
+... (1478 chars skipped) ... 
 ka-masɔla-gbɛrɛ la nun. Kɔnɔ ma mako ye saraka-masɔla-gbɛrɛ la, Mɛlikisidaki su kɔni, Aruna su ma de! 12Ado saraka-masɔla-su-gbɛrɛ wa na tumɛ min, a fɛrɛ sa fɔ tɔn fanan ni yɛlɛma ka a bɛn wo ma. 13Nba, ma ye koe kɛnu fɔla ma Mari Yisa minna ko la, wo bɔra bɔnsɔn gbɛrɛ le rɔ, Yuda bɔnsɔn kɔni. Ado Yuda bɔnsɔn fenfen ma saraka-masɔ-wɔlɛ kɛ. 14Bɛɛ ya a lɔn ko Mari sɔrɔnta Yuda bɔnsɔn le tɔ. Ado Nɛbi Musa ya saraka masɔya koe fɔ tumɛ min, a ma bɔnsɔn wola ko fɔ. 15Koe kɛ ara gbɛ feu! Saraka-masɔla-
-...
+... (1478 chars skipped) ...
 sarakɛ masɔ a nyɛrɛ hakɛla ko la tele-wo-tele, a mako sa wo la. A mako sa tele-wo-tele-sarakɛ la mɔgɛnu hakɛla ko la fanan. A ya saraka kelen pe le bɔ ka dan wo ma. A ya a nyɛrɛ niyi ni sarakayɛ la tumɛ min, a ya wo ma wo le tɔ. 28Alla ya tɔn min di Nɛbi Musa ma, wo ya mɔgɛnu yatɔnbɔn alako anu ni ma saraka-masɔla-kun-tigi-wɛnu na hali anu ma telen wo nya. Kɔnɔ Allata kelili sanɛ lanyiri min kuma, wo nara Nɛbi Musala tɔn kɔma le. Wo ye ata dan le yabɔla min si Allata ko-latɛgɛnɛ kanbali habadan!"	250b05cb3cb6c334e22459b549036c41
 				"Nin saɲɔforo in Bamusobugu la, Zezana-Gara komini kɔnɔ Segu mara la, o yeli bɛ mɔgɔ hakili sigi, k’i jigi fa dunkafa sabatiliko la ɲinan Mali kɔnɔ. Ɲɔtigɛ ma se fɔlɔ, nka, forow yecogo bɛ mɔgɔ nisɔndiya. A bɛ san caman bɔ sisan, ɲɔw tun tɛ ɲɛ ka nin bɔ. Ɲɔkalaw tun tɛ bonya tan, wa u furaw tun tɛ kɛ binkɛnɛ ye ka dibi ɲɔgɔn kan tan k’a sababu kɛ sanji nabaliya ye o min bɛ na ni ja ye. Ka bɔ Bamakɔ fɔ Segu, forow yeli bɛ mɔgɔ jigi fa bawo san bɛ na kosɛbɛ. An ka Ala deli ye a ka taa ɲɛ fɔ ka sɔmi
-... 
+... (746 chars skipped) ... 
 n, san nana ka ɲɛ. O bɛ mɔgɔ jigi sigi kosɛbɛ. O de kama an bɛ waati min na sisan, tile kɔnɔ, dutigi bɛɛ bɛ senɲɛ kelen walima fila kɛ u ka foro kɔnɔ bawo, u kɛ o kɛ k’u ka foro ɲɔkala ɲumanw n’u fura nugulenw yaaratɔ ye fiɲɛ fɛ, u bɛ sewa.
 Keninke bɛ weele an ka jamana yɔrɔ dɔw la ko kunsuli bawo ni keninke ɲɛna, n’ai tinsan ye kisɛ caman kɛ, kisɛ ninnu fanga de b’a kɛ tinsan jun bɛ suuli. Ɲinanta b’o cogo la keninke foro la. O de kama, ali ni n tɛ sɛnɛkɛlakɔliden ye, n y’a faamu k’a fɔ ko ɲɔka
-...
+... (746 chars skipped) ...
 minɛna an ka duguw la ka ban.
 Sɔ ma layidu dafa Kulubalilakaw, Turelakaw, Samakelakaw, Soogobalakaw ani filaw bolo. Sɔ fana bɛ se joona kosɛbɛ walasa ka kɔngɔ kunbɛn sɛnɛkɛlaw fɛ. Ɲinan, a ma k’o cogo ye bawo alisa sa, sɔ ma se fɔlɔ. Sɔ dɔw ma feerer fɔlɔ kuma tɛ ka den kɛ k’a sababu kɛ sanji ye. San nana kojugu, sɔ ma tile funteni sɔrɔ walasa ka feere ka den kɛ.
 An bɛ dugaw kɛ, sanji ka na a nacogo la walasa ka dunkafa sabati an jamana kɔnɔ, Farafinna kɔnɔ, diɲɛ bɛɛ kɔnɔ.
@@ -1526,9 +1526,9 @@ I MIRI MƐN MA
 Dunuɲan dina kɛ di Alla la Mansaya kɔrɔ ?
 Kitabu yé maɲininkali wô djabili dila yan ZABURU 37:29 ani ISAIYA 65:21-23."	c5e8ab7e0e0a8418baf11192eab26fa4
 				"Sira cetige kogow be yen k’a masɔrɔ an be nin diɲe min kɔnɔ, faratikow ka ca, kasaraw ka ca ani ɲɔgɔn juguyaw ka ca. Wa Hadamadenw be ɲɔgɔn jogin, u be ɲɔgɔn tɔɲɔ don o don. O de kosɔn cetige kogow sigira, ni olu kera sariyaw de ye minnu be dan sigi i ka kewalew la. Tuma caman i be jɔɔrɔ ni i yere ye, cogo min b’a to i be se ka lakanda, ka kisi ka bɔ binkanikelaw tɔɔrɔ ma, ka tanga ka bɔ geleya wala bana ma nka i te janto i yere la ni ta fan fe, fo farikolo dama. Tiɲe la, o ye hakilitanya de ye,
-... 
+... (806 chars skipped) ... 
 kana o dɔn i kecogo la. Tuma dɔ, o tigiw t’a dɔn yere ko u ye ko ke, u t’a dabɔ a kama. O t’a ɲini cogo si la walisa ka i jogin wala ka i hake ta. Nka o bee n’a ta, u ye kuma min fɔ wala o ye wale min ke, o be digi i la. O ye jurumu ye. O ye tɔɲɔli ko ye hali n’a sɔrɔ o tigi m’a dabɔ a kama. Wa o be se ka ke jurumu ye. Ni i y’a dabɔ a kama ka i mɔgɔɲɔgɔn tɔɲɔ, k’a kunnatiɲe, i ye jurumu ke. Ayiwa ni i diminna mɔgɔ dɔ kɔrɔ fana k’a sɔrɔ a tigi ma a dabɔ a kama ka i hake ta, o ye jurumu ye. Ni i d
-...
+... (806 chars skipped) ...
  kanbilali ye. Wa tuma min ni i y’a damine ka miiri Ala ka tɔn ko la, wala Ala ka sariya ko la; Ala ye fen minnu fɔ ko an ka olu ke, ni i y’a damine ka miiri olu la, yala i be mun ke ? Tiɲe la, Hadamaden kelen kelen min be dugukolo kan, an bee kera jurumutɔ ye. Anw ye jurumutɔw de ye, minnu bangera Hadamadenw cema. Mɔgɔ si te yen min dafalen don, min be se ka denw sɔrɔ minnu dafalan don. K’a fɔ ko Hadamadenw bee ye jurumutɔw ye, mɔgɔ si te se ka o kuma sɔsɔ. O tiɲe be kene kan. I ye jurumutɔ ye."	0124478031e839cb26736942df85ba6c
 				"Arabie Saoudite jamanaɲamaaw y'a jira ko diɲɛ silamɛw minnu bolocila olu bɛna se ka ta Omra la
 A jɛnsɛnna :
@@ -1542,11 +1542,11 @@ N’aw ye kɛnɛyabaaraw daminɛ, aw bɛna a ye ko a baara ɲɛ ka misɛn ani a 
 Yɛlɛmaba fosi tɛna don kow la ni sigidamɔgɔw m’u jɔyɔrɔ fa u yɛrɛ ka kɛnɛyako la.
 Sigidamɔgɔw tɛ hɛrɛ sɔrɔ mɔgɔ kelen ka baara la, nka a bɛ sɔrɔ bɛɛ de ka cɛsiri la. O la, bɛɛ ka kan k’i hakilina di ani k’i jɔyɔrɔ fa.
 O de la, aw ka baara fɔlɔ ka kan ka kɛ denmisɛnw, bangebagaw, karamɔ
-... 
+... (3485 chars skipped) ... 
 banabagatɔ kɔrɔkɛba tun mɛnna bana na. N’a tun sɔgɔsɔgɔra, basi bɛ bɔ. Awa seginna ka taa dɔgɔtɔrɔso la k’a fɔ dɔgɔtɔrɔkɛ ye ko den in ka bana bɛ sɔn ka kɛ sɔgɔsɔgɔninjɛ ye. Tuma min na u ye sɛgɛsɛgɛli kɛ, u y’a sɔrɔ ko tiɲɛ tun bɛ Awa fɛ. Aw y’a ye! Kɛnɛya baarakɛla wɛrɛ kɔnna ka bana sidɔn dɔgɔtɔrɔ yɛrɛ ɲɛ barisa a tun bɛ mɔgɔw dɔn, wa a tun bɛ taa bɔ u ye u ka so fana.
 Maana bɔli bɛ kalan diya. Ni kɛnɛyabaarakɛlaw bɛ se ka to ka kow maana bɔ, o bɛ kalan faamuyali nɔgɔya.
 Awa ye nin hakilina d
-...
+... (3485 chars skipped) ...
 ina di.
 Aw bɛ se ka ja suguya caman wɛrɛw dilan ani ɲininkaliw, minnu bɛ baro ɲaka walasa mɔgɔw ka se ka gɛlɛyaw n’u sababuw ani u kunbɛncogo ɲini k’u dɔn.
 Ja min filɛ, aw bɛ se ka ɲininkali jumɛnw kɛ walasa mɔgɔw ka se k’u hakili jakabɔ fɛnw kan minnu bɛ fiyɛn bila denmisɛnniw ka mɔgɔya la?
@@ -1554,9 +1554,9 @@ Aw y’a lajɛ ka na ni ɲininkaliw ye minnu bɛ wolo dɔ wɛrɛw la walasa mɔg
 				"Top 1 Mali Grio Mali sites
 -
 le Net au Mali Net-mali.com Travel Mali, Mali Travel Voyage,dogon Mali Cuisine Africaine Malienne,immobilier Mali,net Mali Mali Net ,efi Mali Inventeurs Afrique,travel-mali Communication Voyage Mali Africa ,journaux du Mali, Desert au Mali,cuisine Africaine Malienne, Peuple Dogon,le Niger, Mali Travel Mali, Voyages au Mali, Les Dogons,mali Malien Malin,république du Mali Afrique Ouest,, Voyage en Pinasse Arcachon Bassin,africa Musik Grio Africain,ufi au Mali Union De
-... 
+... (157 chars skipped) ... 
 fica Dance,masque Fétiche Afrique, Holiday Mali,mamby Sissoko Travel Mande,europe Inventions en Afrique, Pays Dogon Travel Net Voyage ,voyageur Sncf Tgv Afrique Magique,travel Mali Travel Africa Travel Europe European Traval , Netmali.com Malinet ,afrique Magique, Malien Malin, Mali Net Web Maliweb Net, le Net au Mali, le Mali Malien Netmali, Net Mali,grio Mali,web Mali, Fabrics African Malian Mode, Foamed ,tover,beoglobe.com Malien Afrika Slim, Netto Mali Web Netto Maliweb, Netto in Mali, Malie
-...
+... (157 chars skipped) ...
 ,africa Magica, Malien Maligno, Mali Netto Web Maliweb Netto, il Netto in Mali, Mali Malien Netmali, Netto Mali, Grio Mali, Africa Dance, Modo Africa, Bogolans Del Mali, Web Mali, Tessuti Africani Modo Malien, Schiumò Michel ,africa Dance,mode Africa, Bogolans du Mali,web Mali,tissus Africains Mode Malien,moussa & Michel, Esprit Africain Afrique Magique,sissoko Mamby Malinet Netmali, Maliweb Webmali,le Pays Dogon Art Africain, la Mode Malienne ,artisriste Mode Peintre Sculpteur Inventeur du Mali"	9f3f1758e82439acaaa6b348598b60a6
 				"Abdalah Taha Sarbil
 bakruba carti
@@ -1584,20 +1584,20 @@ Wa ko ni nin silamԑya waribaray bolofara dayԑlԑn na london dugu kƆnƆ ale de
 Kunnafoni damadɔw ka ɲɛsin dugumisɛnw kɛnɛyabaarakɛlaw ma
 Dugumisɛnw kɔnɔ, kɛnɛyabaarakɛla ye mɔgɔ ye, mɔgɔ min b’a ka denbaya n’a sigiɲɔgɔnw dɛmɛ ka kɛnɛya sabatilen sɔrɔ. Tuma dɔw la, o tigilamɔgɔw bɛ suganti dugumɔgɔw fɛ ka da u ka dɔnniya kɛrɛnkɛrɛnnen n’u ka mɔgɔlandiya kan.
 Dugumisɛnw kɔnɔ, kɛnɛyabaarakɛlaw dɔw bɛ kalan ni dɛmɛ sɔrɔ cakɛda dɔw fɛ i n’a fɔ kɛnɛya minisiriso. A dɔw yɛrɛ tɛ dɛmɛ fosi sɔrɔ dɛmɛbaga jɛkuluw fɛ. I b’a sɔr
-... 
+... (3486 chars skipped) ... 
 ɔw kɛnɛ kan min dɔnniya t’aw la, sango n’o b’a to aw ka faratibaw ta.
 Aw sendonni n’a donbaliya baara dɔw la, o sababu bɛ bɔ aw taayɔrɔw janya la walasa ka dɛmɛ ɲuman sɔrɔ.
 Misali la, muso dɔ jiginna, aw ɲɛ b’a la basibɔnta ka ca ka tɛmɛ. N’o y’a sɔrɔ aw ni dɔgɔtɔrɔso cɛ tɛ lɛri tilancɛ taama bɔ, aw bɛ taa n’a ye yen joona. Nka n’aw ni dɔgɔtɔrɔso yɔrɔ ka jan, aw dun b’a dɔn fana basibɔnta ka ca muso in na, aw b’a kɔnɔbara munumɛnɛ ka kɛɲɛ denso ma. Walima aw bɛ jolilajɔ pikiri (ocytocique) kelen
-...
+... (3486 chars skipped) ...
 ɔn ani ka yɛlɛma don u la cogo bɛɛ la.
 Aw y’aw hakili to a la, walasa ka denmisɛn saya kɛlɛ kɔnɔbolibana senfɛ, ɲɛgɛn senni dɔrɔn t’a ɲɛ dɛ, fo aw k’u minniji kɛ jisanuman ni kɛnɛyaji (Solution de réhydratation orale, SRO) de ye. Aw bɛna a ye fana ko bangekɔlɔsi fɛɛrɛw, sɛnɛ yiriwali ani aw ka ɲɔgɔndɛmɛ de nafa ka bon.
 Siniɲɛsigibaliya ni natabaya de ye gɛlɛya ni bana caman sababu ye. N’aw b’a fɛ aw ka sigidamɔgɔw ka lafiya, aw y’u lakalan ɲɔgɔndɛmɛ baaraw la, faraɲɔgɔnkan ani siniɲɛsigi baaraw."	1d67c26528bcb8841f68017cb20a3d94
 				"« A ka kan an k’an ka sugon dɔw hakilina ɲuman bila senkan yanni an k’an miiri u la ten k’u bila ka tɛmɛ. Yali a ma se, an k’an ka togodala mɔgɔw sen don kunnafoni ni kumaɲɔgɔnya tɛkinolozi kuraw la wa? Sira bɛɛ kan, o jaabi ye ɔwɔ ye bawo a na kɛ sababu ye u ka kunnafoniw sɔrɔ, ka kunnafoniw di, ka kumaɲɔgɔnya kɛ ka hakilinaw falen falen ani k’u seko ni dɔnkow jira mɔgɔ wɛrɛw la.
 O tɛ se ka kɛ habada fɔ ni an ye ɛntɛrinɛti kalanw bila sen kan an ka sigidaw la walasa ka togodala mɔgɔw taabolo dɔ
-... 
+... (1121 chars skipped) ... 
  kelen dɔrɔn de bolo Gugolu « Google » kan, wa a tun bɛ se cikan bilali n’a kalanni dɔrɔn de la. Mɔgɔtɔw si tun t’a dɔn ɛntɛrinɛti ye min ye. Bi, u bɛɛ bɛ se k’u magow ɲɛnabɔ ɛntɛrinɛti kan.
 An ka nin ɛntɛrinɛti kalan siyɛn fɔlɔ in taabolo ɲɛna kosɛbɛ bawo kalandenw ye fɛn caman kalan, u y’a jira an na fana k’u ye fɛn caman faamu k’a sabu kɛ an ye kimɛli fitinin minnu k’u kunna ye ɛntɛrinɛti kan. Kalan in sanga kɔnɔ, kalanden bɛɛ tun bɛ na waati la, u bɛɛ tun bɛ na don don wa u y’a jira an na fa
-...
+... (1121 chars skipped) ...
 tion orange Mali) ONG Jigitugutɔn mɔgɔw, ani mɔgɔ minnu bɔra Pari ka na an kalan fɔ Mali la yan ani mɔgɔ o mɔgɔ ye dɛmɛ ni hakilina ɲuman kɛ k’an bila sira walasa nin kalan in ka se ka kɛ. An ye ɲɔgɔn tɛgɛ minɛ.
 An y’an labɛn ka ban ka taa kalan in daminɛ Zeana Gara la sinin, tarata Utikalo tile 18 san 2009. Aw bɛ se k’o kunnafoniw bɛɛ sɔrɔ siti kan.
 Porozɛ « Alisa an ma kɛ hakilitigi ye tiwitɛri (twitter) sira ye @toujourspassage
@@ -1605,25 +1605,25 @@ Publicités
 chacun a fait preuve de ponctualité
 c’est africain çà?"	0327dd689902873a0549a1a4ac0a1b76
 				"1Wo kɔma, n ya melika nani sɔnɛ yen dugu-kole-tonko-nanɛ rɔ. Dugu-kolo-fɔn-nani biranɛ anu bolo alako fɔnyɔ kana tugu dugu kole anubɛ kɔgɔ-yi anubɛ kɔlɔmanu ma tun. 2Alla ara dugu kole anubɛ kɔgɔ-yi-tinya-sɛnbɛ di melika nanɛ wonu ma. A ya wonu kele a kan-bɛ la. N ya melika gbɛrɛ namatoe yen ka bɔ tele-bɔɛ-wara la. Alla nimɛta mandan ye a bolo. 3Melika wo ko, “Wo kana dugu kole tinya anubɛ kɔgɔ-yi anubɛ kɔlɔmanu fɔlɔn. Fɔ ma ni mandan sigi mata Allata wɔli kɛlɛnu telɛnu na.” 4Nba, Allala mandan 
-... 
+... (442 chars skipped) ... 
 bɛ Bɛnyamɛ bɔnsɔn rɔ. 9Wo kɔma, n ya nyama-wɛ yen, mɔgɔ ti ke minnu yatɛ lɔnna mumɛ! Anu bɔnɛ mɔgɛ su bɛɛ anubɛ sibole bɛɛ rɔ anubɛ bɔnsɔn bɛɛ rɔ iko anu kan faranɛ nya min. Anu sɔra mansaya-sigi-fan anubɛ saga-dan yakɔrɔ. Duruku-yan-gbɛ ye anu kan na. Tin-yanbɛnu biranɛ anu bolo tɔ. 10Anu ya anu kuli mayɛlɛ ko, “Mata Alla min mayiginɛ mansaya-sigi-fan rɔ, mala kisi-koe bɔnɛ ale anubɛ saga-dan le bolo!” 11Melika bɛɛ sɔra mansaya-sigi-fan anubɛ kɛmɔgɛnu anubɛ dali-fen nanɛla foolɛ rɔ. Wo kɔma, an
-...
+... (442 chars skipped) ...
  wonu na. Anu ya anuna duruku-yannu ku ka a ma, anu ni gbɛ saga-dan-yele rɔ. 15Wo le ya a ma, anu sɔnɛ Allala mansaya-sigi-fan yakɔrɔ ka wɔlɛ kɛ a ye a Bato Bɔn la su-ni-tele. Ale min siginɛ mansaya-sigi-fan rɔ, ale le si anu natanka. 16Kɔnkɛ ti anu bira tun. Anu kan la ti gbala tun. Tele anubɛ a wuyan, wo fenfen ti anu mintan. 17Ado saga-dan min bi mansaya-sigi-fan tɔgɔfɛ, wo si anu kandan iko saga-fɛ-biralɛ, ka anu nata tenke-diyamɛ rɔ min si niyi di mɔgɛ ma. Nba, Alla si anu ya-yi bɛɛ firan.”"	46349ade2d802660da4730b0f3ea748a
 				{title: Dagamasi} {artist: Gnonas Pedro} {x_U[G]N[G]_category: Salsa, Afrique} [G] [Am] Ati mono win dagamasi x10 Ou fi fon è, la nou dagbe win Noue na ngnon, edo misi Moukomala mi to mèvilin Noue na ngnon, edo misi Tomin vilè misounou gnon nou Noue na ngnon, edo misi Président ministre lola démin Noue na ngnon, edo misi Kou bia nio na no mi Edo na ngnon, nie ko blama o in Do dji koué, oum pa djiwé iégoué Edo di goué, oum pa djé é min in Edo na ngnon kou fi fon na gnon in Edo misi Ati mono win dagamasi x10 Dahomè vilin mè bisitè Po nou mina bolo todo Musicien magicien comédien Minou mina bolo todo Mécanicien masson menuisier Minou mina bolo todo Akisi no clisti agbowè Minou mina bolo todo Militaire policier gendarmou Minou mina bolo todo Oum bia nio na no mi Edo na ngon Nié ko blama o in Edo di khouè Oum ba ji wè ié kouè	3bd79eec23f60d772937f12ee7c1b189
 				"Situlu bɛ bɔ togodaw la. Kɔlɔ lajalen kɔfɛ dibi la, dugu musow bɛ ɲɔgɔn sɔrɔ kɔlɔsusu kolonba kɔrɔ ka kɔlɔ susu k’a tulu bɔ. Kolonkala duuru walima wɔɔrɔ mankan kolon kɔnɔ, o ɲagaminen an ka laadala dɔnkiliw la, o ye kodumanba ye : dɔnkili minnuw bɛ dusu don mɔgɔ la, ka musow ka cɛsiri jira, n’olu ye su ni tile taamaɲɔgɔn ye.
 Bi, o baara in bɛ ɲini ka dabila k’a sababu kɛ kɔlɔsusu masinin ye n’o bɛ kɔlɔ susu musow nɔna. Masini kɛra sababu ye ka musow lafiya kɔlɔsusu la, nka a kɛra sababu ye ka l
-... 
+... (8127 chars skipped) ... 
 ɔgɔ, ka jamanaw dancɛw tigɛ walasa bɛɛ ka se k’u kalan Ɛntɛrinɛti kan k’i to i sigiyɔrɔ la diɲɛ fan bɛɛ. O de kama, Farafinna kanw ka ɲɛtaa poroze, n’o ye africantongues ye, o ye wale bila senkan Ɛntɛrinɛti kan, wale min b’a to bɛɛ bɛ se ka nin kan ninnu kalan k’i to i sigiyɔrɔ la ka sɔrɔ i mago ma jɔ karamɔgɔ k’u sɛbɛn cogo n’u kalan cogo fɔ i ye, bawo, i bɛ se k’o bɛɛ k’i yɛrɛ ye. Ni kan ninnu kalanni nafa ka bon bawo, u fana jɔyɔrɔba de bɛ diɲɛ kelenya ni diɲɛ dɔnko ni sekow dorogoli la ɲɔgɔn
-...
+... (8127 chars skipped) ...
 na ma waati dɔw la.
 Bi, Sanogola ni Bamusobugukaw dan ye k’u bolo digi butɔn kan poto la, walasa kɛnɛ fan bɛɛ ka kɛ yelen ye. Yelen nafa tɛ ɲɛnajɛkow dama ye, a jɔyɔrɔba fana bɛ duguw ka ɲɛtaa la sɔrɔ ni hadamadenya sabatili sira la. A bɛ se ka kɛ sababu ye ka dɔ fara dugu musow ni demisɛnw ka baara waati kan sufɛ, o fana bɛ dɔ fara sɔrɔ kan i n’a fɔ dugubaw kɔnɔ. Nin yelenko in ye dɛmɛba de ye togodalamɔgɔw ma sɔrɔ ni hadamadenya sabatili sira kan, min ka kan ka caya walasa dugu caman k’a sɔrɔ."	77629ccbe1a02622dcd1e70c56762ada
 				"Ntéri wili ka idjô siki tè ma son, bolikounfè tè ma sé yoro djan na, wili ika idissi gochi yassa ana fô ko ibé sé fin na. Fukariya tè ma chi dakan yé, kèwalé ani doussu tanya dé bè makè fukariyé. Sabu dunuya sera yôrô mi bi bè kulé kankèra « bèbi iba bolo », olassa kana sô ka iba ka sinkin kè fuyé. A famu ko dôkè bè fin fitini kè finbayé, dokèbaliya bè fin bâ kè fin fitiniyé. Blaka ba kan bô akôrô na dôgôw ma munu taara fukariya ka kalan so, awya don ka fô ko boli touma don ka fissa ni nsékadiyé.
 Bouka NIARE"	01ccd15a2301a48c5fd24d48b9ce9565
 				"KOUMA KAN : LAMERIKI KA MASSA SOW BA MIN BE WELE NANZARA KAN NA KO DEPARTMENT D’ETAT YE OU KA SAN BAFILA NI MOUGAN SEGUE-SEGUELI DIABI GAFE NE A BE WELE KO CRT BOW, OU YE DANSSAGO KEBAGAW KELELI GAGNE MOUNOUW KE, ANI DANSSAGO KEBAGAW KA BAGABAGALI KOURAW MOUNOU BE SENA BE LADJELEN KOUNAFONIW BE A KONOW. KOUNAFONIW DIATE MINELENW FARALEN GNIONGON KAN BE A YIRA KA FOW KO, KO NI YE SAN BAFILA NI TANIWOLOWILA (2019) TAW LADJIE, I BE A YE KA FOW KO DANSSAGO KEBAGAW KA DANKARILIW WALEYAW ANI MOGOW FAG
-... 
+... (870 chars skipped) ... 
 UGAN WATI TOUN YE A SHINYE FOLOW YE LAMERIKI DEPARTEMENT DETAT KA A BOLO GNIESSIN TOUBABOUBLEN KOULOU DOW MA, KA KOFOLI KE DIATIGUE WALEYA KEBAGAW KAN, NI SHIYA WOLOMAW TABOLOW LAWALEYA KEBAGAW MA. O SIRAW KAN, OU YE GNIANGULI BILA RUSSI KA WILI KADJO KOULOU ANI A GNIEMOGOW SABA KAN.
 LAMERIKI NE A DEMINBAGA YE BARAKE KA AL-QUAIDA ANI A BOLOFARA KOULOUW KELE DOUNOUYA KONOW SAN BAFILA NI MOUGAN WATILA. AL-QUAIDA YE DOFARA A KA FANGA KAN DOUNOUYA KONOW, KERIN-KERIN NE YA LA BANISSIRALA ANI FARAFINA
-...
+... (870 chars skipped) ...
 MINE, O SEN FE OU YE OU BOLO GNIESSIN ETAT ISLAMIC SILAME BAMBANTOW KOULOU KA BOLOFARAW MA FARAFINA TILEBILA, GRAND SAHARA KONOW, LIBYE, YEMEN, ANI INDONESIE.
 LAMERIKI YE BARA KE FENE KA DOUNOUYA DEMEBAGAW KOULOU FARA GNONGON KAN YASSA KA SILAME BAMBANTOW MOUNOU BE SIRA KAN ANI MOUNOU TE SIRA KAN KELE.
 CRT KA GAFE MIN BORA GNINAN BE LAMERIKI KA WILIKADJO SEBENTIYA KA OU KA DJANADENW NI OU DEMEBAGAW DJAMANA FENE KA DJAMANA DENW TANGA KA KISSI SILAME BAMBANTOW DANSSAGO KELAW KA DIATIGUE WALEYAW MA"	214b600a4a640535057a749a9278fbfe
@@ -1632,9 +1632,9 @@ Please login to access the full content or check if you have access via13.13.6.1
 Please login to access the full content or check if you have access via
 Tomé, A. C., Science of Synthesis Knowledge Updates, (2015) 2, 76.
 Many of the methodologies developed for the intermolecular copper(I)- and ruthenium(II)-catalyzed azide–alkyne cycloadditions have also been successfully used in intramolecular copper(I)-
-... 
+... (1644 chars skipped) ... 
 -eeeeeeeee. Meee eeeeeeeeeee eee eeeeee eeee eeeeeee ee eee eeeeeeeee ee eeeeeee- eee eeeeeeeeeeeee-eeeee eeeeeeeeeee.[888,888,888–888] M eeeeee eeeeeee eeeeeeee eee eeeeee-eeeeeeeeeeeeeeee ee eee eeeeeeeeeee 88 ee eeeeee eeeeeeeeeee 88, e eeeee ee eee eeeeeeee MMM-eeee ee eeeeeeeeee (Meeeee 88).[888] Mee eeeeeeee eeeeeeeeeeeee ee eee eeeeeeeeeee 88, ee e eeeeeeeeeeeee ee 8 eM, 88 eee% ee eeeeee(n8-eeeeeeeeeeeeeeeeeeeeeeeeeee)eeeeeeeee(MM) eeeeeeee [{Me(Me*)Me}8] eee eeeeeee ee 88 °M eee 88 eeee
-...
+... (1644 chars skipped) ...
 eee) ee e-MeMM/M8M (8:8) eee eeeeeee ee e eeeeeeeee eeeeeeeeeee eeeeeeeee (eeeeeeee-eeeeeeeeeee eeee) ee eee eeeeeeeeeee eee eeee eeeeeeeee ee Meeeee 88. Mee eeeeeeee eee eeeeeeee eeee M8M (8 eM) eee eee eeeeeee eee eeeeeeeee eeee MeMMe (8 × 8 eM). Mee eeeeeeee eeeeeee eeeeeeee eeee eeeeee eeee eeeee (88 eM), eeeee (Me8MM8), eeeeeeee, eee eeeeeeeeeeee. Meeeeeeeeeee ee eeeee eeeeee eeeeeeeeeeeeee [eeeeee eee (eeeeeeeeee eeee 8.8% Me8M), eeeeeee/MeMMe 8:8] eeeeeeee eee eeeeeee eeeeeeee.
 References"	3b4dd98ad3ccbb326cdb320dcf95ca42
 				"Misira: (Egypte) > Farafinna
@@ -1644,17 +1644,17 @@ Blàdon : 2021-03-14 Yɛlɛmako laban : 2021-03-14"	ead84102a1b8e62c9af2a4cdc9df
 				Kankan - Balandougou - Karfamoria - Fadou - Dabadougou - Koaté - Dossari - Sanfina - Diankana - Kassa - Makono - Kobala - Ouranbaya - Oulondougou - Soumankoué - Bonko - Diansoumana - Sokorola - Dalabani - Sanankoro - Kobadoula - Doumbaoulia - Guirilan - Ankoro - Borofinian - Tintioulé - Kodiérani - Kéniando - Tamoni - Kanimoussaya - Noumoussaya - Koumban - Dalaba - Boria - Koba - Branama - Santiguila - Diéné Maréna - Moïafara - Kassa - Moussaïa - Léfarani - Moïko - Takoura - Missamana - Farako - Sanana - Moriguédougou - Nafadji - Madina	8b6f1590c4902b4782d2aee31946336a
 				"Pari yɔrɔw
 ni Bahis siteleri i bɛ se ka pari kɛ waati kunkurunnin kɔnɔ . I bɛ cogo di i ma k’i ka pariw lajɛ. O waati kelen na, sababu bɛ di i ma ka tɔnɔ caman sɔrɔ pariw la. Pari yɔrɔ caman bɛ an ka jamana kɔnɔ minnu bɛ baara kɛcogo ɲumanba di. O waati kelen na, a bɛ taa a fɛ ka baara kɛ cogo kelen na ani dannaya hakɛ kelen na jamana wɛrɛw la. Pari yɔrɔ caman bɛ Erɔpu jamanaw na ani an ka jamana na. O yɔrɔ ninnu bɛ taa a fɛ ka baara kɛ ni dannaya ye, min ka kan ka kɛ, o ye k’i tɔgɔ sɛbɛn yɔrɔ l
-... 
+... (2054 chars skipped) ... 
 tulonw ani tulon suguya wɛrɛw di. O waati kelen na, farikoloɲɛnajɛ pari ni pari ɲɛnama suganditaw bɛ yen i n’a fɔ pari suganditaw. Siti min bɛ se ka da i kan ani min ka ɲi, i kɛlen kɔ ka o yɔrɔ nafama kelen in sugandi. Aw bɛ se ka yɔrɔw sugandi minnu ka kanpaɲiw ka bon kosɛbɛ. Sabula nin bonyali kanpaɲi ninnu sababu la, i bɛ se ka caman sɔrɔ .
 pari yɔrɔ dannamɔgɔ
 pari yɔrɔ minnu bɛ se ka da u kan , olu ka kan ka baara ɲuman ni baara dafalen di i ma . Pari yɔrɔ caman bɛ yen minnu bɛ se ka da u ka
-...
+... (2054 chars skipped) ...
 ɔrɔ ɲumanw na o sugandiliw cɛma. A nafa ka bon ka jago kɛ o jogoɲumanya siraw kɔnɔ. A ka kan ka sɛgɛsɛgɛli nafama kɛ dannaya jogo kan walasa i kana tiɲɛni si sɔrɔ fɛnw ni jogo ta fan fɛ, wa kuma fɔlenw ka kan ka kalan. Mɔgɔw ka kan ka kɛ sitiw kɔnɔmɔgɔw ye minnu bɛ kuma ɲumanw fɔ. O waati kelen na, a nafa ka bon kosɛbɛ ko siti in ka kɛ ni lase ye ani ka kumaɲɔgɔnya suganditaw di. A nafa ka bon ka kumaɲɔgɔnya kɛ joona. Nin fɛn ninnu bɛɛ lajɛlen kɔfɛ, i bɛ se k’i tɔgɔ sɛbɛn siti kan ni dannaya ye."	2328934f951d40b15f81a49e06c1d8a8
 				"Yɛlɛma kuraw bɛ sira ɲuman kan dugujukɔrɔfɛnko nasira la. Cakɛda caman b’a la ka yɛlɛma dugujukɔrɔfɛnko san 2023 sariya kan ; wa u bɛɛ y’a jira k’u bɛ sigida kɔnɔko taabolo labato. Ani fana, an ka dabali tigɛlen bɛ ka kologirinya ni siniɲɛsigi dugujukɔrɔfɛnko kɔlɔsili jɛkulu kɛrɛnkɛrɛnnen sigili ye senkan ani komisariya dɔ, min ɲɛsinnen bɛ dugujukɔrɔfɛnko baara kɛtaw ma. Nin kunnafoni ninnu lasera dugujukɔrɔfɛnko minisiri Pr Amadu Keyita fɛ, Mali ka lagamuni ni gansili cakɛda Amapu kunnafonidisɛ
-... 
+... (4873 chars skipped) ... 
 asiya, Gulamina litiyɔmu bɔli poroze bɛna nafa ladon cogoya wɛrɛw la, ni dɔ farali ye dugujukɔrɔfɛnko ni kuranko yiriwali, siradilan ni taamakow musaka kan, ka fara sigida yiriwali kan. Jigi bɛ sefawari miliyari 250 sɔrɔli kan o kama Malidenw ka cakɛdaw bolo, minnu sen b’a kow la ani ka baara di mɔgɔw ma ka caya, Bugunin mara kɔnɔ.
 Ne bɛ hakililajigin kɛ fana, ko daman in bɛ bɔ Siniwajamana cakɛda « Ganfeng Lithium Co » fɛ. O cakɛda in ye litiyɔmu sɔrɔbaaba ye. Litiyɔmu de bɛ kɛ ka batiri kolo g
-...
+... (4873 chars skipped) ...
 ntanna kɔrɔ Samuyɛli Etoo, ni Kameruni ntolantan tɔnba (Fecafoot) ɲɛmɔgɔ don bi, a dulonna kalo wɔɔrɔ kuntaala FIFA fɛ, k’a sababu kɛ musomannin U20 minnu ka kupudimɔni kɛra Kolɔnbi, k’a sababu kɛ a y’a fɔli min kɛ, k’o jalatigilaw ye hakilidumantigiya kɛ..
 San 2024-2025 kalanta tun bolodalen bɛ ka bila bi tarata kan ɔkutɔburukalo tile 1lɔ san 2024 ; nka, a bɔra a dɔgɔ kɔrɔ k’a bila nowanburukalo tile 04 nata in na. Kalanko minisiri Dr Amadu Si Sawanɛ y’o laseli in kɛ kunun, jamana telesoba la.."	d23a9ebb812a9d2dda6de745256a1580
 				"You are using Science Of Synthesis as a Guest.
@@ -1662,11 +1662,11 @@ Please login or sign up for a free trial to access the full content.1 Stereosele
 Please login or sign up for a free trial to access the full content.
 de Vries, J. G., Science of Synthesis: Stereoselective Synthesis, (2011) 1, 1.
 It must have been around 1980. I was living in the Boston area doing a postdoc at Brandeis University after obtaining a Ph.D. in The Netherlands on asymmetric ketone reductions us
-... 
+... (4352 chars skipped) ... 
 eeeeeeeeee eeeeeeeeeeeee eeeeeeee. Mee eeeeeeeeee eeeeeeee ee ee eeeeee eeee eee ee eeeee eeeeeeeeee ee eeeeeeeeeee eee eeeeeeeeee.
 Me Meeeeee 8.8, Meee Meeee, eeeeeeee eeee Meeee Meeeeee, eeeeeeee eee eeeeeeee eeeee ee eeeeeeeee eeeeeeeeeeeeeee eeeeeeeee, e eeeeeeee eeee eeeee ee ee eee ee eee eeeeeee eeeeeeeeeeeee. Meeee e eeeeee ee eeee eeeee, M eeeee eeeee eeee eeee eee eeeeeeeeee ee eeee eeeeeee ee eee eeeeeeeeeee. M ee eeeee ee eee eeee eee eeeeeee eeeeee eeee eeeeee eeeeee.
 Mee eeeeeeeeee
-...
+... (4352 chars skipped) ...
 eeeeee eeee, eee eee ee eeeeeeeeeeeeee eeee eeeeeeeee eeeeeeeeeeee eeeeeeee. Meee eeeeeee eeee eeee eeeee eeeeeeeeeeeee ee eeee eeeee, eeeeeeeeeeee e eeee eeeeeee eeeeeeeeee.
 Me eeeeeee eeee eeee e eeeeee ee 88 eeeee, ee eee eeee ee eeeeeeeeeee eeeeeeeeee ee eeeeeeeeeeeeeee eeeeeeeee eee eeeee eeeee, eeeeeeeee ee eee eeee eeee eeee ee eee eeeeeeeee eeeeeeeee ee eeeee eeeeeee eee ee eeeeeeeeeeee eeeeeee eee ee eeeeeeeee eeeeeeee ee eee eeeeeeee ee eeeeeeeee eeeeeee eee eee eeeeeeeeeeee eeeeeeeee."	636138f49a7173dae64db6bb8e9b8a6d
 				"West Sahara ta un pais Afrikano.
@@ -1696,12 +1696,12 @@ Blàdon : 2016-11-04 Yɛlɛmako laban : 2016-11-05"	2800c38767e6bcda0ec52871b189
 Mogow munu beta neti sanfè ka sagonako ka apilicaso lajè (web app ICARE) Eropu jaamana jekulu yè sariya mi ta San ba muga ani san taa ani woro o sariya den taa ani saba kono mi (UE, 2016/679)
 Muna ni kunafoni nunu
 Eropu jaamana jekulu yè sariya ta San ba muga ani san taa ani woro (2016/679) mi bè aw togo jamu ani sii lakana (GDPR) ka temeni u ka ben kan sariya yè, ni aw tara o siti sanfè o bè aw gnefo aw yè aw togo aw Jamu ani a
-... 
+... (4045 chars skipped) ... 
  fo togomi (art. 77 Regolamento) walima ka ta kiri tigè yorow la (art 79 del Regolamento).
 **********
 Kunafoni ka don ni mogo were yè i ka kunafoniw laje
 Siti te mogo si togo Jamu sii u San,u te bara kè ni u yè ni u be kunafoniw dima, u te bara kè ni u yè Hali ni oye soro Togow jamuw siiw munu ba kan ka Koro. Ni o yè ka don aw bè ka bara mi kè siti kan. Aw ka kunafoniw munu ni a ya do siti sanfè ni u ma to ornateri kono ka kan ni a fakara u be be tunu. Kunafoniw munu bè kè siti sanfè u lakana le
-...
+... (4045 chars skipped) ...
 essè ka ni demè sirafè no yè Help yè Software kono I ba soro ni F1 bito digi).
 Apple Safari: http://support.apple.com/it-it/HT1677
 Mozilla Firefox: https://support.mozilla.org/it/kb/Eliminare%20i%20cookie
@@ -1754,19 +1754,19 @@ Aw bɛna ɲininkali ninnu bɛɛ jaabi sɔrɔ jɛmukan in kɛnɛ kan."	10d90ebfbb
 				"Ziirinda > 2016 06 18
 Màsakɛ jugu ni musokɔrɔba fitiriwale
 Nin Kɛra màsakɛ dɔ ye min tun ye ɲɔmasaba ye. Nka a ka ɲɔ tùn tɛ Sɔrɔ ‘wari la ‘kuma tɛ delili ma. A ka ɲɔ sɔrɔcogo tùn ye min ye, o ye n'i Nàn'a ma, a b'a Fɔ ko jyɛn bɛ Laban fɛn min ma k'i k'o Fɔ. Лɔɲinina bɛɛ y'u sèn Dòn, k'u bolo Dòn kà Dɛsɛ u ma Se k'o ɲɛ Sɔrɔ. Nka musokɔrɔnin dɔ tùn bɛ yen min denw Banna k'a To, se foyi tùn t'a ye. O kɛlen kà màsakɛ in Komɛn, o Ko ee, ne dabaa Ala, i tɛ ne Dɛmɛ nin kelennin na waasa ne na Se kà tle
-... 
+... (730 chars skipped) ... 
  ye. Fɛn min ye n hamikun ye sa, a Fɔra n ye ko màsakɛ dɔ bɛ yan min ka ɲɔ tɛ Sɔrɔ ko fo n'i ye jyɛn labanko Fɔ. Ne dun t'o Dɔn. O kɛlen, kooro y'i Kanto a ma ko:
 - I kana Hami. N bɛ nà jyɛn labanko Fɔ i ye. A ko ""n'i Sera màsakɛ fɛ yen, i nàkun fɔlen 'kɔ, n'a Ko k'i ka jyɛn labanko Fɔ, a Fɔ a ye ko jyɛn bɛ Laban fitiriwaleya de la. N'o Kɛra, i na ɲɔ Sɔrɔ.
 Musokɔrɔba, Wulila kà sira Minɛ. Musokɔrɔba Wulila kà sira Minɛ kà Taa. A taamatɔ ‘kan bɛ: Ala dan ka nin Kɛ n ye bì sa! Ala ye ɲɛganbaatɔ dɛ
-...
+... (730 chars skipped) ...
 e ɲɔ Sɔrɔ nka a tɔ de Tor’a nako ye. Ɔ, e dun bɛ yan, n na e Minɛ kà Kɛ n ka tòna ye. A ye kooro Minɛ ni k'a Kantigɛ k'a Blà a ka ɲɔ kan. A selen 'so, a ye ‘tò dumanba Tobi kà na dumanba Tobi kà kooro in Kɛ o na ye.
 Musokɔrɔba ye lɔgɔma ɲɛ sàba Kɛ. A naaninan Bɛnna sògokuru dɔ ma. Abini a y'o Blà a ‘da yɔrɔ min, o kolo Balanna a kan na. Fɛn bɛɛ Kɛra o la fura ma Sɔrɔ o la. A ma Лɛ min 'kɔ musokɔrɔba ye jyɛn To.
 An y'o Sɔrɔ yɔrɔ min, an y'o Blà yen.
 Blàdon : 2016-06-18 Yɛlɛmako laban : 2016-07-07"	303a8fd83ec20e923db826951135204a
 				"1Nba, a ara to nun tele kelen yanni Kanan-Ko-Ladiyɛ ni ke. Yisa ya a lɔn ko ala wati ara ke ka bɔ duninya rɔ ka sɛgi a Fa Alla warɛ. Atɛ ye minnu na duninya rɔ, wonu di a ye. Ado wonu di a ye ka a dan natenbi. 2Nba, Setanɛ ara ban Yisa maburi-koe donna Saimonna dan Yudasi Yisikariyɔti yisi rɔ nun. Yisa ya a lɔn ko a Fa ara sɛnbɛ-kanbalinɛ di a ma nun. A ya a lɔn fanan ko a bɔra a Fa Alla wara ado a ye nala sɛgila nyɔ le tun. Nba, anubɛ ala karan dannu bi fen dɔn la tumɛ min, Yisa ya a lasɔ ka bɔ
-... 
+... (1489 chars skipped) ... 
 ɔla wo damasi ma. N bara minnu yabɔ, n ya wonu lɔn. Kɔnɔ min sɛbɛnɛ Allata kitabu rɔ, fɔ wo ni bɔ a la. A sɛbɛnɛ ko, ‘Mabɛ min bara ma bole layigi miran kelan rɔ, wo ara a kan-kɔ sɔ n na.’ 19Yanni kɛ wati ni ke tumɛ min, n bi kɛ fɔla wo ye, woletɔ a wa ke tumɛ min, wo si la a la ko, ‘Ale, wo mɔgɛ le nde la.’ 20“N bi tonyɛ fɔla wo ye, min ba nna kilayɛ rabira, wo ara nde fanan rabira. Min ba nde rabira, wo ara wo rabira min ya n sɔ.” 21Yisa banta kɛ fɔla tumɛ min, a yisi ya a tɔrɔ bɛrɛkɛ! A kumar
-...
+... (1489 chars skipped) ...
  min. 35Ni keninteyɛ ye wo nyɔgɔn tɛma, mɔgɛ bɛɛ si a lɔn worɔ ko nna karan dannu le wole la.” 36Saimon Pita ya Yisa manyinika ko, “I ye tala mi?” Yisa ya a yabi ko, “N bi tala kan min, i ti ke bilala n fɛ nyɔ kaka kɔnɔ wati do, i si bila n fɛ.” 37Pita ya a manyinika tun ko, “Mari, nfenna n ti ke bilala i fɛ kaka? N tabɛnnɛ hali ka faga ila ko la!” 38Yisa ya a yabi ko, “I rabɛnnɛ ka faga nna ko la, wa? N bi tonyɛ fɔla i ye, yanni dondɔn ni keke sina sɔgɔma, i si a fɔ kinyama sawa ko i ma n lɔn.”"	86dc0001f33300739d6f09e24b492185
 				"A be ɲinin ka ke laada ye, sanga ni waati
 bee la, Mali ni Kɔnɔwari mana ɲɔgɔn sɔrɔ ntolantan na, dugumara cebaa caman ye Mali ye.
@@ -1774,7 +1774,7 @@ Angilew ka ntolantanna kɔrɔba Gari Layinekeri ka fɔ la, « ntolantanna ye mɔ
 Alimaɲi ka sebaaya
 la ». An be se k’a fɔ bi, ko hali ni balon koorilen don diɲe bee bolo, Mali ni Kɔnɔwari ce, a be cogoya were la ;
 ka da a kan, tuma bee la Kɔnɔwari de be se sɔrɔ. Jatew b’o jira : ɲɔgɔn benko 40 na Mali ni Kɔnɔwari ce, Samatasegew gosira siɲe
-... 
+... (1923 chars skipped) ... 
 ɔli la Simɔn Adingara fe
 sanga 90nan na. O waati de la, an y’a ye a be ka fɔ Kɔnɔwari senkɔrɔmadonnaw ye, k’u ka wuli ka dusu
 don u ka ntolantannaw kɔnɔ ka taa a fe. U ka degelikaramɔgɔ Emerise Faye n’a ka cedenw
@@ -1782,7 +1782,7 @@ fariyara ; u temenna ni kow ye Mali ka bisili n'a ta bee.
 U ka degelikaramɔgɔ ye yelemani dɔw ke, o fisayara u ma kosebe. Kuru
 jibɔli de sɔrɔla o kɔnɔ. Mali ka degelikaramɔgɔ fana ye yelemani minnu ke, o ma se ka ke wasa
 ye ; sabula mɔgɔ kura fila minnu donna Kɔnɔwari fanfe, Mali cedenw
-...
+... (1923 chars skipped) ...
 inenen file, o bena ke sababu ye Malidenw ka kumaɲɔgɔnyaw ke u ni ɲɔgɔn ce ka furaw dajira geleya kofɔlenw na. A ka kan ka se ka hadamadenya juru caanin an ce, ka dɔ fara ku-ɲɔgɔn-kan fanga kan ani ka na ni ben kutaala jan ye..
 Furancelafanga jamanakuntigi Koloneli Asimi Goyita ye laseli ke tarata awirilikalo tile 30 san 2024, ko gɔferenaman be sene kefen minnu di, temen be ke n’o ye. O siratige la, angere (ire) kg50 bɔre ye sefawari dɔrɔme ba fila ani keme seegin (d2 800) ye, farafinnɔgɔ kg50 ."	e71181c0b6c59611d8b332cbdd33cb84
 				SAN 1996 UTI KALO TILE MUGAN NI SABA, ni o benna juma don ma, fajirida fe, polisi ba kelen ni kila, olu ye Saint Bernard da kari ni jele ye. U donna Afrikenw keme saba ninnu ni u teriw kan ni k'u gen ka bo eglisi kono. Nka, walasa ka u ka horonya ni u dambe jira, Afrikenw ye u kan di nyogon ma ka a fo ko u te kele ke. Jean Louis Debre yere ye Afrikenw ka kunawoloya don o la. Polisiw ye Afrikenw mine ka taa u datugu Vincennes kene kan. Cegana damado masoro genni na, baw olu ma si eglisi kono a don. Ala ye olu porokoto. Dokokun be dafa kumaminna, faamaw ye afriken mogo tan gen ka bo Fransi dugukolo kan. U ye tow bee bila sabu kun ni ju masoro u mine li la saria sira fe. Sebetanw taara nyogon soro o de la sa Vincennes Cartoucherie Catriso la. Wa kelen b'i son ali bii !!!	eba0afe9f7d55f7b70f54fdc3d39d4b4
@@ -1794,10 +1794,10 @@ Sὲnɛkɛla Siranna sa, nka a Sera kà jinɛkɛ Jaabi :
 - N b’a la kà n ka fὸro de Labɛn, bari dànnituma Surunyara.
 Jinɛkɛ y'i Kanto sὲnɛkɛla ma :
 - Fὸro in Kɛra e 'ta ye tuma jumɛn ? E t'a Dɔn ko ne de y'a tìgi ye wa
-... 
+... (284 chars skipped) ... 
 e sὲnɛfɛn min Sὲnɛ, ko u flà b'o Tla u ni ɲɔgɔn ‘cɛ. Ko ni tlali bɛ Kɛ, ko sὲnɛfɛn dugumana bɛ Kɛ ale jinɛkɛ 'ta ye ni k’a sanfɛla Kɛ cὲ ‘ta ye. U Bɛnna o bɛɛ kan.
 O Kɛlen dànnituma Nàna Se. Cὲ ye ɲɔ Dàn. A ka ɲɔ Лɛna kosɛbɛ. Лɔ Nàna Se minkɛ, sὲnɛkɛla y'a Tigɛ ni k'a Gosi k’a Dòn bɔɔrɛw ‘kɔnɔ kà T’a Fèere. Jinɛkɛ fana n'a denw Taara ɲɔkalaw Tigɛ, k'u Fàra ɲɔgɔn kan ni kà Taa n'u ye sugu la u fèereli kama. Sugujɔlaw Tora k'u Lajɛ. Olu ma 'dàn foyi Sɔrɔ u la, wa mɔgɔ ʃi ma jinɛkɛ n'a denw Лininka
-...
+... (284 chars skipped) ...
  O kɛlen, sὲnɛkɛla fana Ko o tɛ 'baasi ye.
 Ɔ, dànnituma selen, sὲnɛkɛla fana ye woso Sὲnɛ. Woso Nàna Se tuma min na, jinɛkɛ n'a denw Taar'o bulu bɛɛ Bɔ. Sὲnɛkɛla yɛrɛ Taara woso ku Bɔ. U Taara ɲɔgɔn fɛ sugu la. Sὲnɛkɛla ka woso Banna pew kà jinɛkɛ ka wosobulu gàlalen To a ‘bolo. O mɔnɛ fɛ, jinɛkɛ Kulela dew. Kabini o don Bɔr'a la sa, ‘màa ʃi ma jinɛkɛ n'a denw Ye blen. Foro tìgiya Seginna cὲ ma a ‘nɔ kɔrɔ la yen.
 An y'o Tà yɔrɔ min, an y'o Blà yen.
@@ -1814,7 +1814,7 @@ hali tile tun selen te ka dugukolo kalaya fɔlɔ sanjiba kɔfe. Mɔgɔ caman tun
 mine o neemanin kɔnɔ u ka sodaw la. Hali ni kalanta tun ma se fɔlɔ,
 denmisenninw tun solilen be ka bɔlɔnw fa. U be tulon suguya caman ke ; baliku dɔw
 sigilen b’u
-... 
+... (1251 chars skipped) ... 
 a taa u feere, dan t’o la. Nka sanni u k’u feere tuguni, tulu nɔɔrɔnin
 min b’u kɔnɔ,
 u b’o de fara ɲɔgɔn kan ka feere da su la sannikelaw ma.
@@ -1830,7 +1830,7 @@ be o tulu kolonw litiri 1 feere d70 walima d80.
 Don
 dɔw
 la, tulukolonfeerela dɔw be se 
-...
+... (1251 chars skipped) ...
 akilijakabɔko la, u bee y’o jaabi.
 Jamanakuntigi Koloneli Asimi Goyita ye denmisenw ka sɔrɔdasiya kalan kalandenkulu 4nan bɔli laje ɲemɔgɔya ke. A y’a jira k’u bena dɔ fara fasoden ɲuman hake kan jamana ka feere bolodalenw waleyali siratige la lakananni hukumu kɔnɔ..
 Jamanakuntigi Koloneli Asimi Goyita ye denmisenw ka sɔrɔdasiya kalan kalandenkulu 4nan bɔli laje ɲemɔgɔya ke. A y’a jira k’u bena dɔ fara fasoden ɲuman hake kan jamana ka feere bolodalenw waleyali siratige la lakananni hukumu kɔnɔ.."	26fed59276acb056050540faa2a03baa
@@ -1838,11 +1838,11 @@ Jamanakuntigi Koloneli Asimi Goyita ye denmisenw ka sɔrɔdasiya kalan kalandenk
 				"Yinbla, Dusukuna siri Layini, Dusukunasiri Tamaserew Bara la , Dusukuna siri Beke Bara minuw na.
 Yahudiyaw ni nasoraw be kira ka kira ya don iko ube udenw don tokominan – kisi ni neema ba kan – udow be tiyin doko kasoro ube a don, mindjikina ikan - kira- odeye tiyin ye kabo allah yoro, kira I niesi koron ma ikera yoro wo yoro, ani aw silamew, Muminiw aye deme yini allah fe aw ka ko bela.
 1- Yinbla, faranfansiya te tie ni muso t`che Baradji la, Ani sabali ni Allah kosuman Ni niemala kolochili bar
-... 
+... (985 chars skipped) ... 
 kodi Ibe Ine kolochi ani ika dine ani ika Bonya ani hadama denya. 3- Yinmbla,Moko ye niyoro soro mine sirana allah nie ani ka iyere mine dimi wati, siran moko tonyonlen ka yindji nie ani yatime den yindji, kana mok ...
 Bani Israila kaw ka Misini Bato, yahodiyaw ka diyin kanu Dama Teme, yahodiyaw ka lahidu Tiyin, silamen djoyoro korote la.
 Sofa ni marwa ye dine tamasere ba tow ye, miniw bana limaniya ni tiyin na fo Usara okan allah ka danka be Ukan, bato masa teye tien yere yere la fo allah, alla
-...
+... (985 chars skipped) ...
 nw: Niumaya be dafa ni fin saba yeBy Mahmoud Kouma
 Souratoul Bakara koro (102-105)By Mouhamad Traore
 Musow ka kunadiya 1By Ousmane Solihou Traore
@@ -1855,9 +1855,9 @@ Allah kelen Bakatiya DjoyoroBy Ousmane Solihou Traore"	35da5550394d90aad9cabd6d1
 				"Jensenni so tun kela min tÉgÉ LakodÉnnen ye Matubuu-aatu naja-ahi ye, kaahira duku kÉnÉ – a tun ye dÉkÉtÉrÉ Haamidu Hafini daawuda yamarÉya, O min ye larabukan kara-nmÉgÉ ye kalayÉrÉ la min tÉgÉ ye ko (Kuliyatu Alisini, kaahira jamana kÉnÉ) -Misira jamana-k’a ka pebila seben kitaabu in kan a bÉko filana na, I k’a dÉn DÉkÉtÉrÉ y’i bisimila o wati la ni kumakan puma ye, anw seginna a cerini kan ni bÉko in na k’a sabu ke danfara ye a kerenkerennen do ni min ye kene kan ani lasili la.
 Ceribaa.
 Maa c
-... 
+... (13589 chars skipped) ... 
 on ni isira-iliya la, walima u sinsinbere ye lakalili minenenw ye ka bÉ Abudulayi Bunu Saba-i la, o n’a pÉgÉnnaw minu ye mÉgÉ ja talen ye hakili la k’a sÉrÉ mÉgÉ te kene kan Taariku kÉnÉ, sanko Shii-aya yere ka dÉnni pepinini kura taabolo ka lajeli la, o ye Shii-a kelepÉgÉnw ka lajeli kÉkankali ye jaati, Shii-a min ye silaamaya taabolo fÉlÉ ye min ye mako don ke sariya kumakanw n’a hakili miiri fenw tangali la, a sera ka sira bÉ silaamaya taabolow ni pÉgÉn ce min bawoyolen do n’a b’u bee labÉ, n
-...
+... (13589 chars skipped) ...
 
 Ani kÉlÉsilibaa don iniwerisite
 Alikarita kÉnÉ kalan taabolow
@@ -1869,11 +1869,11 @@ Misira jamana
 				"Yɔ̀ɔla
 Dugu yɔ̀rɔfɔli
 Kulukɔrɔ marabolo la, galoda dɔ bɛ joyila kolomi 'kɔnɔ n'o ye ""Geɲɛka"" ye, Yɔ̀ɔla b'o ka mara 'kɔnɔ. Yɔ̀ɔla n'a ka o galotigi-dugu cɛ jànya tɛ Tɛmɛ bam 4 kan, nka min y'a ni Joyila cɛ ye o kɔni bɛ Taa 40 na. Nka ka Bɔ Yɔ̀ɔla ka Taa Kulukɔrɔ yɛrɛ, o ye 88 ye. Werekela bɛ Yɔ̀ɔla ni kɔrɔn 'cɛ ni bam 5 ye, tlebin fɛ, Misango bɛ yen ni bam 8 ɲɔgɔn ye, a kɛɲɛkayanfanfɛla la, Bàlan bɛ yen ni bam kelen ni murumurunin ye, wòroduguyanfan fɛ sa, Ncinina bɛ yen ni bam 3 ye. Nka nin bɛɛ
-... 
+... (2087 chars skipped) ... 
 ololafɛndlata-feerew (numuyabaaraw) de kan kosɛbɛ. ŋununda, sìgilandla, kalakadla, sansaradla, dabadla, gɛngɛrɛdla ani bilalidla (dlan), ninnu fana ye bololabaara misɛnninw u bɛ minnu Kɛ u sèn 'kɔrɔ.
 Dugu fɛɛrɛko
 Yɔ̀ɔlakaw bɛ kɔnɔminɛ Kɛ ni fɛɛrɛ minnu ye olu ye manabɛlɛ ni wɔlɔjuru dali ye. Marafa y'u ka kungosogobaw fàali fɛɛrɛwla ɲuman ye. U bɛ misiden dabɔ ni ncɔlɔ ye. U bɛ dugukɔnɔ-bagan murutilenw Minɛ ni jonborifli, koronka-minɛ walima nɛgɛka-minɛ (ni dumunifɛndɔ ye). Finisɔgɔ bɛ K'ɛ yen.
-...
+... (2087 chars skipped) ...
 minnu bɛ Yɔ̀ɔla , u tɔgɔw Flɛ: Tasɔbala kungo, baana kungo ani ŋolabɛlɛ. Kuluba kelen de b'u fɛ yen u b'o Weele ko tasɔbala fara.
 Dugu Kaburudoko
 Kaburudon sàba de bɛ Yɔ̀ɔla kaw fɛ yen, kelen bɛ tlebin na, kelen bɛ wòrodugu la ni ka kelen Kɛ kɛɲɛka la.
@@ -1887,21 +1887,21 @@ A jɛnsɛnna :
 Tchad jamana na, kɛlɛ bolo ɲɛmaa y'a lase kunu k'u ka sɔrasiw sera ka dankari banbanciw la. K'o ni y'o banbanci kɛlɛ bannen ye pewu. Kunu yɛrɛ jamanba de bɔra ""Ndjamena"" ka na sɔrasiw segin tɔ kunbɛn u n'u ka kɛlɛminɛnw.
 ''An ye yɔrɔ bɛɛ furan k'a jɛ, bi an bɛ se ka fɔ, lakanda ni basigi sabatira ""Tchad"" dugukolo fan bɛɛ la.''
 Nin tun ye ""Tchad"" kɛlɛ bolo ɲɛmaa ""général"" Abakar Abdelkerim Doud k
-... 
+... (1 chars skipped) ... 
  kumakanw ye kunu u ka sɔrasi caman seginlen kɔ ""Ndjamena, Tchad"" faaba la kana u sebaya ɲɛnɛjɛ kɛ ""FACT"" banbanciw kan.
 ""FACT"" banbanci kulu ye kɛlɛ daminɛ ni ""Tchad"" sɔrasiw ye, ""Avril"" kalo tile 11 don de ka bɛn ni jamanaɲɛmaakalata ye.
 Kasɔrɔ Idriss Deby Itno tun kanbɔlen don a ka sarati wɔrɔna nɔfɛ, wa a ye sebaya yɛrɛ sɔrɔ o kalata in na. Nka banbanci kɛlɛ in de labana ka k'a sababu ye, k'a bɔnɛ a nin na kɛlɛ kɛnɛ kan.
 Kunu ""Tchad"" sɔrasiw ye ""FACT"" banbanci 156 de minɛ k'u yira kunnafonid
-...
+... (1 chars skipped) ...
 aw ɲɛma.
 U ye mɔbili caman fana yira minnu bɔsira banbanciw la u ka fɔ la. Kabini banbanci kɛlɛ in daminɛna, ""Tchad"" kɛlɛ bolo tun b'a lase kuma bɛɛ k'u sera ka banbanci hakeya dɔ bɔ baarala fan dɔw la.
 Aramousa do Kɛlɛ bolo minisiri tun y'a fɔ k'u ka sɔrasiw ye ""FACT"" tɔndenw kɛmɛ ni kɔ de bɔnɛ u nin ba.
 Kunu ""Tchad"" sɔrasiw ni ninsɔndiya de segin na Ndjamena wa jamanba de bɔra k'u kunbɛn. Nka ""FACT"" kɛlɛ kulu ka kuma lasela dɔ Kingade Ogouzeimi de la TAPOL kulu fana bɛna dantigɛli kɛ a tɛ mɛn."	e45771cd6580be921da3095617b03fdf
 				Türkiye İş Bankası A.Ş., walima İşbank ni a surunyalen don, o ye banki kɛrɛnkɛrɛnnen ye min bɛ feerelikɛlaw ni jago banki baara kɛ Turki jamana na. A sigira senkan san 1924 Mustafa Kemal Atatürk ka yamaruya fɛ, İşbank tun ye jamana banki fɔlɔ ye repibiliki waati la. A ka nafolo hakɛ sera TL miliyari 926,6 ma san 2021, banki in ye banki 181nan ye diɲɛ kɔnɔ waribonba siratigɛ la, ka kɛɲɛ ni jatebɔ ye min laseli kɛra The Banker gafe fɛ. San 2021 desanburukalo la, İşbank bolofara 1195 bɛ yen, 21 bɛ jamana kɔkan, ATM 6476 ani baarakɛla ba 22 ni kɔ.Ka fara o kan, İşbank AG bɛ Alimanjamana na ani İşbank Georgia A.Ş. ani İşbank A.Ş. min bɛ Irisi jamana na. A ka tɔnden ba b'a bolo.	6b636e4ce815e0042c10c043b5841b9a
 				"Sɛnɛ minisiri Daniyɛli Simeyɔn Kelema ye jamana woroduguyanfan Sɛmudete ka sɛnɛkɛmara (Sikaso ni Bugunin) yaala sɛtanburukalo tile 6 ka se a tile 8 ma san 2024. A kɛra sababu ye a ni yen sɛnɛkɛlaw ka ɲɔgɔn ye ani ka forow cogoyaw dɔn. A Sɛmudete ɲɛmɔgɔw, sɛnɛ fɛɛrɛkow ɲɛmɔgɔw, ka fara sɛnɛkɛjɛkuluw ka cidenw kan, u ye lajɛ kɛ Sikaso lotoliba dɔ la. Sɛmudete ɲɛmɔgɔba Mamadu Musutafu Jara, Mali sɛnɛkɛso (Apcam) kuntigiba Sanusi Buya Sila ani Mali kɔɔrisɛnɛnaw ka tɔnba (C-SCPC) ɲɛmɔgɔ Yakuba Tarawe
-... 
+... (1215 chars skipped) ... 
 tiliko la. A fɔlɔ ye sanjiba nata ye kabini utikalo tile 10, ka tɛmɛn milimɛtɛrɛ 120 kan tuma dɔw la, ka forow kuntunun ji la. Utikalo banwaati la kɔɔriforo taari 4.789, kabaforo taari 1.125, saɲɔforo taari 262 ani keningeforo taari 323 tun dajira sanji fɛ. Jɔrɛnanko filanan ye bana dɔ ye sɛnɛfɛnw na ; kɛrɛnkɛrɛnnenya la Kiɲan, Niyɛna ani Sikaso maraw kɔnɔ ; nka wuliajɔw tun bɛ sen na a kɛlɛli la. O baaraw n’u ta bɛɛ, Mamari Berete k’a jigi ma tigɛ ; sabula ko kɔɔrikoloma tɔni 293.500 ka kan ka 
-...
+... (1215 chars skipped) ...
 ɔ. Mamadu Musutafa Jara ye ɲɛfɔli kɛ, ko ni nin taabolo kofɔlenw labatora, kɔɔriko bɛ sɔn ka kɛ wasa ye. A ko a ɲuman dɔ fana ye ka suman suguya sɛnɛta caya dunkafa sabatili nasira la. O de kosɔn Sɛmudete bɛ kabasɛnɛ senkɔrɔmadon kosɛbɛ.
 A y’a jira fana, ko
 nafaba bɛ kɔɔri bɔli la
@@ -1922,7 +1922,7 @@ Baloko dɛsɛ b'o la wa lakana ko fana b'o la. O de y'a to Araba tɛmɛnnen diɲ
 Nka ONU k'o cogosila Talibanw tɛgɛ tɛ da o nafolo mugu kan."	90f04fa311138a31a931e1c24c7085c1
 				"Kumalasebagaw ka ton
 AWIRILI TILE KONONTON TEMENEN, Fransi mogobaw mugan ni wooro, a hakilibaaralaw, a donikelaw, a kiiritigelaw, a eglisi mogobaw, olu ye u fara nyogon kan « kumalasebaga ton » kono, ni ka feere tige walasa Gofereneman ni Saint-Ambroise sebentanw be se ka nyogon kumanyogonya. O bee kofe, Gofereneman ye a ka nganiajuguya jira ka i ban deliliw bee ma, u ye o jira u ka korofo kono ni o bora zwen kalo tile mugan ni wooro. O sabu la, kumalasebagaw ye Fransi jamana mume bee wele u ka 
-... 
+... (203 chars skipped) ... 
 ili kalo tile wooro : kumalasebagaw ka tonsigi don
 - Awirili kalo tile seegin : kumalasebagaw ka wele folo
 - Awirili kalo tile tan ni duuru : nyogonye min kera Matignon
@@ -1931,7 +1931,7 @@ ili kalo tile wooro : kumalasebagaw ka tonsigi don
 - Me kalo tile folo : bataki min cira minisiri folo ma
 - Zwen kalo tile mugan ni wooro : jaabimakono ni a kamanagwan ni a hami
 - Zwe kalo tile folo : u ni lak
-...
+... (203 chars skipped) ...
 untigi ma
 - Uti kalo tile mugan ni wolonwula : Saint Bernard genni kofe
 - Oktoburu kalo tile mugan ni kelen : dinanw ladoni cemakiiribolo don
@@ -1945,7 +1945,7 @@ This HTML version prepared by the UDHR in Unicode project, http://www.unicode.or
 Ka simma nna buricinitɛrɛ ka n bɔrɔ ŋwɛnɛ iyaali bei nna daama duuri ka bɔrɔ fɔ su hini ka hoŋu n sɛ ya bara bɔŋɔ duuri nna laakari kaniyom ãduniya kuna,
 Ka simma nna ka bɔrɔ daama duuri bara hɛi fɔ ka sariya hima a ma cɛruma ka bɔrɔ mɔrani nna tilaasi guruje nna mɛiyom bɛrɛkɛtɛ nna kwɛnɛ bɔrɔ futu,
 Ka simma nna naanɛ ka ãduniya zamaa sariya n
-... 
+... (2846 chars skipped) ... 
 a bɛrɛkɛtɛ fɔ yo ka ãduniya zamaa mariga beeri hoŋu.
 1. Bamɛi kulu hima a ma gonna dimi.
 2. N su hini ka hoŋu bɔrɔ sɛ a dimi takii bɔŋɔ.
@@ -1954,7 +1954,7 @@ a bɛrɛkɛtɛ fɔ yo ka ãduniya zamaa mariga beeri hoŋu.
 3. Iyaali ya bara zaamani safu ci cirici a ganna nɔ gominanti ga a cɛruma.
 1. Bamɛi, n bɔŋɔ̌ fɔ nɔ, noo zamaa nɔ, daama gono wɔ gonna duuri.
 2. A s
-...
+... (2846 chars skipped) ...
 i ka kuna a fɔlɔnku bɔrɔ tɛrɛ nna a jirima hini ka tɛ.
 2. A daama nna a bɔŋɔ mɛiyom looyom kuna nɔ sariya tikitɛ a sɛ a ma duwa ko bɔrɔ cinniyo daama nna n bɔŋɔ mɛiyom bei n sɛ. Macɛrɛsɛ mo gono bamɛi sɛ.
 3. N su ba hini ka daama nna bɔŋɔ mɛiyo di loo ka na cii zaŋa ka yaasi ãduniyakwaara diyayo marigayom na a jisi.
@@ -1964,14 +1964,14 @@ Dugu yɔrɔfɔli
 Taraso II bɛ Kucala kolomi fɛ Sikaso marabolo 'kɔnɔ, Koloniŋɛ galoda 'kɔnɔ. Jamanatigi-duguko tle la, Molobala tùn ye a ka jamanatigi-dugu ye. O Molobala kelen Tlara ka Kɛ a ka kafoda ye. Bi-bi in na, Molobala yɛrɛ ye Koloniŋɛ galoda galotigi-dugu ye. Lamini na, Taraso bɛ Fɔ duguba min fɛ kosɛbɛ o ye Kucala ye, a ni min cɛ ye bam 50 ye.
 Dugu tɔgɔko
 Taraso II, ni Hɛrɛmakɔnɔ bɛ Fɔ ka Fàra a tɔgɔ kan, ye Koloniŋɛ galoda dugu dɔ ye.Taraso II mɔgɔw Bɔra dugu dɔ la k
-... 
+... (1623 chars skipped) ... 
  kami, tonkɔnɔ ani kɔnɔ.
 Mɔni bɛ Tarasokaw ka baaraw la. Laadalamɔni na, u bɛ mɔni Kɛ ni jɔ, zɔlɔ ani pɔpɔlɔ ye. O mɔni ninnu kɛyɔrɔw ye nungtaan, lɔcoy, buguulokɔ, sidiki wii mɔnikɛ-yɔrɔw ye.
 Tarasoka bɛ jago fana Kɛ. A ka jagofɛnw ye sɛnɛfɛnw ye. Dɔw bɛ butikifeere ni baganfeere Kɛ. Taraso ye lɔgɔdugu ye. A sugu bɛ Jɔ taratadonya fɛ.
 Donsoya dɔɔnin bɛ Kɛ Taraso. Bololabaara misɛnnin minnu bɛ Kɛ yen o dɔw ye motodla ye, jiriʃi ani geseda.
 Dugu yiriwaliko
 Yiriwa sira caman Dayɛlɛnna Tarasokaw ye
-...
+... (1623 chars skipped) ...
 .
 Dugu ɲenajeko
 Taraso ɲɛnajɛko ka ca. Лɛnajɛ minnu ye gintannako ye dugu 'kɔnɔ olu ye dugu ka yereta sanyelema ye, kɔɲɔ, seli, denkundi ani kuranejigin. A ɲɛnajɛ ninnu fɔliminɛn fànba ye bɔnɔ ni flen ye.
@@ -1986,19 +1986,19 @@ Please login or sign up for a free trial to access the full content.
 Schobert, R.; Hölzel, C.; Barnickel, B., Science of Synthesis, (2010) 47, 9.
 General Introduction
 Previously published information regarding the synthesis of all-carbon substituted alkenes by means of Wittig and related phosphorus-based alkenation reactions c
-... 
+... (1401 chars skipped) ... 
 eeee. Me eee eeee ee eeeeeeeee eeeeeeeeeeeee eee eeeeeeeeeeeeee eeeeeee eee M/M eeeeeeeeeee ee eee M=M eeee eeeeeee eeeeeee ee e eeeeeee eeeee. Me eeeeeee ee eeeeeee eeee ee eeeeeee eeeeeeee,[8,8] eee eeeeeeee ee eeeeeee ee eeeeeee eeeee,[8,88,88] eee ee eee eeeeeeeeee eeeeeeeeeee ee eeeee eee eeeeeeee eeeeeeeeee. Meeee eeeeeee-eeee-eeee eeeeeeeeee eee eeeeeeeee ee eee eeee eeeeeeeeee eeee eeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee Me8M=MMM8 eeee eeeeeeeee eeeee eeeeeeeeeeeee M-eeeeeeeeee eeeeeee 
-...
+... (1401 chars skipped) ...
 eeeeeeeeeee ee eee Meeeee–Meeeee eeeeeeee eeeeeeeee eee(eeeeeeeeeeeeeee)eeeeeeeeeeeeeeee.[88,88] Mee eee Meeeee-eeee eeeeeeeee ee eeeeeeeeeeee, eeeeeee eeeeeeeeee eeeeee eee eeeeeeee w-eeeeeeee eeeee eeeeeeeeee eeee eeee eeeeeee, eeeeeeeee eeeeeee eeeeeeeee ee eeeeeeee,[88] eeeeeeeeeeeee ee w-eeeeeeeeeeeeeeeeeee eeeee,[88,88] eee eeeeeeee eeeeeee e eeeeeee eee e eeeeeeee eeeeeeeeee eee eeeeeeee eeeeee,[88–88] eee eee eeeeeeee ee eeeeeeeeeeeeeeee eeeee eeee w-eeeeeeeeeeee eeeeeeee.[88]
 References"	4b644cfabcf22a2d0a3ad79106615145
 				les villages du guidimakha sont MAURITANIE: djadjibine fofana-debe dafort ajar diogontourou diaguily boully baediam wompou artemou keninkoumou hassi-choggar kalinioro sabouciré sollou sansangue bokédianbi karakoro mbalou godioval toumbou goupou guemou sambakagny testaye selibaby mamaeli bouroudji sarankoité coumba-ndao dangueremou hassi bagara arsa tachott ould yanja barene amagué bedia toumiat dahalagué tissi bargou bandiougou gakoura MALI:leya koussane dag-dag aorou koumarefara gousela kalinioro selifely kebe-tiss tissyganzoye soueina boukoutineti lahajib moussala gory-gopela moutala samsalake hamdalaye ahel-falouté ahel barké amilalé bonié moudioro dindinaé toumbakoukane ambidedi samankidi bangassi gabou diadioumbera madinel il yen a encore bcp plus mais c tous ske g pu tavoire	1637ac97becd8f00e60324755e761e54
 				"EDITORIAL - ESCALATING REPRESSION IN NICARAGUA
 AMERIK JAMANA FANGA YE, NIANGILI BERE LAGOSI, NICARAGUA, ORTEGA-MURILLO KA, FANGA MA NAANI KAMA KATUGU, BAGABAGALI, ANI KUNNAGOSI HAKE BONYALI FE. KA, FARA NI, FANGA, LAMOGO NAANI KAN, JAMANA WASABLON LASIGIDENW, WARIBON KACON, FINITIGTIW ANI, DANIEL ORTEGA NI, ROSARIO MURILLO DEN MUSO KELIN.
 KA, KON NI, KALO DAMADO, NOVEMBRU KALO JAMANATIGISIGI KALAFILIW NYE, FAGAN SINAMATON NYEMOGO BA MUGANI WOLONFILA (27)MINNU CELA JAMANATIGISIGI KALAFILIW CEBOW 
-... 
+... (724 chars skipped) ... 
 , KALATA FALEN NYENEMAN WALEYA, YELEMA MIN, WEELEDARA AMERIK GUN JAMANA JEKULU – ORGANIZATION OF AMERICAN STATES – FE; WEELDA MIN FANA, SENKOROMADONDONA, DUNIYA KELENYA TON BUNADAMANDENYA JOSIRA NI, MAYA HAKE JAMAKULU FE.
 KA, NI BAGABAGALI, ONI KUNNAGOSI WILIKAJO CEJUGU, TO SENA; ORTEGA KA, FANGA DANAKRI, MAYA HAKE ONI JEMUFANGA KAMA TE, KO KURA YE. FANGA KA, MANTOORO BLEN SAN BAFILA NI, TANI SEGI (2018), JEMUFAGAN GIRINKAJOW KOFE, MA KEME SABA NI MUGANI DURU NI, KO FAGARA; MA BA FILA JOGINA, AN
-...
+... (724 chars skipped) ...
 O KILEN MUGANI FILA (JUNE 22), LA JAMANA FANGA BI-DURU NI KONONTON (59) YE, BOLONO BILA FARAKAN LASELI LA, DUNIYA KELENYA TON (UN HUMAN RIGHTS COUNCIL) KA, HADAMADENYA HAKEW JAMAKULU KA, WEELEDA KA, KASODENW LABILA, IKORO.
 AMERIK JAMANA KA, CIDENJURUYA DEMEDEME TUN YE, BOLODINGONGONMA BOLODA NI, OAS, EU, ANI DUNIYA DEMEBAGAW WEREW KA, ORTEGA-MURILLO FANGA GERENTIN KA, FANGA KUNNAGOSI NYOME NICARAGUA FASODENW KAMA; JAMANADENW MINNU KAKAN NI, HERE YE, KA, TEME NI KELENYA POLITIKI JEKULU JAMANA YE."	a70320b337c5fda353b07500f4f33b71
 				"You are using Science Of Synthesis as a Guest.
@@ -2006,23 +2006,23 @@ Please login to access the full content or check if you have access via37.2.1.4.
 Please login to access the full content or check if you have access via
 Adolfsson, H., Science of Synthesis, (2008) 37, 256.
 The use of rhenium-based systems for the epoxidation of alkenes has increased considerably since the 1990s.[104] A review published in 1989 stated that “the catalytic activity of rheni
-... 
+... (9908 chars skipped) ... 
 eeeeee, ee eee eeeeeee ee eeeeeeee eeeeeeee. Meee eeeee eee ee ee e eeeee eeeeeee eee eeeeee eeeeeeee eeeeeeeeee eeee ee eeeee-, eee-, eee M-eeeeeeeeeeeee eeeeeee eeeeeee eeeee eeeeeeeee eee eeeeeeeee eeee eeeeeeee ee e eeee eeeeeeeeeeeee eeeeee eeee eee eeee eee eeeeeeee eeeeeeeeeeeee. Meee eeeeeeee-eeee eeeeeeeeee eeee ee eee-8-eeee, eeeeeee, eeeee eeee eeeeee eeee eeeeeeeeeeeee eeeeee-eeeeeeee eeeeee, eee eeeeeee eeeeee eeeeeeee eeeee ee eeeee eeeeeeeeee eeeeeeeeeee. Meeee eee eeeeeeee (88 ee
-...
+... (9908 chars skipped) ...
 ee [(M)-eeee-8-eeeeeeeeeee], eee eee eeee eeeeeeeeeeeeeeeeee eeeeeeee ee 88% ee, eeeeeeee ee eeee eeeeeeeeee eeee eee eeeeeeee ee eeee eeeee ee 8% eeeeeeeeee. Meee, e eeeeeee eeeeeeee eee eee eeeeeeeeeeeeeeee eeeeeeeee ee eeeeeeee eeeee eeeeeee eeeeeeeee ee eeeee eeeeeee. Meeee eeeee eeeeeeeee ee e eeeeeeeeeeee ee eeee e eeeeee eeeee ee eeeeeeeee, eeeeeeeeeee eee eeeeeeeeee ee eee eeeeeeeeeeeeeeeeeee(MMM) eeeeeeeee eeeeeeeeeee eeeeeeeee eeeee eeeeeeee eeeeeeee ee eee eeeeeeee eeeeeee.
 References"	83141b38ba1f80469ef3b2295f7d6c6e
 				"1Yisa ya nyama yen min kɛ, a yɛlɛta kɔnkɛ kuma anu yarɔ ka a mayigi. Ala karan dannu yɛlɛta a fɛ nyɔ. 2A ya anu karan dabira. 3A ko, “Mɔgɔ-sewanɛ le wo mɔgɛ la min si a yigi bɛɛ sa Alla rɔ bawo Alla min bi Arinyɛni tɔ, a si ata mansayɛ sɔrɔn! 4Mɔgɔ-sewanɛ le wo mɔgɛ la min bi dila a yisi rɔ bawo Alla si a yisi-kimɛ! 5Mɔgɔ-sewanɛ le wo mɔgɛ la min famayiginɛ Alla ye bawo Alla si duninya bɛɛ ma atɛ la! 6Mɔgɔ-sewanɛ le wo mɔgɛ la Alla sako-kɛ-koe di min ye bawo Alla si wo tigi wasa feu! 7Mɔgɔ-sewan
-... 
+... (2135 chars skipped) ... 
 ma. 23Woletɔ ni i ye a fɛ ka Alla kɔ saraka mintan tinɛ kuma Mari bato bɔn la, i hɛnkili la ni bila ko ila ko siginɛ i ta-nyɔgɛ burɔ, 24ila kɔ-fan to saraka mintan tinɛ tɔgɔfɛ. I ni ta tiriya ka yisi-kimɛ don wobɛ i ta-nyɔgɛ tɛma. Wo wa ban, i ni sɛgi ka ila kɔ-fan di Alla ma. 25“Ni i bilara mɔgɛ do la, yanni a ni ta i lakiti, i ni a madiya. Ni i ma wo ma, a si ta i la ka i don kiti-tɛgɛlɛnu bolo. Wonu si i don i maralɛnu bolo. Wonu fanan si i sa yele la. 26Wa wo hɛnkili to kɛ ko! I ti bɔ nyɔ ni
-...
+... (2135 chars skipped) ...
  ma iko i Fa Alla min bi Arinyɛni tɔ bawo a ye ala tele labɔla mɔgɔ-nyimɛ anubɛ mɔgɔ yogomɛ bɛɛ ye nya-kun-kelen. Ko-latelenni-kɛla wo, ko-yogoma-kɛla wo, Alla ye bandɛ lanala wo bɛɛ ye. 46Ni i ya i diyana-mɔgɛ dɔrɔn keni, i si barayi nyamintan sɔrɔn Alla bolo? Hali duti-makelelɛnu fanan si wo ma! 47Ni i ya i diyana-mɔgɛ dɔrɔn kɔndɔn, i wara nfen ma worɔ ka tenbi mɔgɛ doinu na? Hali minnu sa Alla batola, wonu fanan si wo ma! 48Wo ni wo telen iko i Fa Alla min bi Arinyɛni tɔ, wo telennɛ nya min.”"	4b8d2324e4278c513ede82e49b6f0d14
 				"ISRAƐLKA minnu tun kalannen bɛ kosɛbɛ, masakɛ Nebukadnezar ye olu bɛɛ cɛ ka taa ni u ye Babilonɛ. O mɔgɔ kalannenw la, kamalennin minnu tun cɛ ka ɲi ani minnu tun hakili ka di ka tɛmɛ tɔw bɛɛ kan, masakɛ ye olu ta ka bɔ tɔw cɛ la. I ɲɛ bɛ kamalennin naani minnu na yan yɔrɔ la, olu ye o mɔgɔ talen dɔw ye. Kelen ye Daniɛl ye. Babilonɛkaw ye saba tɔw tɔgɔ da ko Sadrak, Mesak, ani Abɛd-Nego.
 Nebukadnezar tun b’a fɛ o kamalenninw ka kalan san saba kɔnɔ, walisa kɔfɛ u ka baara kɛ a ka palɛ la. O san s
-... 
+... (910 chars skipped) ... 
 di an ma ka min tile 10 kɔnɔ k’a filɛ. O tile 10 kɔfɛ, kamalennin minnu bɛ masakɛ ka dumunifɛnw dun, i ka anw ɲɛda ni olu ɲɛda lajɛ walisa k’a dɔn kɛnɛya bɛ minnu ɲɛda kan ka tɛmɛ tɔw kan.’
 Cɛ sɔnna o ma. Tile 10 dafara tuma min na, Daniɛl ni a teri saba tun bɔlen bɛ mɔgɔ kɛnɛmanw fɛ ka tɛmɛ kamalennin tɔw bɛɛ kan. O kosɔn, cɛ sɔnna k’u to u ka nakɔ kɔnɔfɛnw dun masakɛ ka dumunifɛnw nɔ na.
 San saba banna tuma min na, kamalenninw bɛɛ nana Nebukadnezar ɲɛkɔrɔ. A kɛlen kɔ ka kuma u bɛɛ fɛ, masakɛ y
-...
+... (910 chars skipped) ...
 lasebagaw ni a ka hakilitigiw ye sira jumɛn fɛ?
 Ɲininkali wɛrɛw
 - I ka Daniel 1:1-21 kalan.
@@ -2056,11 +2056,11 @@ Blàdon : 2016-06-16 Yɛlɛmako laban : 2017-01-07"	d3012a0bbeb8a84dd4cf0d24cd86
 K’a ɲini ka Ebola sidɔn. A kunkankumaw bɛ se yɔrɔ la ka sɔrɔ bana yɛrɛ ma se o yɔrɔ la. Kɛnɛya baarakɛlaw de bɛ se ka hakilisigi kumaw fɔ mɔgɔw ye o kibaruyaw kan. Ni mɔgɔw ye yɛrɛtangafɛɛrɛ dɔw sigi sen kan minnu bɛ dɔ bɔ bana in jɛnsɛnni na, o bɛ kɛ sababu ye ka ni caman kisi.
 1. Ebola yɛrɛ ye mun ye?
 Ebola ye farigan jugumanba ye min bɛ sɔrɔ banakisɛ fɛ, jolibɔn bɛ a sen kɔrɔ (joli bɛ bɔ banabagatɔ fari la). A bɛ sɔrɔ banabagatɔ j
-... 
+... (974 chars skipped) ... 
 ola bɛ sɔrɔ ebolatɔ farilaji de fɛ. Wɔsiji, joli, kɔnɔboli, fɔɔnɔ, lawaji, jiyiriyaraw ani sugunɛ bɛ a banakisɛ lase mɔgɔ ma. Ni bana bɛka juguya, a yɛlɛma ka teli o waati de. Laadala sukoya dɔw senfɛ, mɔgɔw bɛ maga su la o fana bɛ kɛ sababu ye ka Ebola banakisɛ yɛlɛma.
 6. Ebola fura ye mun ye?
 Fura foyi ma sɔrɔ Ebola la fɔlɔ. Kɛnɛyaso minnu sigilen don Ebola kɛlɛli kama, olu ka baara sinsinnen don a sɔrɔcogo kɛlɛli de ma dɔrɔn, ka fara banabagatɔw mabɔli kan ani ka waleyaw kɛ minnu bɛ u dɛmɛ ka
-...
+... (974 chars skipped) ...
 u magara ɲɔgɔn na.
 - Aw bɛ dɔgɔtɔrɔ Tarawele wele o yɔrɔni bɛɛ.
 - Kɛrɛnkɛrɛnnenya la: A ka fisa ka anbulansi wele; banabagatɔ tali takisi (walima mobili wɛrɛ) la, o farati ka bon.
@@ -2101,7 +2101,7 @@ balontan in na. O b’a to Mali ka se ka wasa sɔrɔ ka se
 demifinali ma. A k’u ye binni min kɛ Sɛnɛgali ɲɛkɔrɔ u bɔko fɔlɔ la, o
 kɛra jigilatigɛ
 ye 
-... 
+... (490 chars skipped) ... 
 Mali bɛ kulu min kɔnɔ, Moritani ye walan sɛmɛn janjo
 tɔ la ; u tɔ tora
 jamana saba ye.
@@ -2115,14 +2115,14 @@ sebaaya sɔrɔ ka demifinali tan.
 Jamana minnu fana mana sebaaya sɔrɔ ka se finali la, olu bɛ yamaruya u ka
 kupudafiriki janjo lasɔrɔli la ; o min bɛna kɛ san 2025 kɔnɔ.
 Dɔkala Y
-...
+... (490 chars skipped) ...
 la ko kolonw na ɲɔgɔn na ; i n’a fɔ bana dogolenw, walima jogo kolon.
 Ntolantanna 27 welelenw na degelikaramɔgɔ nɔnabila Badara Alu Jalo fɛ, seegin de ma ye. Olu ma se ka ma ka da kun dɔw kan. I n’a fɔ ntolantannaw ɲɛmɔgɔ Hamari Tarawele, Amadu Hayidara n’a bɛ wele Dudu, Nene Dɔrizelɛsi, Masajo Hayidara.
 Nin kuma tun bɛ mɔgɔw da kɔnɔ kabini waati jan ; sisan a kuma forobayara ; Ganbi degelikaramɔgɔ kɔrɔ Tɔmu Sɛnfiye, ni Bɛliziki jamanaden don, a sugandira ka kɛ Mali Sɛgɛw degelikaramɔgɔ kura ye."	47b4a7901a87d01043500c21957e2d51
 				"1Pita anubɛ Yɔni ye kumala mɔgɛnu ye tumɛ min, saraka masɔlɛ donu wo, Alla Bato Bɔn makandannɛnuna kun tigi wo, anubɛ Sadusi donu nara anu bara. 2Anu yisi bɔnɛ bawo Pita anubɛ Yɔni ye mɔgɛnu karanna ko mɔgɛ do ara wuli ka bɔ furinu tɛma ka a ragbɛ ko furinu bi wulila le iko min mara Yisa la. 3Woletɔ anu ya Pita anubɛ Yɔni bira ka anu sa yele la ha banda-ka-dɛ ma bawo suyi ara ke nun. 4Kɔnɔ minnu ya anuna makawandili-kumɛ wo lamɔɛn, wo siyaman dɛnkɛninyara. Ado anu damasi lakofunɛ mara a keima wa
-... 
+... (1718 chars skipped) ... 
  fɔ anu ye ko a mara nya-wo-nya, anu kana kuma tun Yisa tɔgɛ rɔ. Anu kana mɔgɛnu karan tun Yisa tɔgɛ rɔ. 19Pita anubɛ Yɔni ya anu yabi ko, “Ka wota kumɛ bira wo, ka Allatɛ bira wo, nyamintan telennɛ Alla yala? Wo nyɛrɛ ni wo kiti tɛgɛ 20bawo male ara koe minnu tayen ka a lamɔɛn, a fɛrɛ sa fɔ ma ni wonu denu fɔ.” 21Mɔgɔ-banu ya Pita anubɛ Yɔni niyi ragbɛrɛn bɛrɛkɛ! Wo kɔma, anu ya anu boloka. Anu ma wonu tɔrɔ-nya yen bawo koe min mara, mɔgɛ bɛɛ ye Alla tantola wola ko la nun. 22Kei minna kɛndɛya-
-...
+... (1718 chars skipped) ...
 a minnu bolo. Dugi anubɛ bɔnnu taranta minnu bolo anu tɛma, wonu ya wo bɛɛ feri. Anu ya wodi min sɔrɔn wonu tɔ, anu nara wonu na 35ka a don Yisata kilayɛnu bolo. Anu ya wodi wo rafara anu nyɔgɔn tɛma iko mɔgɛ bɛɛ makoe ye a la nya min. 36Lifayi bɔnsɔn mɔgɛ do ye nyɔ nun min sɔrɔnta yi-tɛma-dugi do rɔ min tɔgɛ Saiparasi. A tɔgɛ Yusufu. Yisata kilayɛnu ya a kele ko Banabasi. (Tɔgɛ wo kɔrɛ le ko, “Min si mɔgɛ yisi-kimɛ.”) 37Banabasi wo ya dugi do feri ka na wodi wo la ka a don Yisata kilayɛnu bolo."	264e9b1ab07a57dfb0d88ba0367b081c
 				"Sigida 1 Farafinfuraw kɛli
 A ka c’a la, fura minnu jɛnsɛnnen don kosɛbɛ, olu fanga man bon. Taamasiɲɛ dɔw filɛ minnu bɛ se k’aw dɛmɛ ka fura dɔw dɔn minnu tɛ foyi ɲɛ.
@@ -2145,14 +2145,14 @@ Denmisɛnni wolo yɔrɔ dɔ tigɛli ani a kunsigi ɲɛyɛlɛmani, olu sababu bɛ
 				"Jamana fen o fen tun ye seben ladon a labenni kama, Marɔku ta benna bee ma kene kan. Alizeri tun b’a nɔfe, Nizeriya ni Benen tun fila tun be k’a ɲinin ɲɔgɔn fe, Zanbi fana tun b’a nɔfe ; nka nin bee labanna k’u senbɔ a ɲininni na.
 A be san caman bɔ sa, Marɔku tun b’a la ka KANI labenni laɲinin ke. Nka a y’a sɔrɔ arabadon. Kasɔrɔ Alizeri, Benen ni Nizeriya fila ani Zanbi kelen kɔ k’u senbɔ a labenni ɲininni na, k’a tɔ to Marɔku kelen ye.
 A ko ma bila ka suma tuguni, u sinna ka san 2025 KANI laben
-... 
+... (675 chars skipped) ... 
 a 24 ninnu be tila ntolantankulu 4 ye, ka keɲe ni u cogoya ye FIFA fe.
 Lere damadɔ o kɔfe, (CAF) ye Tanzani-Keniya-Uganda saba sugandi KANI 2027 labenni jatigiya kama ɲɔgɔn fe.
 Abubakari Tarawele
 Dɔkala Yusufu Jara
 Kolonɛli Asimi Goyita ye hakilila falen kɛ n’a ka dunanw ye numerikiko nafaw kan. A ye laadilikanw fana di u ma, sanni a k’a jira u la, ko AES jamanakuntigi bɛɛ ka senkɔrɔmadon bɛ ka taa u ma.
 Kolonɛli Asimi Goyita ye hakilila falen kɛ n’a ka dunanw ye numerikiko nafaw kan. A ye laadi
-...
+... (675 chars skipped) ...
 inenen file, o bena ke sababu ye Malidenw ka kumaɲɔgɔnyaw ke u ni ɲɔgɔn ce ka furaw dajira geleya kofɔlenw na. A ka kan ka se ka hadamadenya juru caanin an ce, ka dɔ fara ku-ɲɔgɔn-kan fanga kan ani ka na ni ben kutaala jan ye..
 Furancelafanga jamanakuntigi Koloneli Asimi Goyita ye laseli ke tarata awirilikalo tile 30 san 2024, ko gɔferenaman be sene kefen minnu di, temen be ke n’o ye. O siratige la, angere (ire) kg50 bɔre ye sefawari dɔrɔme ba fila ani keme seegin (d2 800) ye, farafinnɔgɔ kg50 ."	6cea92ad6e57199b5cfdb1f0f0444894
 				Bamako - Koulouba - Sogonafing - Badalabougou - Hamdallaye - Sikoroni - Samé - Lafiabougou - Lassa - Ie Lido - Nkomi - Djikoroni - Koulouniko - Daoudabougou - Sogoniko - Bankoni - Magnambougou - Sabalibougou - Dialakorodji - Sokorodji - Nafadji Dioumanzana - Dounting - Talikbougou - Korofina - Sirakoro - Faladié - Sébéninkoro - Sananko Farako - Missabougou - Niamakoro - Kalaban Koura - Boulkassoumbougou - Sotouba - Kalaban Koro - Diakoni - Soulémanbougou - Kondiambougou - Tyènguiéla - Ntékédo Samassébougou - Ouadougou Sikoro - Tyèmanko - Titibougou - Grinkoumbé - Yirimandio - Kalabambougou - Sananfara - Ntékédo Sirakoro - Kolonda - Kolébabougou - Falaninko	1b9f4e717e50ca7c21bbd780205bf68f
@@ -2179,14 +2179,14 @@ An bɛna dɔnkilidaala min lakodon
 Abdoulaye WATARA “Kamarun” ka bɔ Bouaké Cote d’Ivoire jamana la."	73ac50d2ebe830e3d165418345dad443
 				Bɔrugu tem ka᷇aru tɔna sɔɔ, tɔmbu 07 wa ba Lasa ye bara ma be sɔɔ tɔmbu 2 ba gu. Bù ka kpin bù ka bara gɔbu tè tabu ko, te tè ta ra tiene tooto mi, Bɔrugun tem ka᷇arun wirugi, Perefe Sibiri MAMAM SISE u ka tem ka᷇arun sɔm kowobu, meriiban sɔmɔbu ka tɔn dirobun yigbenugibu wesiana. Durɔ wi Yakɔbu OBOLI, wi u bwa᷇adobun gari wunanamɔ bɔrugun tem ka᷇aru sɔɔ, wiya u tɔn be Lasa yen faaye kua. U bù sɔ᷇ɔwa u nee Benen temɔ tɔmbu 7wa Lasan bara te ta go mi! U nee su ka bara te duka suuri, sere sa n da nie saa baayere kpa su gunɔrun yaa tembu deri. Su kookari ko me gunɔnu kun ka besen dianu nɔɔ dokemɔ yenuɔ, kpa besen wa᷇a yeru ta n deere badomma. Lasa ye ya raa naare ya doona, ya maa sere wurama.	903fee405c3594c57e64f664e6c163f4
 				"1A laban, a ma kun ma rɔ tun, ma ya a latɛgɛ ko ma ni to ma dan na Atɛn soe burɔ 2ka ma na kelen nyɔgɛ Timoti lata wo ma. Mabɛ ale ye wɔlila ma nyɔgɔn fɛ Alla ye ka Kirasitita kibara-nyimɛ-kawandilɛ bɔ. Ma ya Timoti lata wo ma alako wo ni wo sɛbɛ don wola dɛnkɛninyɛ ma. 3Ma ya wo ma alako wo fenfen kana sɛgi wo kɔma tun nyagbɛ kɛnuna ko la. Wole nyɛrɛ ya a lɔn ko fɔ ma ni nyagbɛ kɛnu tayen iko Alla sako ye nya min. 4Hali ma taranta wo fɛ tumɛ min, ma ya a fɔ wo ye ko fɔ ma ni tɔrɔyɛ sɔrɔn. Ado m
-... 
+... (135 chars skipped) ... 
  kilannɛ nun ko Setanɛ ara wo yakɔrɔ-mamɔ ka mala wɔlɛ bɛɛ ma fuyi la! 6Dɛnkɛninyɛ ye wo bolo nya min wo, keninteyɛ ye wo bolo nya min wo, Timoti ara na wo lake ma ma. A ara a fɔ ma ye ko miriya-nyimɛ ye wo bolo ka a bɛn ma ma. Ado iko ma yen-sɔgɛ ye wo la nya min, wo yen-sɔgɛ ye male fanan na wo nya na le. 7Woletɔ ma na kelen nyɔgɛnu, hali mala tɔrɔyɛ anubɛ mala nyagbɛ kolo, wola dɛnkɛninyɛ ya ma sɛnbɛ don. 8Wo sɔni tora Marila ko la min kɛ, wo ara ma yisi sa buda! 9Nba, kaka ma ye baraka biral
-...
+... (135 chars skipped) ...
 e, ma ye a matarala ma yisi bɛɛ la alako a ni sɔn ma ni wo yen tun. Wo kɔma fanan, ni ma nara wo wara, wo makoe ye min na dɛnkɛninyɛ rɔ, ma ni wo dɛnbɛ wola ko la. 11Alamɛ ma Fa Alla anubɛ ma Mari Yisa ya kilɛ rabɛn ma ye ka na ke wo ma! 12Alamɛ Mari ya wola keninteyɛ lakoloya wo nyɔgɔn ye anubɛ mɔgɛ bɛɛ ye dɛɛ! A ni to a lakoloyala iko matɛ koloyanɛ wole wara la nya min. 13Alamɛ wo yisi ragbɛlɛyara alako ma Mari Yisa anubɛ ata mɔgɔ-sɛnimɛnu ba na tumɛ min, wo sɛninyanɛ ni taran ma Fa Alla yala."	e05a9071836496ac89879deb26931921
 				"Ameriki jamana ka pankurun bolitɔn ba FAA ye yamaruya di sibiri don ko Boeing 737 MAX 9 pankuru 171 sɛgɛsɛgɛli teliya la, a jɔra ka pankurun boli fo o waati, ko dɔ kɔfɛ min kɛra jumadon pankurun boli senfɛ Portland kɛrɛfɛ, Oregon. FAA ka cikan ""b'a ɲini baarakɛlaw fɛ (pankuru baarakɛlaw) fɛ u ka pankuru nin sɛgɛsɛgɛ sani u ka wuli kokura"", o baarada y'o fɔ a kɔnɔ kumaɲɔgɔnya kɛra, k’a jateminɛ ko nin jatenyini nin bɛ sanga 4 ni sanga 8 cɛ pankuru kɔnɔ. Boeing ye kunnafoni minnu lase AFP ma, olu 
-... 
+... (1371 chars skipped) ... 
 ikiw jigira"", o ye pankuru kɔnɔ mɔgɔ dɔ ka fɔta ye, n'o ye Kyle Rinker ye, Ameriki ka jabarani CNN fɛ . Portland don o don kunnafoni sɛbɛn min tɔgɔ ye ko The Oregonian, n’o ye pankuru kɔnɔmɔgɔw tɔgɔ fɔ, o y’a jira ko mɔgɔ si tun tɛ sigilan kan o yɔrɔnin bɛɛ la, yɔrɔ min bɛ yɔrɔ nin kɛrɛfɛ. ka wuli ka taa sanfɛ. Nka kamalennin min sigilen tun bɛ cɛmancɛ sigilan kan, o y’a ka doloki tigɛtigɛ finye basigibaliya fɛ, ka jogin misɛnninw lase a ma, ka kɛɲɛ ni o kunnafonidiso ye. Vi Nguyen y’a fɔ New Yo
-...
+... (1371 chars skipped) ...
 an kalo 20 kɔnɔ, sanni a ka yamaruya sɔrɔ kokura ka pankurun ta. FAA tun ye yamaruya di dɔrɔn ka segin baara la, fɛn dɔw taboolo faleni yeli Kɔsa nin na, Boeing tun ka kan ka fɛnw lase cogo sumaya k’a sababu kɛ gɛlɛyaw ye minnu tun bɛ pankuru kɔnɔ, kɛrɛnkɛrɛnnenya la, pankuru kɔkanna dawolo la. Decembre kalo laban na, Boeing tun ye 737 MAX 1370 ni kɔ lase ani a ka sanni gafe kɔnɔ sisan, a ka ca ni 4000 ye. Chine jamana ye a jɔ kabini a binna, 737 MAX lase jamana ka tɔnw ma hali bi.
 Ani AFP
 Forum"	c798f42027d2edf0cc662b853bca474d
