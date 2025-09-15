@@ -23,6 +23,6 @@ We ask to provide 4 binary labels for each example:
 * lang correct? 0/1: always fill this field (otherwise we will not distinguish labeled and unlabeled examples), put 0 if most of the text is not in the target language, otherwise put 1.
 
 ## Advice on inspection
-One way to annotate is using LibreOffice Calc. For convenience freeze the first 5 columns (select them and click View -> Freeze Rows and Columns). Also make the text area larger. This can look like this:
+One way to annotate is using LibreOffice Calc. For convenience select the first 5 columns and freeze (select them and click View -> Freeze Rows and Columns). Also make the text area larger. This can look like this:
 ![image](https://github.com/user-attachments/assets/0a89750c-7b8b-47c3-9beb-584431d27162)
 
