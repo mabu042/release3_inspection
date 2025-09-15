@@ -30,5 +30,6 @@ One way to annotate is using LibreOffice Calc. For convenience:
 * freeze the first 5 columns (select them and click View -> Freeze Rows and Columns) and the header row (View -> Freeze Cells -> Freeze First Row).
 
 You should get the interface similar to this:
-![image](https://github.com/user-attachments/assets/0a89750c-7b8b-47c3-9beb-584431d27162)
+<img width="1662" height="914" alt="image" src="https://github.com/user-attachments/assets/d977959e-1a3a-47b7-b34e-e1f4a755f71f" />
+
 
