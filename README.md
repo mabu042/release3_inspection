@@ -10,7 +10,7 @@ We want to get a rough idea about the actual content of the cleaned verion of th
 * samples stratified by language,
 *  5 batches of random documents per language,
 *  200 documents per batch,
-*  500/500 characters from the beginning of the fist/second half of each text.
+*  full text for texts shorter than 1500 characters, otherwise the first 500 characters, the last 500 characters and 500 characters from the middle of the text.
 
 ## Inspection
 Please select one or more batches for a language you want to inspect. "Reserve" the batch(es) by filling in your name in the [spreadsheet](https://docs.google.com/spreadsheets/d/1-p0pFSm2uPCxNfvXXizNuHfhzo_NAN9LX945M-Q-hQA/edit?usp=sharing).
