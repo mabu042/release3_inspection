@@ -6,7 +6,7 @@ We want to get a rough idea about the actual content of the cleaned verion of th
 3) fully undesirable because they are mostly unnatural,
 4) undesirable porn texts.
 
-## Data for round 1 of inspection: 
+## Data for round 1 of HPLT 3.0 (cleaned) inspection: 
 * samples stratified by language,
 *  5 batches of random documents per language,
 *  200 documents per batch,
