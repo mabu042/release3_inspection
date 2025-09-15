@@ -26,8 +26,9 @@ We ask to provide 4 binary labels for each example:
 One way to annotate is using LibreOffice Calc. For convenience: 
 * make the text preview area larger;
 * optimize column width (select the first 5 columns, select Format -> Columns -> Optimal Width...);
-* optimize row height (select the whole table with e.g. ctrl+a / cmd+a, select Format -> Rows -> Height.., enter a reasonable value e.g. 0.15);
-* freeze the header row (View -> Freeze Cells -> Freeze First Row) and the first 5 columns (select them and click View -> Freeze Rows and Columns);
-This can look like this:
+* optimize row height (select the whole table with e.g. ctrl+a / cmd+a, select Format -> Rows -> Height.., enter a reasonable value e.g. 0.30);
+* freeze the first 5 columns (select them and click View -> Freeze Rows and Columns) and the header row (View -> Freeze Cells -> Freeze First Row).
+
+You should get the interface similar to this:
 ![image](https://github.com/user-attachments/assets/0a89750c-7b8b-47c3-9beb-584431d27162)
 
