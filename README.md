@@ -14,7 +14,7 @@ We want to get a rough idea about the actual content of the cleaned verion of th
 
 ## Inspection
 Please select one or more batches for a language you want to inspect. "Reserve" the batch(es) by filling in your name in the [spreadsheet](https://docs.google.com/spreadsheets/d/1-p0pFSm2uPCxNfvXXizNuHfhzo_NAN9LX945M-Q-hQA/edit?usp=sharing).
-Fill in the labels and push the updated files back to this repository. Finally, please write down you observations to observations/README.md.
+Fill in the labels and push the updated files back to this repository. Finally, please write down you observations [here](observations/README.md).
 
 We ask to provide 4 binary labels for each example:
 * porn? empty/1: if the text looks like porn put 1, otherwise leave empty;
