@@ -1,0 +1,20 @@
+# Nikolay, [rus_Cyrl/batch0.tsv](../annot_round1/rus_Cyrl/batch0.tsv)
+
+(Outdated, used as an example)
+Almost all examples are in the correct language, 1 example is the first part in Russian and the second in Ukrainian. 
+
+Lots of commercial ads, some contain more running texts (e.g. descriptions of hotels), some less (e.g. sound equipment).
+
+Occasionally the first part contains traces of menus, while the second part consists of running text.
+
+# Marta, [spa_Latn/batch0.tsv](../annot_round1/spa_Latn/batch0.tsv)
+
+* Lang id is perfect (only one document being half Portuguese, one with a sentence in English, one with a sentence in French and one with a sentence in Italian)
+* Only one porn document.
+* Some boilerplate in the documents (links, copyright texts, social media links, menus...). I only marked those as artifacts when they spread across the document, making the reading annoying.
+* Some truncated texts (i.e. "Read more" tags) 
+* Some oversplitted sentences (i.e. doc 158 or 199)
+* Some documents contain sentences repeated twice (maybe images alt text)
+* Other issues not covered by the current evaluation labels  (doc number starting in 2, since 1 is the header of the tsv):
+  * Glued words in docs 9, 44, 48, 70, 79 and 130
+  * Clearly MT or AI generated text in docs 15, 22, 38, 42, 45, 47, 64, 65, 97, 116, 164 and 170
