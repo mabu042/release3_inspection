@@ -18,3 +18,10 @@ Occasionally the first part contains traces of menus, while the second part cons
 * Other issues not covered by the current evaluation labels  (doc number starting in 2, since 1 is the header of the tsv):
   * Glued words in docs 9, 44, 48, 70, 79 and 130
   * Clearly MT or AI generated text in docs 15, 22, 38, 42, 45, 47, 64, 65, 97, 116, 164 and 170
+
+# Patrick, [cmn_Hans/batch0.tsv](../annot_round1/cmn_Hans/batch0.tsv)
+
+* Lang id is perfect, only one document has slightly more English than Chinese, so labelled as 0 under "correct language"
+* 2-3 porn
+* Some documents are apparently news titles concatenated together, so natural/fluent at the sentence level but not "coherent".
+* Some documents have a long list of items, but without text artifacts
