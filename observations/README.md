@@ -25,3 +25,14 @@ Occasionally the first part contains traces of menus, while the second part cons
 * 2-3 porn
 * Some documents are apparently news titles concatenated together, so natural/fluent at the sentence level but not "coherent".
 * Some documents have a long list of items, but without text artifacts
+
+# Ona, [cat_Latn/batch0.tsv](../annot_round1/cat_Latn/batch0.tsv)
+* Lang id is perfect, atlhough a few documents may contain a single sentence in Spanish or English.
+* 0 porn documents.
+* Some boilerplate in the documents (links, copyright texts, social media links, menus...). I did not mark this as text artifacts, as the majority of the text is good and readable.
+* Some truncated texts
+* Some oversplitted sentences (i.e. doc 55 or 160)
+* Other issues not covered by the current evaluation labels:
+  * Glued words
+  * Clearly MT or AI generated text in docs 2 ("Bons Aires" instead of "Buenos Aires"), 4 ("Friends" as "Amics", the tv show, was never actually translated to Catalan), 86 ("after test" translated as "postgust"), 95
+  * Bad encoding of accent characters (doc 137): "Per grans Órees geogrÓfiques van augmentar la Uniˇ Europea (3,1%), altres pa´sos i territoris d'Europa (10,9%), i AmŔrica del Nord (1,1%). "
