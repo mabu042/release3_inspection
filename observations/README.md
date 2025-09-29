@@ -37,7 +37,7 @@ Occasionally the first part contains traces of menus, while the second part cons
   * Clearly MT or AI generated text in docs 2 ("Bons Aires" instead of "Buenos Aires"), 4 ("Friends" as "Amics", the tv show, was never actually translated to Catalan), 86 ("after test" translated as "postgust"), 95
   * Bad encoding of accent characters (doc 137): "Per grans Órees geogrÓfiques van augmentar la Uniˇ Europea (3,1%), altres pa´sos i territoris d'Europa (10,9%), i AmŔrica del Nord (1,1%). "
 
-# Peter [jpn_Japn/batch0.tsv](../annot_round1/jpn_Japn/batch0.tsv)
+# Peter [jpn_Jpan/batch0.tsv](../annot_round1/jpn_Jpan/batch0.tsv)
 
 * All Lang ID is correct
 * Many of the pages have quite a few text artifacts such as full menus in between proper Japanese sentences.
