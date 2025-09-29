@@ -36,3 +36,14 @@ Occasionally the first part contains traces of menus, while the second part cons
   * Glued words
   * Clearly MT or AI generated text in docs 2 ("Bons Aires" instead of "Buenos Aires"), 4 ("Friends" as "Amics", the tv show, was never actually translated to Catalan), 86 ("after test" translated as "postgust"), 95
   * Bad encoding of accent characters (doc 137): "Per grans Órees geogrÓfiques van augmentar la Uniˇ Europea (3,1%), altres pa´sos i territoris d'Europa (10,9%), i AmŔrica del Nord (1,1%). "
+
+# Peter [jpn_Japn/batch0.tsv](../annot_round1/jpn_Japn/batch0.tsv)
+
+* All Lang ID is correct
+* Many of the pages have quite a few text artifacts such as full menus in between proper Japanese sentences.
+* There are lots of pages with e-commerce listings for consumer products, hotels, real estate etc.
+* There are also lots of pages with personal blogs. These seem very useful as they are written as long-form conversational streams of consciousness. I think this data (compared to something like news) would help make an effective chatbot.
+* Other smaller items were lists of Tweets, IT how-to guides, horse racing tips, horoscopes etc.
+* Some texts are truncated by ellipses, and therefore unnatural (is this intentional?).
+* 1 porn item. You probably want to add オナニー (masturbation) to your porn word list as there is no context where that word does not refer to masturbation.
+* There is one item where a man says that he wants to die because his girlfriend broke up with him (line 155). Is this something we want to remove?
