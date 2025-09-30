@@ -1,8 +1,8 @@
 # release3_inspection
 ## Purpose of inspection
-We want to get a rough idea about the actual content of the cleaned verion of the 3rd data release. More specifically, for each language L we want to estimate the proportion of documents that are:
+We want to get a rough idea about the actual content of the cleaned version of the 3rd data release. More specifically, for each language L we want to estimate the proportion of documents that are:
 1) not in the language L,
-2) contain undesireble artifacts, 
+2) contain undesirable artifacts, 
 3) fully undesirable because they are mostly unnatural,
 4) undesirable porn texts.
 
