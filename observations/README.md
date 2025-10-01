@@ -47,3 +47,11 @@ Occasionally the first part contains traces of menus, while the second part cons
 * Some texts are truncated by ellipses, and therefore unnatural (is this intentional?).
 * 1 porn item. You probably want to add オナニー (masturbation) to your porn word list as there is no context where that word does not refer to masturbation.
 * There is one item where a man says that he wants to die because his girlfriend broke up with him (line 155). Is this something we want to remove?
+
+
+# Bhavitvya, [hin_Deva/batch0.tsv](../annot_round1/hin_Deva/batch0.tsv)
+
+* Lang id is perfect except for 2 instances where one of them has a lot of Chinese text and other has more English than Hindi
+* No porn
+* Some documents contain news snippets concatenated together, so natural/fluent at the sentence level but not "coherent".
+* A lot of documents contain “report”, “share”, “follow us” etc at the end which may be part of article and not boilerplate but I have still flagged them
