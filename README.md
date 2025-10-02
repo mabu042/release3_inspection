@@ -11,6 +11,7 @@ We want to get a rough idea about the actual content of the cleaned version of t
 *  5 batches of random documents per language,
 *  200 documents per batch,
 *  full text for texts shorter than 1500 characters, otherwise the first 500 characters, the last 500 characters and 500 characters from the middle of the text.
+
 NB!  "... (N chars skipped) ..." is shown instead of the skipped text, it is not part of the original text and should not be annotated as text artifacts or unnaturalness. 
 
 ## Inspection
