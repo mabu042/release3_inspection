@@ -12,7 +12,7 @@ We want to get a rough idea about the actual content of the cleaned version of t
 *  200 documents per batch,
 *  full text for texts shorter than 1500 characters, otherwise the first 500 characters, the last 500 characters and 500 characters from the middle of the text.
 
-NB!  "... (N chars skipped) ..." is shown instead of the skipped text, it is not part of the original text and should not be annotated as text artifacts or unnaturalness. 
+**NB:**  "... (N chars skipped) ..." is shown instead of the skipped text, it is not part of the original text and should not be annotated as text artifacts or unnaturalness. 
 
 ## Inspection
 Please select one or more batches for a language you want to inspect. "Reserve" the batch(es) by filling in your name in the [spreadsheet](https://docs.google.com/spreadsheets/d/1-p0pFSm2uPCxNfvXXizNuHfhzo_NAN9LX945M-Q-hQA/edit?usp=sharing).
