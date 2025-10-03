@@ -57,7 +57,7 @@ Occasionally the first part contains traces of menus, while the second part cons
 * A lot of documents contain “report”, “share”, “follow us” etc at the end which may be part of article and not boilerplate but I have still flagged them
 
 
-# Marta, [spa_Latn/batch1.tsv](../annot_round1/spa_Latn/batch1.tsv)
+# Pablo, [spa_Latn/batch1.tsv](../annot_round1/spa_Latn/batch1.tsv)
 
 - Language tagging is always correct
 - Boilerplates are common
