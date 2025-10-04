@@ -55,3 +55,29 @@ Occasionally the first part contains traces of menus, while the second part cons
 * No porn
 * Some documents contain news snippets concatenated together, so natural/fluent at the sentence level but not "coherent".
 * A lot of documents contain “report”, “share”, “follow us” etc at the end which may be part of article and not boilerplate but I have still flagged them
+
+
+# Pablo, [spa_Latn/batch1.tsv](../annot_round1/spa_Latn/batch1.tsv)
+
+- Language tagging is always correct
+- Boilerplates are common
+- There are many documents with incomplete text caused by CSS aesthetic limitator, with "..." at the end
+- No porn, only a chat with near hot commentaries
+- Some undesired text from the typical list of related posts/news 
+
+# Pablo, [ita_Latn/batch0.tsv](../annot_round1/ita_Latn/batch0.tsv)
+
+- Language tagging is correct but there is 1 multilingual document
+- 1 translated
+- 3 documents with explicit porn content
+
+
+# Pablo, [glg_Latn/batch0.tsv](../annot_round1/glg_Latn/batch0.tsv)
+
+- Language detection is surprisingly always correct
+- some sticked words
+- 2 mixed documents spa-glg
+
+# Pablo, [ast_Latn/batch0.tsv](../annot_round1/ast_Latn/batch0.tsv)
+
+- There are many documents in Spanish, some colloquial Spanish documents and some village names are mistaken for Asturian.
