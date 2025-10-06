@@ -96,6 +96,28 @@ Occasionally the first part contains traces of menus, while the second part cons
 
 - There are many documents in Spanish, some colloquial Spanish documents and some village names are mistaken for Asturian.
 
+# Maja, [hrv_Latn/batch0.tsv](../annot_round1/hrv_Latn/batch0.tsv), [batch1.tsv](../annot_round1/hrv_Latn/batch1.tsv)
+
+* Language tagging is mostly correct, although there are snippets of other languages in some documents (e.g. disclaimers in English; Slovenian menu items under text published in Croatian)
+* Incorrectly tagged documents are mostly Bosnian, occasionally Serbian (apart from morphology and vocabulary, this can sometimes be automatically differentiated by web domain artifacts in the text (.ba for Bosnian, .rs for Serbian))
+* Most frequent artifact: ``...(n characters skipped)...``
+* Other frequent artifacts: share/comment buttons, links to unrelated news headlines
+* (Note that the _Artifacts_ tag covers a spectrum from mostly harmless and easily cleaned (share/comment/read more), to more egregious (unrelated news headlines interjected in running text))
+* Roughly 1/4 of documents consists of product descriptions and lists of news headlines, that make for suboptimal train/test data
+* 3/400 porn, in the form of salacious personal ads
+* One curious document in batch1 (no. 92), written in a highly misleading Croatian dialect. Marked as 0, as it's a supremely unhelpful outlier for train/test.
+
+# Maja, [bos_Latn/batch0.tsv](../annot_round1/bos_Latn/batch0.tsv), [batch1.tsv](../annot_round1/bos_Latn/batch1.tsv)
+
+* Language tagging not entirely reliable: 112/400 correctly classified
+* Documents most often (272/400) Serbian rather than Bosnian (main indicators: morphology of _jat_, future tenses; occasional Cyrillic, web domain artifacts (.rs)) -- on a positive note, these documents can directly contribute to the Serbian batch.
+* Handful of documents in Croatian (10/400), Montenegrin (6/400)
+* Snippets of other languages in some correctly classified documents (usually Serbian; some English disclaimers)
+* Handful of Bosnian documents with Cyrillic, Arabic segments
+* Most frequent artifact: ``...(n characters skipped)...``
+* Only one instance of unicode trouble; in particular, with _đ_
+* No documents containing porn, but 3/400 documents feature explicit language
+
 # Michal Novák, [slk_Latn/batch1.tsv](../annot_round1/slk_Latn/batch1.tsv)
 
 * Lang id is almost perfect. In addition to those I labeled not to be in Slovak, a few documents contain just one or several sentences in a different language:
