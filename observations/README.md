@@ -95,3 +95,16 @@ Occasionally the first part contains traces of menus, while the second part cons
 # Pablo, [ast_Latn/batch0.tsv](../annot_round1/ast_Latn/batch0.tsv)
 
 - There are many documents in Spanish, some colloquial Spanish documents and some village names are mistaken for Asturian.
+
+# Michal Novák, [slk_Latn/batch1.tsv](../annot_round1/slk_Latn/batch1.tsv)
+
+* Lang id is almost perfect. In addition to those I labeled not to be in Slovak, a few documents contain just one or several sentences in a different language:
+    * Czech: 33, 79, 162
+    * English: 47
+    * Latin: 75
+    * Russian: 179
+* 0 porn documents.
+* it wasn't clear from the instructions how to treat texts:
+    * with no diacritics (14, 21, 96, 109, 129, 156, 158, 184). This is typical for Slovak chat/forum language, which also often contains typos and grammatical mistakes. But I do not consider it unnatural.
+    * with completely grammatical and fluent boilerplate, which often appears on news and e-commerce pages
+    * that consist of multiple non-coherent parts
