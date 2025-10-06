@@ -95,3 +95,14 @@ Occasionally the first part contains traces of menus, while the second part cons
 # Pablo, [ast_Latn/batch0.tsv](../annot_round1/ast_Latn/batch0.tsv)
 
 - There are many documents in Spanish, some colloquial Spanish documents and some village names are mistaken for Asturian.
+
+# Maja, [hrv_Latn/batch0.tsv](../annot_round1/hrv_Latn/batch0.tsv), [batch1.tsv](../annot_round1/hrv_Latn/batch1.tsv)
+
+* Language tagging is mostly correct, although there are snippets of other languages in some documents (e.g. disclaimers in English; Slovenian menu items under text published in Croatian)
+* Incorrectly tagged documents are mostly Bosnian, occasionally Serbian (apart from grammar and vocabulary, sometimes automatically differentiable by mentions of web domains)
+* Most frequent artifact: ``...(n characters skipped)...``
+* Other frequent artifacts: share/comment buttons, links to unrelated news headlines
+* (Note that the Artifacts tag covers a spectrum from mostly harmless and easily cleaned (share/comment/read more), to more egregious (unrelated news headlines interjected in running text))
+* Roughly 1/4 of documents consists of product descriptions and lists of news headlines, that make for suboptimal train/test data
+* 3/300 porn, in the form of salacious personal ads
+* One curious document in batch1 (92), written in a highly misleading Croatian dialect. Marked as 0.
